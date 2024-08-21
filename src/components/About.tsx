@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser, faGraduationCap } from '@fortawesome/free-solid-svg-icons';
 import { useAnimateOnScroll } from '../Utils';
@@ -36,11 +37,11 @@ const About: React.FC = () => {
                 className="col-lg-4 col-md-5 col-sm-6 col-8 mb-4 rvl-animate"
                 data-animate-effect="fadeIn"
           >
-            <a href="about/members.php" className="rvl-block rvl-block-btn p-sm-5 p-4">
+            <Link to="/member" className="rvl-block rvl-block-btn p-sm-5 p-4">
               <FontAwesomeIcon icon={faUser} className="rvl-icon fa-4x" />
               <span className="rvl-counter mx-auto">10</span>
               <p className="lead">Members</p>
-            </a>
+            </Link>
           </div>
           <div 
                 ref={onScrollEl}
