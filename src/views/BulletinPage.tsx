@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useAnimateOnScroll, loadJson } from '../Utils';
-
+import Table from 'react-bootstrap/Table';
 
 interface Record {
     present_date: string;
@@ -55,31 +55,31 @@ const BulletinPage: React.FC = () => {
             className="table-responsive-sm rvl-animate"
             data-animate-effect="fadeIn"
         >
-          <table className="table table-striped">
-            <thead>
-              <tr>
-                <th scope="col">Title</th>
-                <th scope="col">Name</th>
-                <th scope="col">Date</th>
-              </tr>
-            </thead>
-            <tbody>
-                {meetingRecords ? (
-                    meetingRecords.data.filter((record) => record.is_show === true)
-                                .map((record, index) => (
-                                <tr key={index}>
-                                    <td>{record.topic}</td>
-                                    <td>{record.presenter}</td>
-                                    <td>{record.present_date}</td>
-                                </tr>
-                    ))
-                ) : (
+            <Table striped>
+                <thead>
                     <tr>
-                        <td colSpan={3}>Loading...</td>
+                        <th scope="col">Title</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Date</th>
                     </tr>
-                )}
-            </tbody>
-          </table>
+                </thead>
+                <tbody>
+                    {meetingRecords ? (
+                        meetingRecords.data.filter((record) => record.is_show === true)
+                                    .map((record, index) => (
+                                    <tr key={index}>
+                                        <td>{record.topic}</td>
+                                        <td>{record.presenter}</td>
+                                        <td>{record.present_date}</td>
+                                    </tr>
+                        ))
+                    ) : (
+                        <tr>
+                            <td colSpan={3}>Loading...</td>
+                        </tr>
+                    )}
+                </tbody>
+            </Table>
         </div>
       </div>
     </section>
