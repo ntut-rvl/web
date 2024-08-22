@@ -16,61 +16,61 @@
             "present_date": "2024/09/20",
             "presenter": "媃安",
             "topic": "Unsupervised Road Anomaly Detection with Language Anchors",
-            "is_show": false
+            "is_show": true
         },
         {
             "present_date": "2024/09/20",
             "presenter": "泳禎",
             "topic": "Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization",
-            "is_show": false
+            "is_show": true
         },
         {
             "present_date": "2024/09/20",
             "presenter": "Munir",
             "topic": "SGDViT: Saliency-Guided Dynamic Vision Transformer for UAV Tracking",
-            "is_show": false
+            "is_show": true
         },
         {
             "present_date": "2024/09/27",
             "presenter": "鈺翔",
             "topic": "EasyGaze3D: Towards Effective and Flexible 3D Gaze Estimation from a Single RGB Camera",
-            "is_show": false
+            "is_show": true
         },
         {
             "present_date": "2024/09/27",
             "presenter": "明躍",
             "topic": "Road Anomaly Segmentation Based on Pixel-wise Logit Variance with Iterative Background Highlighting",
-            "is_show": false
+            "is_show": true
         },
         {
             "present_date": "2024/10/04",
             "presenter": "婷婷",
             "topic": "Semantics-aware Exploration and Inspection Path Planning",
-            "is_show": false
+            "is_show": true
         },
         {
             "present_date": "2024/10/04",
             "presenter": "士涵",
             "topic": "Accurate and Interactive Visual-Inertial Sensor Calibration with Next-Best-View and Next-Best-Trajectory Suggestion",
-            "is_show": false
+            "is_show": true
         },
         {
             "present_date": "2024/10/11",
             "presenter": "柏勳",
             "topic": "Multimodal Image Registration for GPS-denied UAV Navigation Based on Disentangled Representations",
-            "is_show": false
+            "is_show": true
         },
         {
             "present_date": "2024/10/11",
             "presenter": "欣玲",
             "topic": "End-to-End Learning of Behavioural Inputs for Autonomous Driving in Dense Traffic",
-            "is_show": false
+            "is_show": true
         },
         {
             "present_date": "2024/10/18",
             "presenter": "宥羽",
             "topic": "Unsupervised RGB-to-Thermal Domain Adaptation via Multi-Domain Attention Network",
-            "is_show": false
+            "is_show": true
         },
         {
             "present_date": "2024/10/18",
