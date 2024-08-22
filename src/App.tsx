@@ -12,7 +12,7 @@ function App() {
 
     return (
         <HelmetProvider>
-            <Router basename="/ntut-rvl">
+            <Router basename="/NTUT-RVL">
                 <Layout>
                     <Routes>
                         <Route path="/" element={<HomePage />} />
