@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
-    base: "/ntut-rvl",
+    base: "/NTUT-RVL",
     plugins: [
         alias(),
         react(),
@@ -58,9 +58,5 @@ export default defineConfig({
         rollupOptions: {
             external: ['react-helmet'],
         },
-    },
-    server: {
-        host: '0.0.0.0',
-        port: 5173,
     }
 })
