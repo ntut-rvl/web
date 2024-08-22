@@ -25,7 +25,7 @@ const Professor: React.FC = () => {
         >
           <div className="col-xl-5 col-lg-6 col-md-8 col-sm-10 col-12 mx-auto">
             <div className="rvl-block rvl-block-light p-5">
-              <img className="rvl-avatar mb-4" src="/assets/images/professor.jpg" height="150" width="150" alt="Professor" />
+              <img className="rvl-avatar mb-4" src="./assets/images/professor.jpg" height="150" width="150" alt="Professor" />
               <p className="rvl-avatar-name mb-0">林惠勇</p> 
               <p className="rvl-avatar-name">Huei-Yung Lin</p>
               <p className="mb-0">Department of Electrical Engineering</p>
