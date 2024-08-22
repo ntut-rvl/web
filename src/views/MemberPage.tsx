@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import { useAnimateOnScroll, loadJson } from '../Utils';
+import { useAnimateOnScroll } from '../Utils';
+import MemberData from '../assets/members.json';
 
 interface Member {
     name: string;
@@ -12,22 +13,14 @@ interface Member {
     is_graduated: boolean,
 }
 
-interface Members {
-    data: Member[]
-}
+type Members = Member[];
 
 const MemberPage: React.FC = () => {
     const onScrollEl = useAnimateOnScroll();
     const [members, setMembers] = useState<Members | null>(null);
     useEffect(() => {
-        loadJson<Members>('/members.json')
-            .then((jsonData) => {
-                console.log(jsonData)
-                setMembers(jsonData)
-            })
-            .catch((error) => console.error('Failed to load presentations:', error));
+        setMembers(MemberData.data);
     }, []);
-    console.log(members);
 
     return (
         <section className="rvl-section rvl-bg-gray rvl-slant rvl-slant-white text-center">
@@ -49,7 +42,7 @@ const MemberPage: React.FC = () => {
                 className="row rvl-animate"
                 data-animate-effect="fadeIn"
             >
-                {members ? members.data.map((member, index) => (
+                {members ? members.map((member, index) => (
                     <div className="col-lg-4 col-md-6 col-12 my-5" key={index}>
                         <div className="rvl-block p-5">
                             <img
