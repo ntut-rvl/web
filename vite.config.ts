@@ -54,7 +54,6 @@ export default defineConfig({
         })
     ],
     build: {
-        outDir: './build',
         manifest: true,
         rollupOptions: {
             external: ['react-helmet'],
