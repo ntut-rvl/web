@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
-import { useAnimateOnScroll, loadJson } from '../Utils';
+import { useAnimateOnScroll } from '../Utils';
 import Table from 'react-bootstrap/Table';
+import MeetingRecordsData from '../assets/meeting_records.json';
 
 interface Record {
     present_date: string;
@@ -9,17 +10,17 @@ interface Record {
     is_show: boolean;
 }
 
-interface Records {
-    data: Record[];
-}
-
+type Records = Record[];
 
 const BulletinPage: React.FC = () => {
     const [meetingRecords, setMeetingRecords] = useState<Records | null>(null);
     useEffect(() => {
-        loadJson<Records>('/meeting_records.json')
-            .then((jsonData) => setMeetingRecords(jsonData))
-            .catch((error) => console.error('Failed to load presentations:', error));
+        const sortedRecords = MeetingRecordsData.data
+            .sort((a: Record, b: Record) => new Date(a.present_date).getTime() - new Date(b.present_date).getTime())
+            .filter((record: Record) => record.is_show) // 過濾出 is_show 為 true 的記錄
+            .slice(0, 10); // 取前 10 筆資料
+
+        setMeetingRecords(sortedRecords);
     }, []);
 
     const onScrollEl = useAnimateOnScroll();
@@ -65,13 +66,12 @@ const BulletinPage: React.FC = () => {
                 </thead>
                 <tbody>
                     {meetingRecords ? (
-                        meetingRecords.data.filter((record) => record.is_show === true)
-                                    .map((record, index) => (
-                                    <tr key={index}>
-                                        <td>{record.topic}</td>
-                                        <td>{record.presenter}</td>
-                                        <td>{record.present_date}</td>
-                                    </tr>
+                        meetingRecords.map((record: Record, index: number) => (
+                            <tr key={index}>
+                                <td>{record.topic}</td>
+                                <td>{record.presenter}</td>
+                                <td>{record.present_date}</td>
+                            </tr>
                         ))
                     ) : (
                         <tr>

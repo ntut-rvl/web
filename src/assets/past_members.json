@@ -1,0 +1,1136 @@
+[
+    {
+        "id": 1,
+        "name": "黃偉菘",
+        "eng_name": "Wei-Sung Huang",
+        "grad": 93,
+        "degree": "Master",
+        "statue": "凌華科技",
+        "thesis": "小型足球機器人之即時視覺系統"
+    },
+    {
+        "id": 2,
+        "name": "李坤治",
+        "eng_name": "Kun-Jhih Li",
+        "grad": 93,
+        "degree": "Master",
+        "statue": "久元電子",
+        "thesis": "利用影像動態模糊進行車輛速度之偵測"
+    },
+    {
+        "id": 3,
+        "name": "陳炫良",
+        "eng_name": "Syuan-Liang Chen",
+        "grad": 93,
+        "degree": "Master",
+        "statue": "工研院資通所",
+        "thesis": "由單張或多張未校正影像進行建築物三維電腦模型重建"
+    },
+    {
+        "id": 4,
+        "name": "黃正龍",
+        "eng_name": "Zheng-Long Huang",
+        "grad": 93,
+        "degree": "Master",
+        "statue": "廣達",
+        "thesis": "動態車輛之車牌辨識系統"
+    },
+    {
+        "id": 5,
+        "name": "林任宏",
+        "eng_name": "Jen-Hung Lin",
+        "grad": 94,
+        "degree": "Master",
+        "statue": "牧德科技",
+        "thesis": "以視覺為基礎之移動自主定位系統"
+    },
+    {
+        "id": 6,
+        "name": "梁松峻",
+        "eng_name": "Sung-Chun Liang",
+        "grad": 94,
+        "degree": "Master",
+        "statue": "瑞士伯恩大學博士深造",
+        "thesis": "利用即時影像擷取及註冊進行物體之三維重建"
+    },
+    {
+        "id": 7,
+        "name": "蔡博文",
+        "eng_name": "Bo-Wen Tsai",
+        "grad": 94,
+        "degree": "Master",
+        "statue": "華寶通訊",
+        "thesis": "利用動態影像進行物體追蹤與速度量測"
+    },
+    {
+        "id": 8,
+        "name": "何泉億",
+        "eng_name": "Chuan-Yi Ho",
+        "grad": 94,
+        "degree": "Master",
+        "statue": "安泰人壽",
+        "thesis": "基於單眼視覺及水平測邊之三維重建系統"
+    },
+    {
+        "id": 9,
+        "name": "魏壯宇",
+        "eng_name": "Juang-Yu Wei",
+        "grad": 94,
+        "degree": "Master",
+        "statue": "宏達電",
+        "thesis": "應用於巷道監控中移動物體辨識與追蹤系統之開發"
+    },
+    {
+        "id": 10,
+        "name": "林伯諭",
+        "eng_name": "Bo-Yu Lin",
+        "grad": 94,
+        "degree": "Master",
+        "statue": "和碩",
+        "thesis": "以影像為基礎之即時條碼掃瞄系統"
+    },
+    {
+        "id": 11,
+        "name": "張嘉宏",
+        "eng_name": "Chia-Hong Chang",
+        "grad": 95,
+        "degree": "Master",
+        "statue": "聯詠科技",
+        "thesis": "利用動態模糊影像進行物體速度及深度之測量"
+    },
+    {
+        "id": 12,
+        "name": "黃啟彰",
+        "eng_name": "Chi-Chang Huang",
+        "grad": 95,
+        "degree": "Master",
+        "statue": "飛利浦建興",
+        "thesis": "利用全方位攝影機進行移動物體座標定位"
+    },
+    {
+        "id": 13,
+        "name": "古凱達",
+        "eng_name": "Kai-Da Gu",
+        "grad": 96,
+        "degree": "Master",
+        "statue": "樺漢",
+        "thesis": "基於實際相機模型之影像景深模擬"
+    },
+    {
+        "id": 14,
+        "name": "涂又仁",
+        "eng_name": "Yo-Jen Tu",
+        "grad": 96,
+        "degree": "Master",
+        "statue": "神基科技",
+        "thesis": "利用人臉及手勢辨識之人機介面"
+    },
+    {
+        "id": 15,
+        "name": "吳景仁",
+        "eng_name": "Jing-Ren Wu",
+        "grad": 96,
+        "degree": "Master",
+        "statue": "致茂電子",
+        "thesis": "以多視角剪影與立體視覺進行物體三維重建"
+    },
+    {
+        "id": 16,
+        "name": "余秉修",
+        "eng_name": "Ping-Hsiu Yu",
+        "grad": 96,
+        "degree": "Master",
+        "statue": "駿曦",
+        "thesis": "基於視覺外殼之絞接式物體動態三維重建方式"
+    },
+    {
+        "id": 17,
+        "name": "鍾元基",
+        "eng_name": "Yuan-Chi Chung",
+        "grad": 96,
+        "degree": "Master",
+        "statue": "Cadence",
+        "thesis": "基於全方位視覺之機器人同步定位及建圖"
+    },
+    {
+        "id": 18,
+        "name": "范姜文成",
+        "eng_name": "Wen-Cheng Fan Chiang",
+        "grad": 97,
+        "degree": "Master",
+        "statue": "聯新醫院",
+        "thesis": "基於文件影像紋理特徵進行碎紙重建"
+    },
+    {
+        "id": 19,
+        "name": "張維哲",
+        "eng_name": "Wei-Zhe Chang",
+        "grad": 97,
+        "degree": "Master",
+        "statue": "宏碁",
+        "thesis": "立體顯影之高動態範圍影像合成"
+    },
+    {
+        "id": 20,
+        "name": "余孟勳",
+        "eng_name": "Meng-Shiun Yu",
+        "grad": 97,
+        "degree": "Master",
+        "statue": "耐能智慧",
+        "thesis": "結合全景與PTZ攝影機之視覺監控系統"
+    },
+    {
+        "id": 21,
+        "name": "高立煒",
+        "eng_name": "Li-Wei Kao",
+        "grad": 97,
+        "degree": "Master",
+        "statue": "群聯電子",
+        "thesis": "結合視覺與紅外線感測之機器人自我定位及路徑規劃系統"
+    },
+    {
+        "id": 22,
+        "name": "陳鼎文",
+        "eng_name": "Ting-Wen Chen",
+        "grad": 98,
+        "degree": "Master",
+        "statue": "晶睿通訊",
+        "thesis": "基於單一攝影機之人體三維動作擷取及其於擴增實境之應用"
+    },
+    {
+        "id": 23,
+        "name": "劉庭宏",
+        "eng_name": "Ting-Hung Liu",
+        "grad": 98,
+        "degree": "Master",
+        "statue": "中華電信研究院",
+        "thesis": "以繪圖晶片加速方式進行多視角影像之前景擷取及三維重建"
+    },
+    {
+        "id": 24,
+        "name": "陳永維",
+        "eng_name": "Yung-Wei Chen",
+        "grad": 98,
+        "degree": "Master",
+        "statue": "台大博士班",
+        "thesis": "基於繪圖處理器之視覺系統開發及其於機器手臂姿態估測之應用"
+    },
+    {
+        "id": 25,
+        "name": "陳奎呈",
+        "eng_name": "Kuei-Cheng Chen",
+        "grad": 98,
+        "degree": "Master",
+        "statue": "HTC 宏達電",
+        "thesis": "應用於公路之多前車偵測及追蹤系統"
+    },
+    {
+        "id": 26,
+        "name": "王鴻嘉",
+        "eng_name": "Hung-Chia Wang",
+        "grad": 98,
+        "degree": "Master",
+        "statue": "群聯",
+        "thesis": "以模糊測距移除高動態範圍影像之鬼影"
+    },
+    {
+        "id": 27,
+        "name": "蕭郁樺",
+        "eng_name": "Yu-Hua Xiao",
+        "grad": 99,
+        "degree": "Master",
+        "statue": "馬自達汽車",
+        "thesis": "以非均勻三維取樣表示法之建構進行自由視角影像之合成"
+    },
+    {
+        "id": 28,
+        "name": "林品芝",
+        "eng_name": "Pin-Zhi Lin",
+        "grad": 99,
+        "degree": "Master",
+        "statue": "芯鼎科技",
+        "thesis": "基於影像灰階量化程度之階層式立體匹配演算法"
+    },
+    {
+        "id": 29,
+        "name": "鄒嘉恆",
+        "eng_name": "Jia-Heng Zou",
+        "grad": 99,
+        "degree": "Master",
+        "statue": "承宏科技",
+        "thesis": "移動機器人之自主導航及辨識系統之研究"
+    },
+    {
+        "id": 30,
+        "name": "賈孟軒",
+        "eng_name": "Meng-Hsuan Chia",
+        "grad": 99,
+        "degree": "Master",
+        "statue": "QNAP 威聯通",
+        "thesis": "基於三維模型之形變進行新視角影像之合成"
+    },
+    {
+        "id": 31,
+        "name": "林正祐",
+        "eng_name": "Cheng-You Lin",
+        "grad": 99,
+        "degree": "Master",
+        "statue": "群創",
+        "thesis": "利用移動相機所產生之立體視覺進行室內之三維模型重建"
+    },
+    {
+        "id": 32,
+        "name": "謝家豪",
+        "eng_name": "Chia-Hao Hsieh",
+        "grad": 99,
+        "degree": "Master",
+        "statue": "台灣積體電路",
+        "thesis": "基於深度資訊及內容的影片大小調整系統"
+    },
+    {
+        "id": 33,
+        "name": "黃南錡",
+        "eng_name": "Nan-Chi Huang",
+        "grad": 100,
+        "degree": "Master",
+        "statue": "聯發科",
+        "thesis": "字元辨識系統之演算法開發及嵌入式平台實現"
+    },
+    {
+        "id": 34,
+        "name": "黃智勇",
+        "eng_name": "Chih-Yung Huang",
+        "grad": 100,
+        "degree": "Master",
+        "statue": "一二三視",
+        "thesis": "基於顯著主體偵測之影片高寬比調整系統"
+    },
+    {
+        "id": 35,
+        "name": "李柏翰",
+        "eng_name": "Po-Han Li",
+        "grad": 100,
+        "degree": "Master",
+        "statue": "盟創科技",
+        "thesis": "基於多視角影像擷取之三維模型重建系統開發"
+    },
+    {
+        "id": 36,
+        "name": "黃文采",
+        "eng_name": "Wen-Tsai Huang",
+        "grad": 100,
+        "degree": "Master",
+        "statue": "采富電子",
+        "thesis": "利用影像及深度資訊之移動平台自主定位技術"
+    },
+    {
+        "id": 37,
+        "name": "王民良",
+        "eng_name": "Min-Liang Wang",
+        "grad": 100,
+        "degree": "Doctor",
+        "statue": "台灣骨王",
+        "thesis": "反射折射式攝影機於地方辨識和三維場景重建之研究"
+    },
+    {
+        "id": 38,
+        "name": "周昕翰",
+        "eng_name": "Xin-Han Chou",
+        "grad": 101,
+        "degree": "Master",
+        "statue": "集邦",
+        "thesis": "以影像失焦之像素強度分佈進行場景深度估測與影像品質評估"
+    },
+    {
+        "id": 39,
+        "name": "陳柏任",
+        "eng_name": "Po-Jen Chen",
+        "grad": 101,
+        "degree": "Master",
+        "statue": "QNAP 威聯通",
+        "thesis": "基於非均值三維取樣表示法與點 基礎渲染技術之自由視角合成方法"
+    },
+    {
+        "id": 40,
+        "name": "林昱享",
+        "eng_name": "Yu-Hsiang Lin",
+        "grad": 101,
+        "degree": "Master",
+        "statue": "奇景光電",
+        "thesis": "基於全方位影像之場景變化偵測與拓墣地圖之建構"
+    },
+    {
+        "id": 41,
+        "name": "許晉瑜",
+        "eng_name": "Chin-Yu Hsu",
+        "grad": 101,
+        "degree": "Master",
+        "statue": "完美移動",
+        "thesis": "利用局部特徵群聚分析偵測影像之特定結構區域"
+    },
+    {
+        "id": 42,
+        "name": "蔡君龍",
+        "eng_name": "Jiun-Lung Tsai",
+        "grad": 102,
+        "degree": "Master",
+        "statue": "奇景光電",
+        "thesis": "利用單一相機視角平行且共平面轉動之 多重基準線立體視覺技術"
+    },
+    {
+        "id": 43,
+        "name": "蔣泳洋",
+        "eng_name": "Yung-Yang Chiang",
+        "grad": 102,
+        "degree": "Master",
+        "statue": "和碩",
+        "thesis": "利用標準模型之形變及實體輪廓套合進 行物體三維模型之重建"
+    },
+    {
+        "id": 44,
+        "name": "何建興",
+        "eng_name": "Chieh-Hsing He",
+        "grad": 102,
+        "degree": "Master",
+        "statue": "鴻海",
+        "thesis": "藉由實景影像特徵與模擬環境資訊之比對建立移動平台之行走路徑"
+    },
+    {
+        "id": 45,
+        "name": "康圃銓",
+        "eng_name": "Pu-Chuan Kang",
+        "grad": 102,
+        "degree": "Master",
+        "statue": "堤維西交通",
+        "thesis": "具景深與光圈適應性之智慧型對焦"
+    },
+    {
+        "id": 46,
+        "name": "楊世夆",
+        "eng_name": "Shih-Feng Yang",
+        "grad": 102,
+        "degree": "Master",
+        "statue": "啟發科技",
+        "thesis": "整合電腦視覺與電磁技術之手術器械三維定位及追蹤系統"
+    },
+    {
+        "id": 47,
+        "name": "黃瑞雯",
+        "eng_name": "Jui-Wen Huang",
+        "grad": 102,
+        "degree": "Master",
+        "statue": "聯詠科技",
+        "thesis": "以減低空間取樣之方式進行高動態範圍影像之合成"
+    },
+    {
+        "id": 48,
+        "name": "莊曜誠",
+        "eng_name": "Yao-Cheng Chuang",
+        "grad": 102,
+        "degree": "Master",
+        "statue": "鴻海",
+        "thesis": "基於三維建模與多視角影像擷取之物體三維定位及追蹤技術"
+    },
+    {
+        "id": 49,
+        "name": "陳立奇",
+        "eng_name": "Li-Qi Chen",
+        "grad": 102,
+        "degree": "Master",
+        "statue": "光寶科技",
+        "thesis": "運用於改善人類視覺色彩辨識力異常之影像調整與強化技術"
+    },
+    {
+        "id": 50,
+        "name": "高崇傑",
+        "eng_name": "Chung-Chieh Kao",
+        "grad": 103,
+        "degree": "Master",
+        "statue": "聯發科",
+        "thesis": "適用於高動態範圍影像之立體匹配技術"
+    },
+    {
+        "id": 51,
+        "name": "姚家瑋",
+        "eng_name": "Chia-Wei Yao",
+        "grad": 103,
+        "degree": "Master",
+        "statue": "Moxa 四零四科技",
+        "thesis": "利用場景辨識與拓樸地圖之車載導航輔助技術"
+    },
+    {
+        "id": 52,
+        "name": "廖裕銘",
+        "eng_name": "Yu-Ming Liao",
+        "grad": 103,
+        "degree": "Master",
+        "statue": "奇景光電",
+        "thesis": "基於遠近視角變換之影像擷取實現互動式物體尺寸與距離估測系統"
+    },
+    {
+        "id": 53,
+        "name": "劉亞帆",
+        "eng_name": "Ya-Fan Liu",
+        "grad": 104,
+        "degree": "Master",
+        "statue": "點旭",
+        "thesis": "基於像素空間與亮度值相關性之影像動態範圍擴增技術"
+    },
+    {
+        "id": 54,
+        "name": "陳妍如",
+        "eng_name": "Yan-Ru Chen",
+        "grad": 104,
+        "degree": "Master",
+        "statue": "華寶通訊",
+        "thesis": "基於標準模型與套合進行C-arm影像立體模型之三維重建"
+    },
+    {
+        "id": 55,
+        "name": "何承祐",
+        "eng_name": "Cheng-Yu Ho",
+        "grad": 104,
+        "degree": "Master",
+        "statue": "威盛電子",
+        "thesis": "結合動態車牌辨識之智慧路拱系統設計"
+    },
+    {
+        "id": 56,
+        "name": "陳昱廷",
+        "eng_name": "Yu-Ting Chen",
+        "grad": 104,
+        "degree": "Master",
+        "statue": "慧榮科技",
+        "thesis": "利用改變焦距輔助立體影像匹配"
+    },
+    {
+        "id": 57,
+        "name": "彭信忠",
+        "eng_name": "Xin-Zhong Peng",
+        "grad": 104,
+        "degree": "Master",
+        "statue": "台積電",
+        "thesis": "基於光流法避障及路徑規劃之四旋翼自主導航研究"
+    },
+    {
+        "id": 58,
+        "name": "許智宏",
+        "eng_name": "Chih-Hung Hsu",
+        "grad": 104,
+        "degree": "Master",
+        "statue": "慧榮科技",
+        "thesis": "結合街景影像比對與地理資訊之視覺導覽輔助技術"
+    },
+    {
+        "id": 59,
+        "name": "鄭蓋聲",
+        "eng_name": "Kai-Sheng Cheng",
+        "grad": 105,
+        "degree": "Master",
+        "statue": "Cadence",
+        "thesis": "混合區域性特徵及全域性驗證的三維辨識系統"
+    },
+    {
+        "id": 60,
+        "name": "鄒育淵",
+        "eng_name": "Yu-Yuan Tsou",
+        "grad": 105,
+        "degree": "Master",
+        "statue": "大心電子",
+        "thesis": "基於轉動攝影系統之動態三維場景重建"
+    },
+    {
+        "id": 61,
+        "name": "施建合",
+        "eng_name": "Jian-He Shi",
+        "grad": 105,
+        "degree": "Master",
+        "statue": "華碩科技 (研發替代役)",
+        "thesis": "車載攝影系統之交通標誌辨識技術開發"
+    },
+    {
+        "id": 62,
+        "name": "梁世承",
+        "eng_name": "Shih-Cheng Liang",
+        "grad": 105,
+        "degree": "Master",
+        "statue": "華碩科技 (研發替代役)",
+        "thesis": "應用於物件抓取之三維視覺檢測技術開發"
+    },
+    {
+        "id": 63,
+        "name": "戴俊旻",
+        "eng_name": "Jyun-Ming Dai",
+        "grad": 106,
+        "degree": "Master",
+        "statue": "聯發科",
+        "thesis": "利用路面辨識技術於路徑推薦系統之設計研究"
+    },
+    {
+        "id": 64,
+        "name": "葉昀嘉",
+        "eng_name": "Yun-Jia Ye",
+        "grad": 106,
+        "degree": "Master",
+        "statue": "和碩科技 (研發替代役)",
+        "thesis": "基於RGB-D攝影機場景重建及定位之擴增時境系統"
+    },
+    {
+        "id": 65,
+        "name": "許志磊",
+        "eng_name": "Jhih-Lei Syu",
+        "grad": 106,
+        "degree": "Master",
+        "statue": "HTC 宏達電 (研發替代役)",
+        "thesis": "利用RGB-D攝影機及離散邊緣點之視覺里程計"
+    },
+    {
+        "id": 66,
+        "name": "黃書君",
+        "eng_name": "Shu-Jun Huang",
+        "grad": 106,
+        "degree": "Master",
+        "statue": "和碩科技 (研發替代役)",
+        "thesis": "結合影像輪廓層次及深度學習之交通標誌辨識系統"
+    },
+    {
+        "id": 67,
+        "name": "吳律廷",
+        "eng_name": "Lu-Ting Wu",
+        "grad": 106,
+        "degree": "Master",
+        "statue": "慧榮",
+        "thesis": "基於光流及深度學習的超車偵測技術"
+    },
+    {
+        "id": 68,
+        "name": "張琮鴻",
+        "eng_name": "Cong Hung Do",
+        "grad": 106,
+        "degree": "Master",
+        "statue": "Intel Vietnam",
+        "thesis": "利用類神經模糊邏輯輔助卡爾曼濾波器之即時定位與地圖構建"
+    },
+    {
+        "id": 69,
+        "name": "陳昱凱",
+        "eng_name": "Yu-Kai Chen",
+        "grad": 107,
+        "degree": "Master",
+        "statue": "力新",
+        "thesis": "基於多視角與CAD模型之物件姿態估測及隨機推疊物件抓取技術"
+    },
+    {
+        "id": 70,
+        "name": "劉哲安",
+        "eng_name": "Tse-An Liu",
+        "grad": 107,
+        "degree": "Master",
+        "statue": "日本 ZMP",
+        "thesis": "視覺慣性測量：用以強化即時定位與地圖構建"
+    },
+    {
+        "id": 71,
+        "name": "賴程威",
+        "eng_name": "Chen-Wei Lai",
+        "grad": 107,
+        "degree": "Master",
+        "statue": "和碩科技",
+        "thesis": "基於機器學習及追蹤法之前車碰撞偵測及其硬體實現"
+    },
+    {
+        "id": 72,
+        "name": "楊方寧",
+        "eng_name": "Fang-Ning Yang",
+        "grad": 107,
+        "degree": "Master",
+        "statue": "台灣微軟",
+        "thesis": "基於工業4.0 架構之網宇實體系統預測性維護大數據平台開發"
+    },
+    {
+        "id": 73,
+        "name": "吳承諺",
+        "eng_name": "Cheng-Yan Wu",
+        "grad": 107,
+        "degree": "Master",
+        "statue": "技嘉科技",
+        "thesis": "基於快速探索隨機樹之自主移動機器人室內未知環境探索"
+    },
+    {
+        "id": 74,
+        "name": "黃翊淳",
+        "eng_name": "Yi-Chun Huang",
+        "grad": 107,
+        "degree": "Master",
+        "statue": "友達光電",
+        "thesis": "多機器人協同探索與未知環境之完整覆蓋系統開發"
+    },
+    {
+        "id": 75,
+        "name": "黃柏源",
+        "eng_name": "Po-Yuan Huang",
+        "grad": 107,
+        "degree": "Master",
+        "statue": "中科院",
+        "thesis": "使用深度與影像的倒車障礙物警示系統"
+    },
+    {
+        "id": 76,
+        "name": "蔡國勝",
+        "eng_name": "Guo-Sheng Cai",
+        "grad": 107,
+        "degree": "Master",
+        "statue": null,
+        "thesis": "使用GPS和視覺里程計融合進行室外移動機器人定位"
+    },
+    {
+        "id": 77,
+        "name": "卓柏揚",
+        "eng_name": "Bo-Yang Zhuo",
+        "grad": 108,
+        "degree": "Master",
+        "statue": "大量科技",
+        "thesis": "結合光學變焦與立體視覺進行視差運算"
+    },
+    {
+        "id": 78,
+        "name": "王淮慕",
+        "eng_name": "Huai-Mu Wang",
+        "grad": 108,
+        "degree": "Master",
+        "statue": "旺宏",
+        "thesis": "基於深度學習的視覺辨識輔助自駕車的前方碰撞警示系統"
+    },
+    {
+        "id": 79,
+        "name": "孫國禎",
+        "eng_name": "Guo-Jhen Sun",
+        "grad": 108,
+        "degree": "Master",
+        "statue": "大立光",
+        "thesis": "基於機器學習之語義分割及幾何建模配對進行物件姿態估測及夾取"
+    },
+    {
+        "id": 80,
+        "name": "吳宗耀",
+        "eng_name": "Zong-Yao Wu",
+        "grad": 108,
+        "degree": "Master",
+        "statue": "和碩",
+        "thesis": "\t\n基於騎乘環境及生理資訊之自動變速設計及智慧自行車研製"
+    },
+    {
+        "id": 81,
+        "name": "曾世綸",
+        "eng_name": "Shih-Lun Tseng",
+        "grad": 108,
+        "degree": "Master",
+        "statue": "鴻齡",
+        "thesis": "利用少量資料進行特定魚類偵測之深度學習網路建置"
+    },
+    {
+        "id": 82,
+        "name": "葉天文",
+        "eng_name": "Tien-Wen Yeh",
+        "grad": 108,
+        "degree": "Master",
+        "statue": "工研院",
+        "thesis": "基於兩階段網路架構之紅綠燈偵測及辨識系統開發"
+    },
+    {
+        "id": 83,
+        "name": "李芝逸",
+        "eng_name": "Chih-Yi Li",
+        "grad": 108,
+        "degree": "Master",
+        "statue": "威盛電子",
+        "thesis": "運用深度學習技術進行空拍影像之車輛偵測及分類"
+    },
+    {
+        "id": 84,
+        "name": "陳怡姿",
+        "eng_name": "I-Tzu Chen",
+        "grad": 108,
+        "degree": "Master",
+        "statue": "佳能",
+        "thesis": "利用多光譜影像及機器學習技術進行番茄數量及成熟度估測"
+    },
+    {
+        "id": 85,
+        "name": "吳信鋐",
+        "eng_name": "Xin-Hong Wu",
+        "grad": 109,
+        "degree": "Master",
+        "statue": "聯詠科技",
+        "thesis": "台灣車牌追蹤資料庫2020之製作與測試評估"
+    },
+    {
+        "id": 86,
+        "name": "邱映綺",
+        "eng_name": "Ying-Chi Chiu",
+        "grad": 109,
+        "degree": "Master",
+        "statue": "緯創",
+        "thesis": null
+    },
+    {
+        "id": 87,
+        "name": "張濬識",
+        "eng_name": "Jun-Zhi Zhang",
+        "grad": 109,
+        "degree": "Master",
+        "statue": "敦泰電子",
+        "thesis": null
+    },
+    {
+        "id": 88,
+        "name": "林思妘",
+        "eng_name": "Ssu-Yun Lin",
+        "grad": 109,
+        "degree": "Master",
+        "statue": "緯穎科技",
+        "thesis": null
+    },
+    {
+        "id": 89,
+        "name": "董秉庭",
+        "eng_name": "Bing-Ting Dong",
+        "grad": 109,
+        "degree": "Master",
+        "statue": "萬潤科技",
+        "thesis": null
+    },
+    {
+        "id": 90,
+        "name": "高士峯",
+        "eng_name": "Shih-Feng Kao",
+        "grad": 109,
+        "degree": "Master",
+        "statue": "台積電",
+        "thesis": null
+    },
+    {
+        "id": 91,
+        "name": "劉奕廷",
+        "eng_name": "Yi-Ting Liu",
+        "grad": 109,
+        "degree": "Master",
+        "statue": "中華電信",
+        "thesis": null
+    },
+    {
+        "id": 92,
+        "name": "陳文倫",
+        "eng_name": "Tran Van Luan",
+        "grad": 109,
+        "degree": "Doctor",
+        "statue": "Eastern International University, Vietnam",
+        "thesis": null
+    },
+    {
+        "id": 93,
+        "name": "詹佳融",
+        "eng_name": "Jia-Rong Zhan",
+        "grad": 110,
+        "degree": "Master",
+        "statue": "奇景光電",
+        "thesis": null
+    },
+    {
+        "id": 94,
+        "name": "曾俊翰",
+        "eng_name": "Chun-Han Tseng",
+        "grad": 110,
+        "degree": "Master",
+        "statue": "奇景光電(研發替代役)",
+        "thesis": null
+    },
+    {
+        "id": 95,
+        "name": "謝博宇",
+        "eng_name": "Po-Yu Hsieh",
+        "grad": 110,
+        "degree": "Master",
+        "statue": "工研院(研發替代役)",
+        "thesis": null
+    },
+    {
+        "id": 96,
+        "name": "葉洺齊",
+        "eng_name": "Ming-Chi Yeh",
+        "grad": 110,
+        "degree": "Master",
+        "statue": "合勤",
+        "thesis": null
+    },
+    {
+        "id": 97,
+        "name": "張浚格",
+        "eng_name": "Chun-Ke Chang",
+        "grad": 110,
+        "degree": "Master",
+        "statue": "和碩",
+        "thesis": null
+    },
+    {
+        "id": 98,
+        "name": "何承學",
+        "eng_name": "Cheng-Hsueh Ho",
+        "grad": 110,
+        "degree": "Master",
+        "statue": "點序科技",
+        "thesis": null
+    },
+    {
+        "id": 99,
+        "name": "蔡沐雲",
+        "eng_name": "Mu-Yun Tsai",
+        "grad": 110,
+        "degree": "Master",
+        "statue": "友達光電",
+        "thesis": null
+    },
+    {
+        "id": 100,
+        "name": "吳鴻 ",
+        "eng_name": "Jason Wu",
+        "grad": 99,
+        "degree": "Master",
+        "statue": "現觀科技",
+        "thesis": null
+    },
+    {
+        "id": 101,
+        "name": "謝豐安",
+        "eng_name": "Feng-An Hsieh",
+        "grad": 111,
+        "degree": "Master",
+        "statue": "慧榮科技(研發替代役)",
+        "thesis": null
+    },
+    {
+        "id": 102,
+        "name": "沈宏澤",
+        "eng_name": "Hong-Ze Shen",
+        "grad": 111,
+        "degree": "Master",
+        "statue": "聯發科技(研發替代役)",
+        "thesis": null
+    },
+    {
+        "id": 103,
+        "name": "李俊毅",
+        "eng_name": "Jun-Yi Li",
+        "grad": 111,
+        "degree": "Master",
+        "statue": "群聯電子(研發替代役)",
+        "thesis": null
+    },
+    {
+        "id": 104,
+        "name": "李溢豪",
+        "eng_name": "Yi-Hao Li",
+        "grad": 111,
+        "degree": "Master",
+        "statue": "建興儲存(研發替代役)",
+        "thesis": null
+    },
+    {
+        "id": 105,
+        "name": "涂凱鈞",
+        "eng_name": "Kai-Chun Tu",
+        "grad": 111,
+        "degree": "Master",
+        "statue": "Foundi",
+        "thesis": null
+    },
+    {
+        "id": 106,
+        "name": "吳文嘉",
+        "eng_name": "Wun-Jia Wu",
+        "grad": 111,
+        "degree": "Master",
+        "statue": "聯詠",
+        "thesis": null
+    },
+    {
+        "id": 107,
+        "name": "林蕙芳",
+        "eng_name": "Huei-Fang Lin",
+        "grad": 111,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 108,
+        "name": "林依融",
+        "eng_name": "Yi-Rung Lin",
+        "grad": 111,
+        "degree": "Master",
+        "statue": "安矽思",
+        "thesis": null
+    },
+    {
+        "id": 109,
+        "name": "許采玉",
+        "eng_name": "Tsai-Yu Hsu",
+        "grad": 112,
+        "degree": "Master",
+        "statue": "聯發科",
+        "thesis": null
+    },
+    {
+        "id": 110,
+        "name": "林鈺琴",
+        "eng_name": "Yu-Chin Lin",
+        "grad": 112,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 111,
+        "name": "白筑安",
+        "eng_name": "Chu-An Pai",
+        "grad": 112,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 112,
+        "name": "黃馨瑩",
+        "eng_name": "Hsin-Ying Huang",
+        "grad": 112,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 113,
+        "name": "張凱倫",
+        "eng_name": "Kai-Lun Chang",
+        "grad": 112,
+        "degree": "Master",
+        "statue": "台積電(研發替代役)",
+        "thesis": null
+    },
+    {
+        "id": 114,
+        "name": "郭禮嘉",
+        "eng_name": "Li-Chia Kuo",
+        "grad": 112,
+        "degree": "Master",
+        "statue": "正文",
+        "thesis": null
+    },
+    {
+        "id": 115,
+        "name": "黃彥勛",
+        "eng_name": "Yan-Hsun Huang",
+        "grad": 112,
+        "degree": "Master",
+        "statue": "聯電(研發替代役)",
+        "thesis": null
+    },
+    {
+        "id": 116,
+        "name": "黃一釗",
+        "eng_name": "Yi-Chao Huang",
+        "grad": 112,
+        "degree": "Master",
+        "statue": "聯詠科技",
+        "thesis": null
+    },
+    {
+        "id": 117,
+        "name": "陳育鉉",
+        "eng_name": "Yu-Xuan Chen",
+        "grad": 112,
+        "degree": "Master",
+        "statue": "台積電(研發替代役)",
+        "thesis": null
+    },
+    {
+        "id": 118,
+        "name": "陳泳慈",
+        "eng_name": "Yong-Ci Chen",
+        "grad": 112,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 119,
+        "name": "楊淞淇",
+        "eng_name": "Sung-Chi Yang",
+        "grad": 112,
+        "degree": "Master",
+        "statue": "瀚宇彩晶",
+        "thesis": null
+    },
+    {
+        "id": 120,
+        "name": "蔡益昌",
+        "eng_name": "Yi-Chang Tsai",
+        "grad": 113,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 121,
+        "name": "蕭恒智",
+        "eng_name": "Heng-Chih Hsiao",
+        "grad": 113,
+        "degree": "Master",
+        "statue": "創未來科技(研發替代役)",
+        "thesis": null
+    },
+    {
+        "id": 122,
+        "name": "林敬倫",
+        "eng_name": "Ching-Lun Lin",
+        "grad": 113,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 123,
+        "name": "張席盛",
+        "eng_name": "Xi-Sheng Zhang",
+        "grad": 113,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 124,
+        "name": "康愷辰",
+        "eng_name": "Kai-Chen Kang",
+        "grad": 113,
+        "degree": "Master",
+        "statue": "正文科技(研發替代役)",
+        "thesis": null
+    },
+    {
+        "id": 125,
+        "name": "陳立宇",
+        "eng_name": "Li-Yu Chen",
+        "grad": 113,
+        "degree": "Master",
+        "statue": "廣達電腦(研發替代役)",
+        "thesis": null
+    },
+    {
+        "id": 126,
+        "name": "陳薏雅",
+        "eng_name": "Yi-Ya Chen",
+        "grad": 113,
+        "degree": "Master",
+        "statue": "友達光電",
+        "thesis": null
+    }
+]
