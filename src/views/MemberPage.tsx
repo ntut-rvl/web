@@ -54,7 +54,7 @@ const MemberPage: React.FC = () => {
                         <div className="rvl-block p-5">
                             <img
                                 className="rvl-avatar mb-4"
-                                src={member.avatar ? `/assets/avatars/${member.avatar}` : '/avatar/placeholder.jpg'}
+                                src={member.avatar ? `./assets/avatars/${member.avatar}` : '/avatar/placeholder.jpg'}
                                 alt={member.name ? `${member.name} avatar` : `avatar`}
                                 height="150"
                                 width="150"
