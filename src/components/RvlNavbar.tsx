@@ -9,10 +9,10 @@ const RvlNavbar: React.FC = () => {
     const location = useLocation();
     const isHomePage = location.pathname === '/';
     return (
-        <Navbar expand="lg" className="navbar navbar-expand-lg navbar-light rvl-navbar-light rvl_navbar" id="navbar">
+        <Navbar collapseOnSelect expand="lg" className="navbar navbar-expand-lg navbar-light rvl-navbar-light rvl_navbar" id="navbar">
             <Container>
                 <Navbar.Brand href="#home">機器人視覺實驗室</Navbar.Brand>
-                <Navbar.Toggle aria-controls="rvl-nav">
+                <Navbar.Toggle aria-controls="rvl-nav" >
                     <span className="icon-bar top-bar"></span>
                     <span className="icon-bar middle-bar"></span>
                     <span className="icon-bar bottom-bar"></span>
