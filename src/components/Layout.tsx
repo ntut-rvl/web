@@ -1,6 +1,6 @@
 import React from 'react';
 import Home from '../components/Home';
-import Navbar from '../components/Navbar';
+import RvlNavbar from '../components/RvlNavbar';
 import Footer from '../components/Footer';
 
 interface Props {
@@ -10,7 +10,7 @@ interface Props {
 const Layout: React.FC<Props> = ({ children }) => {
     return (
         <>
-            <Navbar />
+            <RvlNavbar />
             <Home />
             <main>{children}</main>
             <Footer />
