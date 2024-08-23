@@ -1,6 +1,42 @@
 {
     "data": [
         {
+            "present_date": "2024/08/23",
+            "presenter": "媃安",
+            "topic": "A Light-weight, Low-cost, and Sustainable Planning System for UAVs Using a Local Map Origin Update Approach",
+            "is_show": true
+        },
+        {
+            "present_date": "2024/08/23",
+            "presenter": "泳禎",
+            "topic": "Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network",
+            "is_show": true
+        },
+        {
+            "present_date": "2024/08/30",
+            "presenter": "鈺翔",
+            "topic": "Converting Depth Images and Point Clouds for Feature-based Pose Estimation",
+            "is_show": true
+        },
+        {
+            "present_date": "2024/08/30",
+            "presenter": "明躍",
+            "topic": "TemporalStereo: Efficient Spatial-Temporal Stereo Matching Network",
+            "is_show": true
+        },
+        {
+            "present_date": "2024/09/06",
+            "presenter": "婷婷",
+            "topic": "AirLine: Efficient Learnable Line Detection with Local Edge Voting",
+            "is_show": true
+        },
+        {
+            "present_date": "",
+            "presenter": "",
+            "topic": "VIW-Fusion: Extrinsic Calibration and Pose Estimation for Visual-IMU-Wheel Encoder System",
+            "is_show": true
+        },
+        {
             "present_date": "2024/09/13",
             "presenter": "宥羽",
             "topic": "Pseudo-Stereo++: Cycled Generative Pseudo-Stereo for Monocular 3D Object Detection in Autonomous Driving",
