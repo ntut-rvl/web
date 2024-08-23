@@ -29,22 +29,22 @@ const Contact: React.FC = () => {
             <ul className="fa-ul">
               <li>
                 <span className="fa-li"><FontAwesomeIcon icon={faMapMarkerAlt} /></span>
-                621 嘉義縣民雄鄉大學路一段168號<br/>工學院一館 122實驗室
+                10608台北市忠孝東路三段一號<br/>宏裕科技研究大樓 14樓 1421實驗室
               </li>
               <li>
                 <span className="fa-li"><FontAwesomeIcon icon={faPhone} /></span>
-                05-2720411 #23274
+                02-27712171 #4265
               </li>
               <li>
                 <span className="fa-li"><FontAwesomeIcon icon={faGlobeAmericas} /></span>
-                <a href="http://vision.ee.ccu.edu.tw">vision.ee.ccu.edu.tw</a>
+                <a href="https://robustlab122.github.io/NTUT-RVL/">https://robustlab122.github.io/NTUT-RVL/</a>
               </li>
             </ul>
           </div>
           <div className="col-xl-7 col-lg-6 col-12">
             <iframe 
               id="map"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.177161296943!2d120.47528971478805!3d23.562079884682582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346ebe54383b0609%3A0xae2c06187f9954d4!2z5bel5a246Zmi5LiA6aSo!5e0!3m2!1szh-TW!2stw!4v1535190558857"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2994.7494394772175!2d121.53219137780611!3d25.04386598281482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a97cd4962b0b%3A0x75144e30dbb37ee6!2z5ZyL56uL6Ie65YyX56eR5oqA5aSn5a245a6P6KOV56eR5oqA56CU56m25aSn5qiT!5e1!3m2!1szh-TW!2stw!4v1724393962576!5m2!1szh-TW!2stw"
               width="100%"
               height="450"
               frameBorder="0"
