@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEye, faFile, faLayerGroup, faRobot, faCar, faSearch } from '@fortawesome/free-solid-svg-icons';
 import { useAnimateOnScroll } from '../Utils';
@@ -9,11 +10,11 @@ const ResearchArea: React.FC<{ icon: any; title: string; description: string; li
         className="col-lg-4 col-sm-6 col-10 mb-4 mx-auto rvl-animate"
         data-animate-effect="fadeIn"
     >
-        <a href={link} className="rvl-block rvl-block-research rvl-block-btn p-sm-5 p-4">
+        <Link to={link} className="rvl-block rvl-block-research rvl-block-btn p-sm-5 p-4">
             <FontAwesomeIcon icon={icon} className="rvl-icon fa-4x mb-3" />
             <p className="lead mb-4">{title}</p>
             <p>{description}</p>
-        </a>
+        </Link>
     </div>
 );
 
@@ -39,7 +40,7 @@ const Research: React.FC = () => {
             icon={faEye}
             title="Robot Vision System"
             description="電腦視覺（CV）及機器人視覺（RV）相關演算法的開發及實現"
-            link="research/robot_vision_system.html"
+            link="/research/rvs"
             onScrollEl={onScrollEl}
           />
           <ResearchArea

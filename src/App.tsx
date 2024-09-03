@@ -6,18 +6,22 @@ import { HelmetProvider } from 'react-helmet-async';
 import HomePage from './views/HomePage';
 import BulletinPage from './views/BulletinPage';
 import MemberPage from './views/MemberPage';
+import ResearchRobotVisionSystemPage from './views/ResearchRobotVisionSystemPage';
 import Layout from './components/Layout';
+import { ScrollToTop } from './Utils';
 
 function App() {
 
     return (
         <HelmetProvider>
             <Router basename="/NTUT-RVL">
+                <ScrollToTop />
                 <Layout>
                     <Routes>
                         <Route path="/" element={<HomePage />} />
                         <Route path="/bulletin" element={<BulletinPage />} />
                         <Route path="/member" element={<MemberPage />} />
+                        <Route path='/research/rvs' element={<ResearchRobotVisionSystemPage />} />
                     </Routes>
                 </Layout>
             </Router>
