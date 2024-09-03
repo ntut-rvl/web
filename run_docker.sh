@@ -11,4 +11,4 @@ docker build \
   -f dockerfile.dev \
   -t ${PROJ_NAME}:${VERSION} .
 
-docker run -it --rm --name rvlweb -v .:/app -p 3000:3000 -p 5173:5173 ${PROJ_NAME}:${VERSION} ash
+docker run -it --rm --name rvlweb -v .:/app -p 3000:3000 -p 5173:5173 -p 4173:4173 ${PROJ_NAME}:${VERSION} ash
