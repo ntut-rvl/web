@@ -7,6 +7,7 @@ import HomePage from './views/HomePage';
 import BulletinPage from './views/BulletinPage';
 import MemberPage from './views/MemberPage';
 import ResearchRobotVisionSystemPage from './views/ResearchRobotVisionSystemPage';
+import ResearchComputerGraphicsAndVisualizationPage from './views/ResearchComputerGraphicsAndVisualizationPage';
 import Layout from './components/Layout';
 import { ScrollToTop } from './Utils';
 
@@ -22,6 +23,7 @@ function App() {
                         <Route path="/bulletin" element={<BulletinPage />} />
                         <Route path="/member" element={<MemberPage />} />
                         <Route path='/research/rvs' element={<ResearchRobotVisionSystemPage />} />
+                        <Route path='/research/cgv' element={<ResearchComputerGraphicsAndVisualizationPage />} />
                     </Routes>
                 </Layout>
             </Router>

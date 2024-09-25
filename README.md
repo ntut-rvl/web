@@ -87,6 +87,7 @@ export default defineConfig({
 ```
 5. In this docker container, you can build this app with the following commands for development.
 ```
+npm install
 npm run build
 npm run dev
 ```
