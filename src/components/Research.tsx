@@ -47,14 +47,16 @@ const Research: React.FC = () => {
             icon={faFile}
             title="Document Image Analysis"
             description="文件影像處理與分析"
-            link="research/document_image_analysis.html"
+            link="/research/rvs2"
+            //link="research/document_image_analysis.html"
             onScrollEl={onScrollEl}
           />
           <ResearchArea
             icon={faLayerGroup}
             title="3D Model Reconstruction and Depth Estimation"
             description="影像與三維資訊於混合實境（MR）與擴增實境（AR）之應用"
-            link="research/reconstruction.html"
+            link="/research/rvs3"
+            //link="research/reconstruction.html"
             onScrollEl={onScrollEl}
           />
           <ResearchArea
