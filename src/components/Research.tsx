@@ -75,7 +75,7 @@ const Research: React.FC = () => {
             icon={faSearch}
             title="Computer Graphics and Visualization"
             description="電腦視覺於三維檢測、智慧製造及工業 4.0 之應用"
-            link="research/computer_graphics_and_visualization.html"
+            link="research/cgv"
             onScrollEl={onScrollEl}
           />
         </div>
