@@ -58,9 +58,5 @@ export default defineConfig({
         rollupOptions: {
             external: ['react-helmet'],
         },
-    },
-    server: {
-        host: '0.0.0.0',
-        port: 5173,
     }
 })

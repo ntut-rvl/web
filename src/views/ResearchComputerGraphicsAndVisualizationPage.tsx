@@ -10,9 +10,6 @@ import ProjGu from '../assets/images/research/proj-gu.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {faSearch } from '@fortawesome/free-solid-svg-icons';
 
-
-
-
 const ResearchComputerGraphicsAndVisualizationPage: React.FC = () => {
     const onScrollEl = useAnimateOnScroll();
     const thumbnails = [
