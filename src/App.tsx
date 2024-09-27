@@ -10,6 +10,8 @@ import ResearchRobotVisionSystemPage from './views/ResearchRobotVisionSystemPage
 import ResearchComputerGraphicsAndVisualizationPage from './views/ResearchComputerGraphicsAndVisualizationPage';
 import Layout from './components/Layout';
 import { ScrollToTop } from './Utils';
+import ResearchDocumentImageAnalysisPage from './views/ResearchDocumentImageAnalysisPage';
+
 
 function App() {
 
@@ -23,6 +25,7 @@ function App() {
                         <Route path="/bulletin" element={<BulletinPage />} />
                         <Route path="/member" element={<MemberPage />} />
                         <Route path='/research/rvs' element={<ResearchRobotVisionSystemPage />} />
+                        <Route path='/research/dia' element={<ResearchDocumentImageAnalysisPage />} />
                         <Route path='/research/cgv' element={<ResearchComputerGraphicsAndVisualizationPage />} />
                     </Routes>
                 </Layout>
