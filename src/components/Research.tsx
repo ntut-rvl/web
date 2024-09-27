@@ -47,7 +47,7 @@ const Research: React.FC = () => {
             icon={faFile}
             title="Document Image Analysis"
             description="文件影像處理與分析"
-            link="research/document_image_analysis.html"
+            link="/research/dia"
             onScrollEl={onScrollEl}
           />
           <ResearchArea
