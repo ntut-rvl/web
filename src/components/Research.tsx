@@ -54,7 +54,7 @@ const Research: React.FC = () => {
             icon={faLayerGroup}
             title="3D Model Reconstruction and Depth Estimation"
             description="影像與三維資訊於混合實境（MR）與擴增實境（AR）之應用"
-            link="research/reconstruction.html"
+            link="research/r"
             onScrollEl={onScrollEl}
           />
           <ResearchArea
