@@ -27,7 +27,7 @@ function App() {
                         <Route path='/research/rvs' element={<ResearchRobotVisionSystemPage />} />
                         <Route path='/research/dia' element={<ResearchDocumentImageAnalysisPage />} />
                         <Route path='/research/cgv' element={<ResearchComputerGraphicsAndVisualizationPage />} />
-                        <Route path='/research/r' element={<ResearchReconstructionPage />} />
+                        <Route path='/research/reconstruct' element={<ResearchReconstructionPage />} />
                     </Routes>
                 </Layout>
             </Router>
