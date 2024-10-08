@@ -11,7 +11,7 @@ import ResearchComputerGraphicsAndVisualizationPage from './views/ResearchComput
 import Layout from './components/Layout';
 import { ScrollToTop } from './Utils';
 import ResearchDocumentImageAnalysisPage from './views/ResearchDocumentImageAnalysisPage';
-
+import ResearchReconstructionPage from './views/ResearchReconstructionPage';
 
 function App() {
 
@@ -27,6 +27,7 @@ function App() {
                         <Route path='/research/rvs' element={<ResearchRobotVisionSystemPage />} />
                         <Route path='/research/dia' element={<ResearchDocumentImageAnalysisPage />} />
                         <Route path='/research/cgv' element={<ResearchComputerGraphicsAndVisualizationPage />} />
+                        <Route path='/research/reconstruct' element={<ResearchReconstructionPage />} />
                     </Routes>
                 </Layout>
             </Router>
