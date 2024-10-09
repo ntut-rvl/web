@@ -68,7 +68,7 @@ const Research: React.FC = () => {
             icon={faCar}
             title="Intelligence Transportation System"
             description="智慧型運輸系統（ITS）及智慧型車輛（IV）之視覺系統建置"
-            link="research/intelligence_transportation_system.html"
+            link="research/its"
             onScrollEl={onScrollEl}
           />
           <ResearchArea
