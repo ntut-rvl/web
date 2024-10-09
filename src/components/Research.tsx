@@ -54,7 +54,7 @@ const Research: React.FC = () => {
             icon={faLayerGroup}
             title="3D Model Reconstruction and Depth Estimation"
             description="影像與三維資訊於混合實境（MR）與擴增實境（AR）之應用"
-            link="research/reconstruction.html"
+            link="research/reconstruct"
             onScrollEl={onScrollEl}
           />
           <ResearchArea
@@ -68,7 +68,7 @@ const Research: React.FC = () => {
             icon={faCar}
             title="Intelligence Transportation System"
             description="智慧型運輸系統（ITS）及智慧型車輛（IV）之視覺系統建置"
-            link="research/intelligence_transportation_system.html"
+            link="research/its"
             onScrollEl={onScrollEl}
           />
           <ResearchArea

@@ -7,11 +7,12 @@ import HomePage from './views/HomePage';
 import BulletinPage from './views/BulletinPage';
 import MemberPage from './views/MemberPage';
 import ResearchRobotVisionSystemPage from './views/ResearchRobotVisionSystemPage';
+import ResearchIntelligenceTransportationSystemPage from './views/ResearchIntelligenceTransportationSystemPage';
 import ResearchComputerGraphicsAndVisualizationPage from './views/ResearchComputerGraphicsAndVisualizationPage';
 import Layout from './components/Layout';
 import { ScrollToTop } from './Utils';
 import ResearchDocumentImageAnalysisPage from './views/ResearchDocumentImageAnalysisPage';
-
+import ResearchReconstructionPage from './views/ResearchReconstructionPage';
 
 function App() {
 
@@ -26,7 +27,9 @@ function App() {
                         <Route path="/member" element={<MemberPage />} />
                         <Route path='/research/rvs' element={<ResearchRobotVisionSystemPage />} />
                         <Route path='/research/dia' element={<ResearchDocumentImageAnalysisPage />} />
+                        <Route path='/research/its' element={<ResearchIntelligenceTransportationSystemPage />} />
                         <Route path='/research/cgv' element={<ResearchComputerGraphicsAndVisualizationPage />} />
+                        <Route path='/research/reconstruct' element={<ResearchReconstructionPage />} />
                     </Routes>
                 </Layout>
             </Router>
