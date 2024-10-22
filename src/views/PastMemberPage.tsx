@@ -17,6 +17,8 @@ type Members = PastMember[];
 const PastMemberPage: React.FC = () => {
     const onScrollEl = useAnimateOnScroll();
     const [members, setMembers] = useState<Members | null>(null);
+    const DEGREE_DOCTOR = 'Doctor';
+    const DEGREE_MASTER = 'Master';
     useEffect(() => {
         setMembers(PastMemberData);
     }, []);
@@ -62,7 +64,7 @@ const PastMemberPage: React.FC = () => {
                      <col width="30%"></col>
                    </colgroup>
                    <tbody>
-                   {members ? members.filter((member) => member.degree=='Doctor').sort((a, b) => b.grad - a.grad).map((member) =>(
+                   {members ? members.filter((member) => member.degree == DEGREE_DOCTOR).sort((a, b) => b.grad - a.grad).map((member) =>(
                             <tr>
                             <td>{member.name}</td>
                             <td>{member.eng_name}</td>
@@ -104,7 +106,7 @@ const PastMemberPage: React.FC = () => {
                      <col width="30%"></col>
                    </colgroup>
                    <tbody>
-                   {members ? members.filter((member) => member.degree=='Master').sort((a, b) => b.grad - a.grad).map((member) =>(
+                   {members ? members.filter((member) => member.degree == DEGREE_MASTER).sort((a, b) => b.grad - a.grad).map((member) =>(
                             <tr>
                             <td>{member.name}</td>
                             <td>{member.eng_name}</td>
