@@ -6,6 +6,7 @@ import { HelmetProvider } from 'react-helmet-async';
 import HomePage from './views/HomePage';
 import BulletinPage from './views/BulletinPage';
 import MemberPage from './views/MemberPage';
+import PastMemberPage from './views/PastMemberPage';
 import ResearchRobotVisionSystemPage from './views/ResearchRobotVisionSystemPage';
 import ResearchIntelligenceTransportationSystemPage from './views/ResearchIntelligenceTransportationSystemPage';
 import ResearchComputerGraphicsAndVisualizationPage from './views/ResearchComputerGraphicsAndVisualizationPage';
@@ -25,6 +26,7 @@ function App() {
                         <Route path="/" element={<HomePage />} />
                         <Route path="/bulletin" element={<BulletinPage />} />
                         <Route path="/member" element={<MemberPage />} />
+                        <Route path="/past_members" element={<PastMemberPage />} />
                         <Route path='/research/rvs' element={<ResearchRobotVisionSystemPage />} />
                         <Route path='/research/dia' element={<ResearchDocumentImageAnalysisPage />} />
                         <Route path='/research/its' element={<ResearchIntelligenceTransportationSystemPage />} />

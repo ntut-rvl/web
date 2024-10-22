@@ -48,11 +48,11 @@ const About: React.FC = () => {
                 className="col-lg-4 col-md-10 col-sm-6 col-10 mb-4 rvl-animate"
                 data-animate-effect="fadeIn"
           >
-            <a href="about/past_members.php" className="rvl-block rvl-block-btn p-sm-5 p-4">
+            <Link to="/past_members" className="rvl-block rvl-block-btn p-sm-5 p-4">
               <FontAwesomeIcon icon={faGraduationCap} className="rvl-icon fa-3x" />
               <span className="rvl-counter mx-auto">50</span>
               <p className="lead">Former Members</p>
-            </a>
+            </Link>
           </div>
         </div>
       </div>
