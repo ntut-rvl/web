@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import CoursePlaceholder1 from '../assets/images/course_placeholder_1.jpg'
 import CoursePlaceholder2 from '../assets/images/course_placeholder_2.jpg'
 import CoursePlaceholder3 from '../assets/images/course_placeholder_3.jpg'
@@ -18,7 +19,9 @@ const CourseItem: React.FC<{ title: string; description: string; image: string; 
                 <div className="col-md-6">
                     <p className="rvl-block-title mb-4">{title}</p>
                     <p>{description}</p>
-                    {link && <a href={link} className="btn btn-primary mt-3">了解更多</a>}
+                    {link && <Link to={link} className="btn btn-primary mt-3">
+                        <a>了解更多</a>
+                    </Link>}
                 </div>
             </div>
         </div>
