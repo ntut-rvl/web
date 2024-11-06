@@ -55,7 +55,7 @@ const PastMemberPage: React.FC = () => {
                 className="row rvl-animate"
                 data-animate-effect="fadeIn"
             >
-                 <div className="table-responsive-sm rvl-animate mb-5 fadeInUp rvl-animated rvl-bg-gray">
+                 <div className="table-responsive-sm rvl-animate mb-5 fadeInUp rvl-animated">
                  <table className="table table-striped">
                    <colgroup>
                      <col width="25%"></col>
