@@ -47,7 +47,7 @@ const PastMemberPage: React.FC = () => {
                     <i className="rvl-icon fas fa-4x fa-user mb-3"></i>
                 </div>
                 <div className="col-12">
-                    <h3 className="mb-4">Doctor</h3>
+                    <h3 className="rvl-block-title mb-4">Doctor</h3>
                 </div>
             </div>
             <div 
@@ -55,7 +55,7 @@ const PastMemberPage: React.FC = () => {
                 className="row rvl-animate"
                 data-animate-effect="fadeIn"
             >
-                 <div className="table-responsive-sm rvl-animate mb-5 fadeInUp rvl-animated">
+                 <div className="table-responsive-sm rvl-animate mb-5 fadeInUp rvl-animated rvl-bg-gray">
                  <table className="table table-striped">
                    <colgroup>
                      <col width="25%"></col>
@@ -66,10 +66,10 @@ const PastMemberPage: React.FC = () => {
                    <tbody>
                    {members ? members.filter((member) => member.degree == DEGREE_DOCTOR).sort((a, b) => b.grad - a.grad).map((member) =>(
                             <tr>
-                            <td>{member.name}</td>
-                            <td>{member.eng_name}</td>
-                            <td>{member.grad}</td>
-                            <td>{member.statue}</td>
+                            <td style={{ color: "#607D8B" }}>{member.name}</td>
+                            <td style={{ color: "#607D8B" }}>{member.eng_name}</td>
+                            <td style={{ color: "#607D8B" }}>{member.grad}</td>
+                            <td style={{ color: "#607D8B" }}><p>{member.statue}</p></td>
                             </tr>   
                         ))
                     : <div className="col-lg-4 col-md-6 col-12 my-5">loading</div>
@@ -89,7 +89,7 @@ const PastMemberPage: React.FC = () => {
                     <i className="rvl-icon fas fa-4x fa-user mb-3"></i>
                 </div>
                 <div className="col-12">
-                    <h3 className="mb-4">Master</h3>
+                    <h3 className="rvl-block-title mb-4">Master</h3>
                 </div>
             </div>
             <div 
@@ -108,10 +108,10 @@ const PastMemberPage: React.FC = () => {
                    <tbody>
                    {members ? members.filter((member) => member.degree == DEGREE_MASTER).sort((a, b) => b.grad - a.grad).map((member) =>(
                             <tr>
-                            <td>{member.name}</td>
-                            <td>{member.eng_name}</td>
-                            <td>{member.grad}</td>
-                            <td>{member.statue}</td>
+                            <td style={{ color: "#607D8B" }}>{member.name}</td>
+                            <td style={{ color: "#607D8B" }}>{member.eng_name}</td>
+                            <td style={{ color: "#607D8B" }}>{member.grad}</td>
+                            <td style={{ color: "#607D8B" }}>{member.statue}</td>
                             </tr>   
                         ))
                     : <div className="col-lg-4 col-md-6 col-12 my-5">loading</div>
