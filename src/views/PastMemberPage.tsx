@@ -69,7 +69,7 @@ const PastMemberPage: React.FC = () => {
                             <td style={{ color: "#607D8B" }}>{member.name}</td>
                             <td style={{ color: "#607D8B" }}>{member.eng_name}</td>
                             <td style={{ color: "#607D8B" }}>{member.grad}</td>
-                            <td style={{ color: "#607D8B" }}><p>{member.statue}</p></td>
+                            <td style={{ color: "#607D8B" }}>{member.statue}</td>
                             </tr>   
                         ))
                     : <div className="col-lg-4 col-md-6 col-12 my-5">loading</div>
