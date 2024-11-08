@@ -1,0 +1,49 @@
+{
+  "conferenceOrganizingCommittee": [
+    { "role": "Publication Co-Chair", "conference": "IECON 2007" },
+    { "role": "Publication Chair", "conference": "ARSO 2008" },
+    { "role": "Local Arrangement Co-Chair", "conference": "SIRCon 2009" },
+    { "role": "Publication Chair", "conference": "IROS 2010" },
+    { "role": "Publication Chair", "conference": "WCICA 2011" },
+    { "role": "Publication Chair", "conference": "SIRCon 2011" },
+    { "role": "Program Chair", "conference": "CVGIP 2011" },
+    { "role": "Publication Chair", "conference": "AIM 2012" },
+    { "role": "Publication Chair", "conference": "ARIS 2013" },
+    { "role": "Publication Chair", "conference": "CACS 2013" },
+    { "role": "Publication Chair", "conference": "NCAR 2014" },
+    { "role": "Publication Co-Chair", "conference": "CACS 2014" },
+    { "role": "Publication Chair", "conference": "ACCV 2016" },
+    { "role": "Publication Chair", "conference": "ICIT 2016" },
+    { "role": "Program Chair", "conference": "ARIS 2016" },
+    { "role": "Publication Chair", "conference": "SII 2017" }
+  ],
+  "conferenceProgramCommittee": [
+    { "conference": "IEEE International Conference on Cybernetics and Intelligent Systems", "years": [2006] },
+    { "conference": "Pacific-Rim Symposium on Image and Video Technology", "years": [2007, 2009, 2010, 2011, 2013] },
+    { "conference": "The 33th Annual Conference of the IEEE Industrial Electronics Society", "years": [2007] },
+    { "conference": "CACS International Automatic Control Conference", "years": [2007] },
+    { "conference": "IFAC Symposium on Control in Transportation Systems", "years": [2009, 2012, 2016] },
+    { "conference": "International Conference on Informatics in Control, Automation and Robotics", "years": [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016] },
+    { "conference": "Asian Conference on Computer Vision", "years": [2010, 2012, 2014] },
+    { "conference": "The 2011 IEEE International Conference on Intelligent Robotics, Automations, and Applications", "years": [2011] },
+    { "conference": "The 9th World Congress on Intelligent Control and Automation", "years": [2011] },
+    { "conference": "The International Conference on Automatic Control and Artificial Intelligence", "years": [2011] },
+    { "conference": "The First International Conference on Intelligent Robotics, Automation and Manufacturing", "years": [2012] },
+    { "conference": "IPPR Conference on Computer Vision, Graphics, and Image Processing", "years": [2012] },
+    { "conference": "Pacific-Rim Conference on Multimedia", "years": [2012] },
+    { "conference": "International Workshop on Intelligent Mobile Vision", "years": [2012, 2013] },
+    { "conference": "The 17th IEEE International Symposium on Consumer Electronics", "years": [2013] },
+    { "conference": "IFAC Workshop on Advances in Control and Automation Theory for Transportation Applications", "years": [2013] },
+    { "conference": "International Conference on Signal Image Technology & Internet Based Systems", "years": [2013, 2014, 2015] },
+    { "conference": "International Conference on Physiological Computing Systems", "years": [2014, 2015, 2016] },
+    { "conference": "International Conference on Computer Vision Theory and Applications", "years": [2014, 2015, 2016] },
+    { "conference": "International Conference on Intelligent Autonomous Systems", "years": [2014, 2015] },
+    { "conference": "International Power, Electronics and Materials Engineering Conference", "years": [2015] },
+    { "conference": "IEEE International Conference on Vehicular Electronics and Safety", "years": [2015] }
+  ],
+  "editorialBoard": [
+    { "conference": "IEEE International Conference on Automation Science and Engineering", "years": [2015, 2016] },
+    { "conference": "IEEE International Conference on Intelligent Transportation Systems", "years": [2016, 2017, 2018, 2019] }
+  ]
+}
+

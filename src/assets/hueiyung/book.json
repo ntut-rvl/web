@@ -1,0 +1,71 @@
+[
+  {
+    "authors": ["H. Y. Lin", "K. C. Tu"],
+    "title": "A Technique for Authentic Fatigue Driving Detection Using Nighttime Infrared Images",
+    "bookTitle": "Smart Cities, Green Technologies, and Intelligent Transport Systems. SMARTGREENS VEHITS",
+    "editors": ["C. Klein", "M. Jarke", "J. Ploeg", "K. Berns", "A. Vinel", "O. Gusikhin"],
+    "series": "Communications in Computer and Information Science",
+    "volume": "1989",
+    "pages": "123-145",
+    "publisher": "Springer",
+    "year": "2024"
+  },
+  {
+    "authors": ["H. Y. Lin", "Y. C. Chiu"],
+    "title": "A New Traffic Sign Detection Technique Using Two-Stage Convolutional Neural Networks",
+    "bookTitle": "Smart Cities, Green Technologies, and Intelligent Transport Systems",
+    "editors": ["C. Klein", "M. Jarke", "M. Helfert", "K. Berns", "O. Gusikhin"],
+    "pages": "216–231",
+    "publisher": "Springer",
+    "location": "Berlin, Germany",
+    "year": "2022"
+  },
+  {
+    "authors": ["H. Y. Lin", "Y. T. Chen"],
+    "title": "Zooming Assisted Stereo Matching",
+    "bookTitle": "Optoelectronic Devices in Robotic Systems",
+    "editors": ["O. Sergiyenko"],
+    "publisher": "Springer",
+    "location": "Berlin, Germany",
+    "year": "2022"
+  },
+  {
+    "authors": ["T. W. Yeh", "H. Y. Lin", "M. Y. Tsai"],
+    "title": "A Two-Stage Approach for Traffic Light Detection with Arrow Signal Recognition using Convolutional Neural Networks",
+    "bookTitle": "Smart Cities, Green Technologies, and Intelligent Transport Systems",
+    "editors": ["C. Klein", "M. Helfert", "K. Berns", "O. Gusikhin"],
+    "pages": "149–164",
+    "publisher": "Springer",
+    "location": "Berlin, Germany",
+    "year": "2021"
+  },
+  {
+    "authors": ["L. T. Wu", "V. L. Tran", "H. Y. Lin"],
+    "title": "Real-Time Overtaking Vehicle Detection Based on Optical Flow and Convolutional Neural Network",
+    "bookTitle": "Smart Cities, Green Technologies and Intelligent Transport Systems",
+    "editors": ["B. Donnellan", "C. Klein", "M. Helfert", "O. Gusikhin"],
+    "pages": "227-243",
+    "publisher": "Springer",
+    "year": "2019"
+  },
+  {
+    "authors": ["H. Y. Lin", "C. C. Chang", "J. Y. Huang"],
+    "title": "A Video Retargeting Technique for RGB-D Camera",
+    "chapter": "8",
+    "bookTitle": "Computer Vision, Imaging and Computer Graphics -- Theory and Applications",
+    "editors": ["S. Battiato", "S. Coquillart", "R.S. Laramee", "A. Kerren", "J. Braz"],
+    "publisher": "Springer",
+    "year": "2014"
+  },
+  {
+    "authors": ["H. Y. Lin", "S. L. Chen", "J. H. Lin"],
+    "title": "Architectural Scene Reconstruction from Single or Multiple Uncalibrated Images",
+    "chapter": "25",
+    "bookTitle": "Progress in Computer Vision and Image Analysis",
+    "editors": ["H. Bunke", "J. J. Villanueva", "G. Sanchez", "X. Otazu"],
+    "pages": "471-482",
+    "publisher": "World Scientific Publishing",
+    "year": "2010"
+  }
+]
+
