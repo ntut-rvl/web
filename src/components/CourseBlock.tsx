@@ -17,7 +17,7 @@ const CourseBlock: React.FC<CourseBlockProps> = ({ fileLink, title }) => {
             className="col-md-4 col-sm-6 col-9 mb-4 mx-auto rvl-animate text-center"
             data-animate-effect="fadeIn"
         >
-            <a href={"../src/assets/courseFile/"+fileLink} target="_blank" className="rvl-block rvl-block-btn p-sm-5 p-4">
+            <a href={"/NTUT-RVL/src/assets/courseFile/"+fileLink} target="_blank" className="rvl-block rvl-block-btn p-sm-5 p-4">
               <FontAwesomeIcon icon={faFilePdf} className="rvl-icon fa-4x mb-3" />
               <p className="lead">{title}</p>
             </a>

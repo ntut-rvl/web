@@ -20,7 +20,7 @@ const CourseItem: React.FC<{ title: string; description: string; image: string; 
                     <p className="rvl-block-title mb-4">{title}</p>
                     <p>{description}</p>
                     {link && <Link to={link} className="btn btn-primary mt-3">
-                        <a>了解更多</a>
+                        了解更多
                     </Link>}
                 </div>
             </div>
