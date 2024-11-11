@@ -14,6 +14,7 @@ import Layout from './components/Layout';
 import { ScrollToTop } from './Utils';
 import ResearchDocumentImageAnalysisPage from './views/ResearchDocumentImageAnalysisPage';
 import ResearchReconstructionPage from './views/ResearchReconstructionPage';
+import HueiyungPage from './views/HueiyungPage';
 
 function App() {
 
@@ -25,6 +26,7 @@ function App() {
                     <Routes>
                         <Route path="/" element={<HomePage />} />
                         <Route path="/bulletin" element={<BulletinPage />} />
+                        <Route path="/hueiyung" element={<HueiyungPage />} />
                         <Route path="/member" element={<MemberPage />} />
                         <Route path="/past_members" element={<PastMemberPage />} />
                         <Route path='/research/rvs' element={<ResearchRobotVisionSystemPage />} />

@@ -1,0 +1,1031 @@
+[
+  {
+    "authors": ["Y. C. Huang", "H. Y. Lin"],
+    "title": "All-Weather Vehicle Detection and Classification with Adversarial and Semi-Supervised Learning",
+    "conference": "International Conference on Pattern Recognition (ICPR 2024)",
+    "location": "Kolkata, India",
+    "date": "Dec. 1-5, 2024"
+  },
+  {
+    "authors": ["Y. H. Huang", "H. Y. Lin", "P. H. Kuo", "Y. H. Fan"],
+    "title": "Eye Gaze Direction Detection System By Using Dilated Convolutional Neural Network and Transfer Learning",
+    "conference": "2024 International Automatic Control Conference (CACS 2024)",
+    "location": "Taoyuan, Taiwan",
+    "date": "Oct. 31 - Nov. 3, 2024"
+  },
+  {
+    "authors": ["X. H. Wu", "G. S. Hsu", "H. Y. Lin"],
+    "title": "A Benchmark Database for Multi-License Plate Tracking",
+    "conference": "6th Mediterranean Conference on Pattern Recognition and Artificial Intelligence (MedPRAI 2024)",
+    "location": "Istanbul, Turkey",
+    "date": "Oct. 18-19, 2024"
+  },
+  {
+    "authors": ["Y. X. Chen", "H. Y. Lin"],
+    "title": "High-Precision Vehicle Positioning Technology by Combining Vehicle Images and Satellite Maps",
+    "conference": "2024 IEEE International Conference on Systems, Man and Cybernetics (SMC 2024)",
+    "location": "Kuching, Malaysia",
+    "date": "Oct. 6-10, 2024"
+  },
+  {
+    "authors": ["S. C. Yang", "H. Y. Lin", "Y. H. Fan", "S. H. Wei"],
+    "title": "A Traffic Sign Detection Technique Using Road Scene Images and GPS/GIS Information",
+    "conference": "2024 IEEE International Conference on Systems, Man and Cybernetics (SMC 2024)",
+    "location": "Kuching, Malaysia",
+    "date": "Oct. 6-10, 2024"
+  },
+  {
+    "authors": ["Y. C. Chen", "H. Y. Lin"],
+    "title": "Traffic Light Detection and Recognition using Ensemble Learning with Color-Based Data Augmentation",
+    "conference": "2024 IEEE Intelligent Vehicles Symposium (IV 2024)",
+    "location": "Jeju Island, Korea",
+    "date": "June 2-5, 2024"
+  },
+  {
+    "authors": ["L. C. Kuo", "H. Y. Lin"],
+    "title": "Illegal Parking Detection Based on Multi-Task Driving Perception",
+    "conference": "2024 IEEE Intelligent Vehicles Symposium (IV 2024)",
+    "location": "Jeju Island, Korea",
+    "date": "June 2-5, 2024"
+  },
+  {
+    "authors": ["C. A. Pai", "H. Y. Lin"],
+    "title": "Maturity and Yield Estimation of Tomatoes using RGB and Multispectral Images",
+    "conference": "2024 IEEE International Conference on Industrial Technology (ICIT 2024)",
+    "location": "Bristol, UK",
+    "date": "March 25-27, 2024"
+  },
+  {
+    "authors": ["K. L. Chang", "H. Y. Lin"],
+    "title": "System Development and Integration of Unmanned Aerial Vehicle Navigation Techniques for Indoor Environments",
+    "conference": "2024 IEEE International Conference on Industrial Technology (ICIT 2024)",
+    "location": "Bristol, UK",
+    "date": "March 25-27, 2024"
+  },
+  {
+    "authors": ["Y. R. Lin", "H. Y. Lin", "W. C. Lin"],
+    "title": "Single Image HDR Synthesis with Histogram Learning",
+    "conference": "26th Iberoamerican Congress on Pattern Recognition (CIARP 2023)",
+    "location": "Coimbra, Portugal",
+    "date": "Nov. 27-30, 2023"
+  },
+  {
+    "authors": ["H. Z. Shen", "H. Y. Lin"],
+    "title": "Driver Distraction Detection for Daytime and Nighttime with Unpaired Visible and Infrared Image Translation",
+    "conference": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)",
+    "location": "Detroit, USA",
+    "date": "Oct. 1-5, 2023"
+  },
+  {
+    "authors": ["W. J. Wu", "H. Y. Lin"],
+    "title": "Traffic Risk Assessment from Driving Scene Images",
+    "conference": "2023 IEEE International Conference on Systems, Man and Cybernetics (SMC 2023)",
+    "location": "Hawaii, USA",
+    "date": "Oct. 1-4, 2023"
+  },
+  {
+    "authors": ["F. A. Hsieh", "H. Y. Lin", "C. C. Wang"],
+    "title": "An End-To-End System For Road Agent Behavior Classification",
+    "conference": "IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)",
+    "location": "Bilbao, Spain",
+    "date": "Sep. 24-28, 2023"
+  },
+  {
+    "authors": ["H. F. Lin", "H. Y. Lin"],
+    "title": "Image Acquisition by Image Retrieval with Color Aesthetics",
+    "conference": "2023 International Conference on Advanced Concepts for Intelligent Vision Systems (ACIVS 2023)",
+    "location": "Kumamoto, Japan",
+    "date": "Aug. 21-22, 2023"
+  },
+  {
+    "authors": ["H. C. Hsiao", "Y. C. Cai", "H. Y. Lin", "W. C. Chiu", "C. T. Chan"],
+    "title": "RLMD: A Dataset for Road Marking Segmentation",
+    "conference": "IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW 2023)",
+    "location": "Pingtung, Taiwan",
+    "date": "Jul. 17-19, 2023"
+  },
+  {
+    "authors": ["J. Y. Li", "H. Y. Lin"],
+    "title": "Improving Vehicle Localization with Lane Marking Detection Based on Visual Perception and Geographic Information",
+    "conference": "IEEE International Symposium on Industrial Electronics (ISIE 2023)",
+    "location": "Helsinki-Espoo, Finland",
+    "date": "Jun. 19-21, 2023"
+  },
+  {
+    "authors": ["Y. H. Li", "H. Y. Lin"],
+    "title": "Development of UAV Localization and Navigation Techniques for Warehouse Inventory Inspection",
+    "conference": "2023 IEEE International Conference on Industrial Technology (ICIT 2023)",
+    "location": "Orlando, FL, USA",
+    "date": "April 4-6, 2023"
+  },
+  {
+    "authors": ["K. C. Tu", "H. Y. Lin"],
+    "title": "Night Fatigue Driving Detection Technology using Infrared Images and Convolutional Neural Networks",
+    "conference": "The 9th International Conference on Vehicle Technology and Intelligent Transport Systems (VEHITS 2023)",
+    "location": "Prague, Czech",
+    "date": "Apr. 26-28, 2023"
+  },
+  {
+    "authors": ["C. H. Ho", "H. Y. Lin"],
+    "title": "Bicycle Gear Shifting Prediction using Environmental Information and Physiological Data",
+    "conference": "IEEE International Conference on Consumer Electronics (ICCE 2023)",
+    "location": "Las Vegas, USA",
+    "date": "Jan. 6-8, 2023"
+  },
+  {
+    "authors": ["P. Y. Hsieh", "H. Y. Lin", "S. Y. Chou"],
+    "title": "Ensemble Learning for Retail Product Recognition with a Large Number of Classes",
+    "conference": "2022 IEEE International Conference on Systems, Man and Cybernetics (SMC 2022)",
+    "location": null,
+    "date": "Oct. 9-12, 2022"
+  },
+  {
+    "authors": ["C. H. Tseng", "H. Y. Lin"],
+    "title": "A Vision-Based System for Abnormal Behavior Detection and Recognition of Bus Passengers",
+    "conference": "IEEE International Conference on Intelligent Transportation Systems (ITSC 2022)",
+    "location": "Macau, China",
+    "date": "Oct. 8-12, 2022"
+  },
+  {
+    "authors": ["J. R. Zhan", "H. Y. Lin"],
+    "title": "Improving Visual Inertial Odometry with UWB Positioning for UAV Indoor Navigation",
+    "conference": "IEEE International Conference on Pattern Recognition (ICPR 2022)",
+    "location": "Montreal Quebec, Canada",
+    "date": "Aug. 21-25, 2022"
+  },
+  {
+    "authors": ["M. Y. Tsai", "H. Y. Lin"],
+    "title": "Nighttime Traffic Light Detection with Arrow Signal Recognition using a Vision and Learning Based Approach",
+    "conference": "IEEE International Symposium on Industrial Electronics (ISIE 2022)",
+    "location": "Anchorage, Alaska, USA",
+    "date": "Jun. 1-3, 2022"
+  },
+  {
+    "authors": ["C. K. Chang", "H. Y. Lin"],
+    "title": "A Vision-Based Lane Detection Technique using Deep Neural Networks and Temporal Information",
+    "conference": "The 8th International Conference on Vehicle Technology and Intelligent Transport Systems (VEHITS 2022)",
+    "location": "Online Streaming",
+    "date": "Apr. 27-29, 2022"
+  },
+  {
+    "authors": ["M. C. Yeh", "H. Y. Lin"],
+    "title": "Robust SLAM System by Incorporating UWB Positioning and Landmark Localization",
+    "conference": "5th Mediterranean Conference on Pattern Recognition and Artificial Intelligence (MedPRAI 2021)",
+    "location": "Istanbul, Turkey",
+    "date": "Dec. 17-18, 2021"
+  },
+  {
+    "authors": ["S. Y. Lin", "H. Y. Lin"],
+    "title": "A Two-Stage Framework for Diverse Traffic Light Recognition Based on Individual Signal Detection",
+    "conference": "5th Mediterranean Conference on Pattern Recognition and Artificial Intelligence (MedPRAI 2021)",
+    "location": "Istanbul, Turkey",
+    "date": "Dec. 17-18, 2021"
+  },
+  {
+    "authors": ["Y. R. Lin", "H. Y. Lin"],
+    "title": "Image Restoration from Low Bit-Rate Quantization Based on Reinforcement Learning",
+    "conference": "2021 International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS 2021)",
+    "location": "Hualien, Taiwan",
+    "date": "Nov. 16-19, 2021"
+  },
+  {
+    "authors": ["Y. F. Liu", "H. Y. Lin", "Y. R. Lin"],
+    "title": "LDR to HDR Conversion Based on Histogram Extension",
+    "conference": "IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW 2021)",
+    "location": "Penghu, Taiwan",
+    "date": "Sep. 15-17, 2021"
+  },
+  {
+    "authors": ["Y. Y. Chiang", "H. Y. Lin", "M. L. Wang"],
+    "title": "Visual Hull Refinement with Hierarchical Clustering Deformation for 3-D Reconstruction",
+    "conference": "2021 International Conference on System Science and Engineering (ICSSE 2021)",
+    "location": "Ho Chi Minh City, Vietnam",
+    "date": "Aug. 26-28, 2021"
+  },
+  {
+    "authors": ["S. F. Kao", "H. Y. Lin"],
+    "title": "Passenger Detection, Counting, and Action Recognition for Self-Driving Public Transport Vehicles",
+    "conference": "2021 IEEE Intelligent Vehicles Symposium (IV 2021)",
+    "location": "Nagoya, Japan",
+    "date": "Jul. 11-17, 2021"
+  },
+  {
+    "authors": ["V. L. Tran", "H. Y. Lin"],
+    "title": "Semantic Segmentation and 6DoF Pose Estimation using RGB-D Images and Deep Neural Networks",
+    "conference": "2021 IEEE International Symposium on Industrial Electronics (ISIE 2021)",
+    "location": "Kyoto, Japan",
+    "date": "June 21-23, 2021"
+  },
+  {
+    "authors": ["J. Z. Zhang", "H. Y. Lin"],
+    "title": "Driving Behavior Analysis and Traffic Improvement Using Onboard Sensor Data and Geographic Information",
+    "conference": "The 7th International Conference on Vehicle Technology and Intelligent Transport Systems (VEHITS 2021)",
+    "location": "Prague, Czech",
+    "date": "Apr. 28-30, 2021"
+  },
+  {
+    "authors": ["Y. C. Chiu", "H. Y. Lin", "W. L. Tai"],
+    "title": "A Two-Stage Learning Approach for Traffic Sign Detection and Recognition",
+    "conference": "The 7th International Conference on Vehicle Technology and Intelligent Transport Systems (VEHITS 2021)",
+    "location": "Prague, Czech",
+    "date": "Apr. 28-30, 2021"
+  },
+  {
+    "authors": ["B. T. Dong", "H. Y. Lin"],
+    "title": "An On-board Monitoring System for Driving Fatigue and Distraction Detection",
+    "conference": "2021 IEEE International Conference on Industrial Technology (ICIT 2021)",
+    "location": "Valencia, Spain",
+    "date": "March 10-12, 2021"
+  },
+  {
+    "authors": ["V. L. Tran", "H. Y. Lin", "H. W. Liu", "F. J. Jang", "C. H. Tseng"],
+    "title": "BiLuNet: A Multi-path Network for Semantic Segmentation on X-ray Images",
+    "conference": "25th International Conference on Pattern Recognition (ICPR 2020)",
+    "location": "Milan, Italy",
+    "date": "Jan. 10-15, 2021"
+  },
+  {
+    "authors": ["V. L. Tran", "H. Y. Lin", "H. W. Liu"],
+    "title": "MBNet: A Multi-Task Deep Neural Network for Semantic Segmentation and Lumbar Vertebra Inspection on X-ray Images",
+    "conference": "15th Asian Conference on Computer Vision (ACCV 2020)",
+    "location": "Kyoto, Japan",
+    "date": "Nov. 30-Dec. 4, 2020"
+  },
+  {
+    "authors": ["H. M. Wang", "H. Y. Lin"],
+    "title": "A Real-Time Forward Collision Warning Technique Incorporating Detection and Depth Estimation Networks",
+    "conference": "2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2020)",
+    "location": "Toronto, Canada",
+    "date": "Oct. 11-14, 2020"
+  },
+  {
+    "authors": ["V. L. Tran", "H. Y. Lin"],
+    "title": "3D Object Detection and 6D Pose Estimation Using RGB-D Images and Mask R-CNN",
+    "conference": "2020 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2020)",
+    "location": "Glasgow, UK",
+    "date": "Jul. 19-24, 2020"
+  },
+  {
+    "authors": ["T. W. Yeh", "H. Y. Lin"],
+    "title": "Detection and Recognition of Arrow Traffic Signals using a Two-Stage Neural Network Structure",
+    "conference": "The 6th International Conference on Vehicle Technology and Intelligent Transport Systems (VEHITS 2020)",
+    "location": "Prague, Czech",
+    "date": "May 2-4, 2020"
+  },
+  {
+    "authors": ["C. Y. Li", "H. Y. Lin"],
+    "title": "Vehicle Detection and Classification in Aerial Images Using Convolutional Neural Networks",
+    "conference": "15th International Conference on Computer Vision Theory and Applications (VISAPP 2020)",
+    "location": "Valletta, Malta",
+    "date": "Feb. 27-29, 2020"
+  },
+  {
+    "authors": ["I. T. Chen", "H. Y. Lin"],
+    "title": "Detection, Counting and Maturity Assessment of Cherry Tomatoes using Multi-spectral Images and Machine Learning Techniques",
+    "conference": "15th International Conference on Computer Vision Theory and Applications (VISAPP 2020)",
+    "location": "Valletta, Malta",
+    "date": "Feb. 27-29, 2020"
+  },
+  {
+    "authors": ["B. Y. Zhuo", "H. Y. Lin"],
+    "title": "Cooperative Stereo-Zoom Matching for Disparity Computation",
+    "conference": "15th International Conference on Computer Vision Theory and Applications (VISAPP 2020)",
+    "location": "Valletta, Malta",
+    "date": "Feb. 27-29, 2020"
+  },
+  {
+    "authors": ["Z. Y. Wu", "H. Y. Lin"],
+    "title": "IntelliBike: An Intelligent Bicycle with Automatic Shifting Based on Sensing and Riding Analysis",
+    "conference": "2020 IEEE/SICE International Symposium on System Integration (SII 2020)",
+    "location": "Honolulu, Hawaii, USA",
+    "date": "Jan. 12-15, 2020"
+  },
+  {
+    "authors": ["G. J. Sun", "H. Y. Lin"],
+    "title": "Robotic Grasping Using Semantic Segmentation and Primitive Geometric Model Based 3D Pose Estimation",
+    "conference": "2020 IEEE/SICE International Symposium on System Integration (SII 2020)",
+    "location": "Honolulu, Hawaii, USA",
+    "date": "Jan. 12-15, 2020"
+  },
+  {
+    "authors": ["Y. C. Chiu", "H. Y. Lin", "W. L. Tai"],
+    "title": "Implementation and Evaluation of CNN Based Traffic Sign Detection with Different Resolutions",
+    "conference": "2019 IEEE International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS 2019)",
+    "location": "Taipei, Taiwan",
+    "date": "Dec. 3-6, 2019"
+  },
+  {
+    "authors": ["T. W. Yeh", "S. Y. Lin", "H. Y. Lin", "S. W. Chan", "C. T. Lin", "Y. Y. Lin"],
+    "title": "Traffic Light Detection using Convolutional Neural Networks and Lidar Data",
+    "conference": "2019 IEEE International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS 2019)",
+    "location": "Taipei, Taiwan",
+    "date": "Dec. 3-6, 2019"
+  },
+  {
+    "authors": ["S. L. Tseng", "H. Y. Lin"],
+    "title": "Fish Detection using Convolutional Neural Networks with Limited Training Data",
+    "conference": "The 5th Asian Conference on Pattern Recognition (ACPR 2019)",
+    "location": "Auckland, New Zealand",
+    "date": "Nov. 26-29, 2019"
+  },
+  {
+    "authors": ["Z. Y. Wu", "S. L. Tseng", "H. Y. Lin", "H. Y. Chen"],
+    "title": "Incorporating Stereo with Convolutional Neural Networks for Real-Time Fish Detection and Classification",
+    "conference": "The 9th IEEE International Conference on Cybernetics and Intelligent Systems, and Robotics, Automation and Mechatronics (CIS-RAM 2019)",
+    "location": "Bangkok, Thailand",
+    "date": "Nov. 18-20, 2019"
+  },
+  {
+    "authors": ["G. S. Cai", "H. Y. Lin", "S. F. Kao"],
+    "title": "Mobile Robot Localization using GPS, IMU and Visual Odometry",
+    "conference": "2019 International Automatic Control Conference (CACS 2019)",
+    "location": "Keelung, Taiwan",
+    "date": "Nov. 13-16, 2019"
+  },
+  {
+    "authors": ["T. A. Liu", "H. Y. Lin", "W. Y. Lin"],
+    "title": "InertialNet: Toward Robust SLAM via Visual Inertial Measurement",
+    "conference": "IEEE Intelligent Transportation Systems Conference (ITSC 2019)",
+    "location": "Auckland, New Zealand",
+    "date": "Oct. 27-30, 2019"
+  },
+  {
+    "authors": ["P. Y. Huang", "H. Y. Lin"],
+    "title": "Rear Obstacle Warning for Reverse Driving using Stereo Vision Techniques",
+    "conference": "2019 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2019)",
+    "location": "Bari, Italy",
+    "date": "Oct. 6-9, 2019"
+  },
+  {
+    "authors": ["V. L. Tran", "H. Y. Lin"],
+    "title": "Development of a 3D Semantic Segmentation Camera based on Mask Regional Convolutional Neural Network",
+    "conference": "2019 IEEE International Conference on System Science and Engineering (ICSSE 2019)",
+    "location": "Dong Hoi, Vietnam",
+    "date": "Jul. 19-21, 2019"
+  },
+  {
+    "authors": ["F. N. Yang", "H. Y. Lin"],
+    "title": "Development of a Predictive Maintenance Platform for Cyber-Physical Systems",
+    "conference": "2019 IEEE International Conference on Industrial Cyber-Physical Systems (ICPS 2019)",
+    "location": "Taipei, Taiwan",
+    "date": "May 6-9, 2019"
+  },
+  {
+    "authors": ["C. W. Lai", "H. Y. Lin", "W. L. Tai"],
+    "title": "Vision Based ADAS for Forward Vehicle Detection using Convolutional Neural Networks and Motion Tracking",
+    "conference": "The 4th International Conference on Vehicle Technology and Intelligent Transport Systems (VEHITS 2019)",
+    "location": "Heraklion, Crete, Greece",
+    "date": "May 3-5, 2019"
+  },
+  {
+    "authors": ["C. Y. Wu", "H. Y. Lin"],
+    "title": "Autonomous Mobile Robot Exploration in Unknown Indoor Environments Based on Rapidly-exploring Random Tree",
+    "conference": "2019 IEEE International Conference on Industrial Technology (ICIT 2019)",
+    "location": "Melbourne, Australia",
+    "date": "Feb. 13-15, 2019"
+  },
+  {
+    "authors": ["V. L. Tran", "H. Y. Lin"],
+    "title": "Dynamic Range Extension and Matching from a Single LDR Image",
+    "conference": "The 14th International Conference on Signal Image Technology & Internet Based Systems (SITIS 2018)",
+    "location": "Las Palmas de Gran Canaria, Spain",
+    "date": "Nov. 26-29, 2018"
+  },
+  {
+    "authors": ["Y. C. Huang", "H. Y. Lin"],
+    "title": "Development and Implementation of a Multi-Robot System for Collaborative Exploration and Complete Coverage",
+    "conference": "The 14th International Conference on Signal Image Technology & Internet Based Systems (SITIS 2018)",
+    "location": "Las Palmas de Gran Canaria, Spain",
+    "date": "Nov. 26-29, 2018"
+  },
+  {
+    "authors": ["Y. K. Chen", "H. Y. Lin", "S. L. Chen"],
+    "title": "Random Bin Picking with Multi-View Image Acquisition and CAD-Based Pose Estimation",
+    "conference": "2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2018)",
+    "location": "Miyazaki, Japan",
+    "date": "Oct. 7-10, 2018"
+  },
+  {
+    "authors": ["Y. T. Chen", "H. Y. Lin", "B. Y. Zhuo"],
+    "title": "Stereo with Zooming",
+    "conference": "2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2018)",
+    "location": "Miyazaki, Japan",
+    "date": "Oct. 7-10, 2018"
+  },
+  {
+    "authors": ["F. N. Yang", "C. Y. Wu", "H. Y. Lin"],
+    "title": "Design and Implementation of CPS-Based Automated Management Platform",
+    "conference": "2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2018)",
+    "location": "Miyazaki, Japan",
+    "date": "Oct. 7-10, 2018"
+  },
+  {
+    "authors": ["Y. Y. Tsou", "H. Y. Lin"],
+    "title": "Depth Measurement for a Mobile Robot using Camera Rotation",
+    "conference": "The 14th IEEE International Conference on Control & Automation (ICCA 2018)",
+    "location": "Anchorage, Alaska, USA",
+    "date": "June 12-15, 2018"
+  },
+  {
+    "authors": ["Y. J. Yeh", "H. Y. Lin"],
+    "title": "3D Reconstruction and Visual SLAM of Indoor Scenes for Augmented Reality Application",
+    "conference": "The 14th IEEE International Conference on Control & Automation (ICCA 2018)",
+    "location": "Anchorage, Alaska, USA",
+    "date": "June 12-15, 2018"
+  },
+  {
+    "authors": ["L. T. Wu", "H. Y. Lin"],
+    "title": "Overtaking Vehicle Detection Techniques Based on Optical Flow and Convolutional Neural Network",
+    "conference": "The 4th International Conference on Vehicle Technology and Intelligent Transport Systems (VEHITS 2018)",
+    "location": "Funchal, Madeira, Portugal",
+    "date": "Mar. 16-18, 2018"
+  },
+  {
+    "authors": ["J. L. Syu", "H. Y. Lin"],
+    "title": "Sparse Edge Visual Odometry using an RGB-D Camera",
+    "conference": "2017 Asian Control Conference (ASCC 2017)",
+    "location": "Gold Coast, Australia",
+    "date": "Dec. 17-20, 2017"
+  },
+  {
+    "authors": ["C. H. Do", "H. Y. Lin"],
+    "title": "Simultaneous Localization and Mapping with Neuro-Fuzzy Assisted Extended Kalman Filtering",
+    "conference": "2017 IEEE/SICE International Symposium on System Integration (SII 2017)",
+    "location": "Taipei, Taiwan",
+    "date": "Dec. 11-14, 2017"
+  },
+  {
+    "authors": ["C. H. Do", "H. Y. Lin"],
+    "title": "Differential Evolution for Optimizing Motion Planning of Mobile Robot",
+    "conference": "2017 IEEE/SICE International Symposium on System Integration (SII 2017)",
+    "location": "Taipei, Taiwan",
+    "date": "Dec. 11-14, 2017"
+  },
+  {
+    "authors": ["S. C. Huang", "C. Y. Li", "H. Y. Lin", "W. L. Tai"],
+    "title": "Traffic Sign Detection and Recognition using Image Features and Convolutional Neural Network",
+    "conference": "2017 CACS International Automatic Control Conference (CACS 2017)",
+    "location": "Kenting, Taiwan",
+    "date": "Nov. 12-15, 2017"
+  },
+  {
+    "authors": ["H. Y. Lin", "C. L. Tsai"],
+    "title": "Stereo with Coplanar Sensor Rotation",
+    "conference": "2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2017)",
+    "location": "Banff, Canada",
+    "date": "Oct. 5-8, 2017"
+  },
+  {
+    "authors": ["V. L. Tran", "H. Y. Lin"],
+    "title": "Accurate RGB-D Camera Based on Structured Light Techniques",
+    "conference": "IEEE International Conference on Systems Science and Engineering (ICSSE 2017)",
+    "location": "Ho Chi Minh City, Vietnam",
+    "date": "Jul. 21-23, 2017"
+  },
+  {
+    "authors": ["S. C. Huang", "H. Y. Lin", "C. C. Chang"],
+    "title": "An In-Car Camera System for Traffic Sign Detection and Recognition",
+    "conference": "Joint 17th World Congress of International Fuzzy Systems Association and 9th International Conference on Soft Computing and Intelligent Systems (IFSA-SCIS 2017)",
+    "location": "Otsu, Japan",
+    "date": "June 27-30, 2017"
+  },
+  {
+    "authors": ["J. H. Shi", "H. Y. Lin"],
+    "title": "A Vision System for Traffic Sign Detection and Recognition",
+    "conference": "2017 IEEE International Symposium on Industrial Electronics (ISIE 2017)",
+    "location": "Edinburgh, Scotland, UK",
+    "date": "June 19-21, 2017"
+  },
+  {
+    "authors": ["J. M. Dai", "T. A. Liu", "H. Y. Lin"],
+    "title": "Road Surface Detection and Recognition for Route Recommendation",
+    "conference": "IEEE 2017 Intelligent Vehicles Symposium (IV 2017)",
+    "location": "Redondo Beach, USA",
+    "date": "June 11-14, 2017"
+  },
+  {
+    "authors": ["S. C. Liang", "H. Y. Lin", "C. C. Chang"],
+    "title": "Model-Based 3D Pose Estimation for Pick-and-Place Application",
+    "conference": "IAPR International Conference on Machine Vision Applications (MVA 2017)",
+    "location": "Nagoya, Japan",
+    "date": "May 8-12, 2017"
+  },
+  {
+    "authors": ["J. M. Dai", "L. T. Wu", "H. Y. Lin", "W. L. Tai"],
+    "title": "A Driving Assistance System with Vision Based Vehicle Detection Techniques",
+    "conference": "2016 APSIPA Annual Summit and Conference (APSIPA ASC 2016)",
+    "location": "Jeju, Korea",
+    "date": "Dec. 13-16, 2016"
+  },
+  {
+    "authors": ["K. S. Cheng", "H. Y. Lin", "V. L. Tran"],
+    "title": "A 3D Recognition System with Local-Global Collaboration",
+    "conference": "3D Modelling and Applications Workshop (3DWA 2016, in conjunction with ACCV 2016)",
+    "location": "Taipei, Taiwan",
+    "date": "Nov. 20-24, 2016"
+  },
+  {
+    "authors": ["Y. R. Chen", "H. Y. Lin", "M. L. Wang"],
+    "title": "3-D Model Reconstruction from C-arm Images",
+    "conference": "2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2016)",
+    "location": "Budapest, Hungary",
+    "date": "Oct. 9-12, 2016"
+  },
+  {
+    "authors": ["X. Z. Peng", "H. Y. Lin", "J. M. Dai"],
+    "title": "Path Planning and Obstacle Avoidance for Vision Guided Quadrotor UAV Navigation",
+    "conference": "The 12th IEEE International Conference on Control & Automation (ICCA 2016)",
+    "location": "Kathmandu, Nepal",
+    "date": "June 1-3, 2016"
+  },
+  {
+    "authors": ["H. Y. Lin", "C. Y. Hsu"],
+    "title": "Optical Character Recognition with Fast Training Neural Network",
+    "conference": "2016 IEEE International Conference on Industrial Technology (ICIT 2016)",
+    "location": "Taipei, Taiwan",
+    "date": "March 14-17, 2016"
+  },
+  {
+    "authors": ["C. Y. Ho", "H. Y. Lin", "L. T. Wu"],
+    "title": "Intelligent Speed Bump System With Dynamic License Plate Recognition",
+    "conference": "2016 IEEE International Conference on Industrial Technology (ICIT 2016)",
+    "location": "Taipei, Taiwan",
+    "date": "March 14-17, 2016"
+  },
+  {
+    "authors": ["C. H. Hsu", "H. Y. Lin"],
+    "title": "Visual Navigation with Street View Image Matching",
+    "conference": "11th International Conference on Computer Vision Theory and Applications (VISAPP 2016)",
+    "location": "Rome, Italy",
+    "date": "Feb. 27-29, 2016"
+  },
+  {
+    "authors": ["H. Y. Lin", "C. C. Kao"],
+    "title": "Stereo Matching Techniques for High Dynamic Range Image Pairs",
+    "conference": "The 7th Pacific Rim Symposium on Image and Video Technology (PSIVT 2015)",
+    "location": "Auckland, New Zealand",
+    "date": "Nov. 23-27, 2015"
+  },
+  {
+    "authors": ["L. Q. Chen", "H. Y. Lin", "M. L. Wang"],
+    "title": "Color Reprint for Hypochromatopsia Correction",
+    "conference": "The 3rd IAPR Asian Conference on Pattern Recognition (ACPR 2015)",
+    "location": "Kuala Lumpur, Malaysia",
+    "date": "Nov. 3-6, 2015"
+  },
+  {
+    "authors": ["K. S. Cheng", "H. Y. Lin"],
+    "title": "Stereo Matching with Bit-Plane Slicing and Disparity Fusion",
+    "conference": "2015 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2015)",
+    "location": "Hong Kong",
+    "date": "Oct. 9-12, 2015"
+  },
+  {
+    "authors": ["J. W. Huang", "S. C. Liang", "H. Y. Lin"],
+    "title": "A Technique for Deriving the Camera Response Function Using Image Blur",
+    "conference": "IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW 2015)",
+    "location": "Taipei, Taiwan",
+    "date": "June 6-8, 2015"
+  },
+  {
+    "authors": ["K. S. Cheng", "H. Y. Lin"],
+    "title": "Automatic Target Recognition by Infrared and Visible Image Matching",
+    "conference": "IAPR International Conference on Machine Vision Applications (MVA 2015)",
+    "location": "Tokyo, Japan",
+    "date": "May 18-22, 2015"
+  },
+  {
+    "authors": ["P. C. Kang", "H. Y. Lin"],
+    "title": "Intelligent Autofocus with Adaptive Depth of Field",
+    "conference": "IAPR International Conference on Machine Vision Applications (MVA 2015)",
+    "location": "Tokyo, Japan",
+    "date": "May 18-22, 2015"
+  },
+  {
+    "authors": ["C. C. Kao", "H. Y. Lin"],
+    "title": "Performance Evaluation of Bit-Plane Slicing Based Stereo Matching Techniques",
+    "conference": "10th International Conference on Computer Vision Theory and Applications (VISAPP 2015)",
+    "location": "Berlin, Germany",
+    "date": "Mar. 11-14, 2015"
+  },
+  {
+    "authors": ["Y. M. Liao", "Y. Y. Tsou", "H. Y. Lin"],
+    "title": "A Dimension Measurement Technique Based on Camera Forward Motion",
+    "conference": "2014 CACS International Automatic Control Conference (CACS 2014)",
+    "location": "Kaohsiung, Taiwan",
+    "date": "Nov. 26-28, 2014"
+  },
+  {
+    "authors": ["H. Y. Lin", "J. W. Huang"],
+    "title": "Extended Dynamic Range Imaging: A Spatial Down-Sampling Approach",
+    "conference": "2014 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2014)",
+    "location": "San Diego, USA",
+    "date": "Oct. 5-8, 2014"
+  },
+  {
+    "authors": ["C. W. Yao", "K. S. Cheng", "H. Y. Lin"],
+    "title": "A Vision Assisted Vehicle Navigation Technique Based on Topological Map Construction and Scene Recognition",
+    "conference": "2nd Workshop on Vehicle Retrieval in Surveillance (VRS 2014, in conjunction with AVSS 2014)",
+    "location": "Seoul, Korea",
+    "date": "Aug. 26-29, 2014"
+  },
+  {
+    "authors": ["P. Y. Lee", "S. F. Yang", "M. H. Hu", "H. Y. Lin", "M. L. Wang"],
+    "title": "A Development of Coded Infrared LED Pattern Technology for Real-time Instrument Localization",
+    "conference": "14th Annual Meeting of Computer Assisted Orthopaedic Surgery (CAOS 2014)",
+    "location": "Milan, Italy",
+    "date": "June 18-21, 2014"
+  },
+  {
+    "authors": ["Y. C. Chuang", "H. Y. Lin"],
+    "title": "Localization and Tracking of a 3-D Object Based on Multi-View Image Acquisition",
+    "conference": "2014 IEEE International Symposium on Industrial Electronics (ISIE 2014)",
+    "location": "Istanbul, Turkey",
+    "date": "June 1-4, 2014"
+  },
+  {
+    "authors": ["S. F. Yang", "H. Y. Lin", "M. L. Wang"],
+    "title": "3D Instrument Localization and Tracking with the Integration of Image-Based and Electromagnetic Techniques",
+    "conference": "2014 IEEE International Symposium on Industrial Electronics (ISIE 2014)",
+    "location": "Istanbul, Turkey",
+    "date": "June 1-4, 2014"
+  },
+  {
+    "authors": ["Y. J. Tu", "C. C. Kao", "H. Y. Lin"],
+    "title": "Human Computer Interaction Using Face and Gesture Recognition",
+    "conference": "APSIPA Annual Summit and Conference 2013",
+    "location": "Kaohsiung, Taiwan",
+    "date": "Oct. 29-Nov. 1, 2013"
+  },
+  {
+    "authors": ["H. Y. Lin", "L. Q. Chen", "M. L. Wang"],
+    "title": "An Enhancement Technique for Hypochromatopsia Assisted Vision",
+    "conference": "2013 IEEE International Symposium on Consumer Electronics (ISCE 2013)",
+    "location": "Hsinchu, Taiwan",
+    "date": "June 3-6, 2013"
+  },
+  {
+    "authors": ["M. L. Wang", "A. Vemuri", "Y. Ho", "S. F. Yang", "H. Y. Lin"],
+    "title": "Hybrid Optical and Electromagnetic Method for Medical Instrument Tracking Application",
+    "conference": "2013 IEEE International Symposium on Consumer Electronics (ISCE 2013)",
+    "location": "Hsinchu, Taiwan",
+    "date": "June 3-6, 2013"
+  },
+  {
+    "authors": ["M. L. Wang", "J. R. Wu", "L. W. Kao", "H. Y. Lin"],
+    "title": "Development of a Vision System and a Strategy Simulation for Middle Size Soccer Robot",
+    "conference": "2013 International Conference on Advanced Robotics and Intelligent Systems (ARIS 2013)",
+    "location": "Tainan, Taiwan",
+    "date": "May 31-June 2, 2013"
+  },
+  {
+    "authors": ["H. Y. Lin", "C. Y. Hsu", "Y. Y. Chiang"],
+    "title": "Detecting Structured Image Region Using Local Features and Clustering Analysis",
+    "conference": "IAPR International Conference on Machine Vision Applications (MVA 2013)",
+    "location": "Kyoto, Japan",
+    "date": "May 20-23, 2013"
+  },
+  {
+    "authors": ["H. Y. Lin", "Y. H. Lin", "J. W. Yao"],
+    "title": "Scene Change Detection and Topological Map Construction Using Omnidirectional Image Sequences",
+    "conference": "IAPR International Conference on Machine Vision Applications (MVA 2013)",
+    "location": "Kyoto, Japan",
+    "date": "May 20-23, 2013"
+  },
+  {
+    "authors": ["H. Y. Lin", "X. H. Chou"],
+    "title": "An Image Quality Assessment Technique Using Defocused Blur As Evaluation Metric",
+    "conference": "8th International Conference on Computer Vision Theory and Applications (VISAPP 2013)",
+    "location": "Barcelona, Spain",
+    "date": "Feb. 21-24, 2013"
+  },
+  {
+    "authors": ["H. Y. Lin", "C. C. Chang", "J. Y. Huang"],
+    "title": "Combining Depth Information for Image Retargeting",
+    "conference": "8th International Conference on Computer Vision Theory and Applications (VISAPP 2013)",
+    "location": "Barcelona, Spain",
+    "date": "Feb. 21-24, 2013"
+  },
+  {
+    "authors": ["H. Y. Lin", "P. Z. Lin"],
+    "title": "Hierarchical Stereo Matching Based on Image Bit-Plane Slicing",
+    "conference": "Workshop on Intelligent Mobile Vision (in conjunction with ACCV 2012)",
+    "location": "Daejeon, Korea",
+    "date": "Nov. 2012"
+  },
+  {
+    "authors": ["H. Y. Lin", "L. Q. Chen", "Y. H. Lin", "M. S. Yu"],
+    "title": "Lane Departure and Front Collision Warning Using a Single Camera",
+    "conference": "2012 IEEE International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS 2012)",
+    "location": "Taipei, Taiwan",
+    "date": "Nov. 2012"
+  },
+  {
+    "authors": ["P. H. Lee", "J. W. Huang", "H. Y. Lin"],
+    "title": "3D Model Reconstruction Based on Multiple View Image Capture",
+    "conference": "2012 IEEE International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS 2012)",
+    "location": "Taipei, Taiwan",
+    "date": "Nov. 2012"
+  },
+  {
+    "authors": ["M. L. Wang", "J. R. Wu", "K. C. Liu", "P. Y. Lee", "Y. Y. Chiang", "H. Y. Lin"],
+    "title": "Innovative 3D Augmented Reality Techniques for Spinal Surgery Applications",
+    "conference": "2012 IEEE International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS 2012)",
+    "location": "Taipei, Taiwan",
+    "date": "Nov. 2012"
+  },
+  {
+    "authors": ["H. Y. Lin", "X. H. Chou"],
+    "title": "Stereo Matching on Low Intensity Quantization Images",
+    "conference": "2012 International Conference on Pattern Recognition (ICPR 2012)",
+    "location": "Tsukuba, Japan",
+    "date": "Nov. 2012"
+  },
+  {
+    "authors": ["M. L. Wang", "H. S. Wu", "C. H. He", "W. T. Huang", "H. Y. Lin"],
+    "title": "Geometric Constraints for Robot Navigation using Omnidirectional Camera",
+    "conference": "2012 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2012)",
+    "location": "Seoul, Korea",
+    "date": "Oct. 2012"
+  },
+  {
+    "authors": ["M. H. Chia", "C. H. He", "H. Y. Lin"],
+    "title": "Photo-Consistent 3D Model Deformation for Novel View Image Synthesis",
+    "conference": "2012 International Conference on Information Security and Intelligent Control (ISIC 2012)",
+    "location": "Yunlin, Taiwan",
+    "date": "Aug. 2012"
+  },
+  {
+    "authors": ["W. T. Huang", "C. L. Tsai", "H. Y. Lin"],
+    "title": "Mobile Robot Localization using Ceiling Landmarks and Images Captured from an RGB-D Camera",
+    "conference": "2012 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2012)",
+    "location": "Kaohsiung, Taiwan",
+    "date": "July 2012"
+  },
+  {
+    "authors": ["N. C. Huang", "H. Y. Lin"],
+    "title": "A Multi-Stage Processing Technique for Character Recognition",
+    "conference": "2012 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2012)",
+    "location": "Kaohsiung, Taiwan",
+    "date": "July 2012"
+  },
+  {
+    "authors": ["H. Y. Lin", "C. C. Chang", "C. H. Hsieh"],
+    "title": "Cooperative Resizing Technique for Stereo Image Pairs",
+    "conference": "Proceedings of 2012 International Conference on Software and Computer Applications (ICSCA 2012)",
+    "location": "Singapore",
+    "date": "June 2012"
+  },
+  {
+    "authors": ["J. H. Zhou", "H. Y. Lin"],
+    "title": "A Self-Localization and Path Planning Technique for Mobile Robot Navigation",
+    "conference": "2011 World Congress on Intelligent Control and Automation (WCICA 2011)",
+    "location": "Taipei, Taiwan",
+    "date": "June 21-25, 2011"
+  },
+  {
+    "authors": ["H. Y. Lin", "T. W. Chen"],
+    "title": "Augmented Reality with Human Body Interaction Based on Monocular 3D Pose Estimation",
+    "conference": "12th International Conference on Advanced Concepts for Intelligent Vision Systems (ACIVS 2010)",
+    "location": "Sydney, Australia",
+    "date": "Dec. 13-16, 2010"
+  },
+  {
+    "authors": ["M. L. Wang", "H. Y. Lin"],
+    "title": "A Hull Census Transform for Scene Change Detection and Recognition Towards Topological Map Building",
+    "conference": "2010 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2010)",
+    "location": "Taipei, Taiwan",
+    "date": "Oct. 18-22, 2010"
+  },
+  {
+    "authors": ["H. Y. Lin", "Y. H. Xiao"],
+    "title": "Free-Viewpoint Image Synthesis Based on Non-Uniformly Resampled 3D Representation",
+    "conference": "IEEE International Conference on Image Processing (ICIP 2010)",
+    "location": "Hong Kong",
+    "date": "Sep. 26-29, 2010"
+  },
+  {
+    "authors": ["M. S. Yu", "H. Wu", "H. Y. Lin"],
+    "title": "A Visual Surveillance System for Mobile Robot using Omnidirectional and PTZ Cameras",
+    "conference": "The SICE Annual Conference 2010 (SICE 2010)",
+    "location": "Taipei, Taiwan",
+    "date": "Aug. 18-21, 2010"
+  },
+  {
+    "authors": ["H. Y. Lin", "Y. H. Xiao"],
+    "title": "3-D Scene Representation with Layered Non-Uniform Global Sampling",
+    "conference": "First International Workshop on Three Dimensional Information Extraction for Video Analysis and Mining (in conjunction with CVPR 2010)",
+    "location": "San Francisco, USA",
+    "date": "June 13-18, 2010"
+  },
+  {
+    "authors": ["H. Y. Lin", "W. Z. Chang"],
+    "title": "High Dynamic Range Imaging for Stereoscopic Scene Representation",
+    "conference": "2009 IEEE International Conference on Image Processing (ICIP 2009)",
+    "location": "Cairo, Egypt",
+    "date": "Nov. 2009"
+  },
+  {
+    "authors": ["M. L. Wang", "H. Y. Lin"],
+    "title": "Object Recognition from Omnidirectional Visual Sensing for Mobile Robot Applications",
+    "conference": "2009 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2009)",
+    "location": "San Antonio, Texas, USA",
+    "date": "Oct. 2009"
+  },
+  {
+    "authors": ["C. H. Hsieh", "M. L. Wang", "L. W. Kao", "H. Y. Lin"],
+    "title": "Mobile Robot Localization and Path Planning Using an Omnidirectional Camera and Infrared Sensors",
+    "conference": "2009 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2009)",
+    "location": "San Antonio, Texas, USA",
+    "date": "Oct. 2009"
+  },
+  {
+    "authors": ["H. Y. Lin", "M. L. Wang"],
+    "title": "Generalized Stereo for Hybrid Omnidirectional and Perspective Imaging",
+    "conference": "Workshop on Omnidirectional Vision, Camera Networks and Non-Classical Cameras (OMNIVIS 2009, in conjunction with ICCV 2009)",
+    "location": "Kyoto, Japan",
+    "date": "Sep. 2009"
+  },
+  {
+    "authors": ["H. Y. Lin", "T. W. Chen", "C. C. Chen", "C. H. Hsieh", "W. N. Lie"],
+    "title": "Human Pose Estimation from Monocular Image Captures",
+    "conference": "2009 IEEE International Conference on Multimedia & Expo (ICME 2009)",
+    "location": "New York City, New York, USA",
+    "date": "June 2009"
+  },
+  {
+    "authors": ["H. Y. Lin", "W. C. Fan-Chiang"],
+    "title": "Image-Based Techniques for Shredded Document Reconstruction",
+    "conference": "Third Pacific Rim Symposium on Image and Video Technology (PSIVT 2009)",
+    "location": "Tokyo, Japan",
+    "date": "Jan. 13-16, 2009"
+  },
+  {
+    "authors": ["H. Y. Lin", "J. R. Wu"],
+    "title": "3D Reconstruction by Combining Shape from Silhouette with Stereo",
+    "conference": "19th International Conference on Pattern Recognition (ICPR 2008)",
+    "location": "Tampa, Florida, USA",
+    "date": "Dec. 2008"
+  },
+  {
+    "authors": ["H. Y. Lin", "K. D. Gu"],
+    "title": "Depth Recovery Using Defocus Blur at Infinity",
+    "conference": "19th International Conference on Pattern Recognition (ICPR 2008)",
+    "location": "Tampa, Florida, USA",
+    "date": "Dec. 2008"
+  },
+  {
+    "authors": ["H. Y. Lin", "W. N. Lie", "M. L. Wang"],
+    "title": "A Framework of View-Dependent Planar Scene Active Camouflage",
+    "conference": "Fifth Canadian Conference on Computer and Robot Vision (CRV 2008)",
+    "location": "Windsor, Ontario, Canada",
+    "date": "May 2008"
+  },
+  {
+    "authors": ["H. Y. Lin", "K. D. Gu"],
+    "title": "Photo-Realistic Depth-of-Field Effects Synthesis Based on Real Camera Parameters",
+    "conference": "Third International Symposium on Visual Computing (ISVC 2007)",
+    "location": "Lake Tahoe, NV, USA",
+    "date": "Nov. 26-28, 2007"
+  },
+  {
+    "authors": ["M. L. Wang", "S. C. Liang", "H. Y. Lin"],
+    "title": "3D Surface Reconstruction with an Image-Based Slicing Technique",
+    "conference": "33rd Annual Conference of the IEEE Industrial Electronics Society (IECON 2007)",
+    "location": "Taipei, Taiwan",
+    "date": "Nov. 2007"
+  },
+  {
+    "authors": ["H. Y. Lin", "S. C. Liang", "J. R. Wu"],
+    "title": "3D Shape Recovery with Registration Assisted Stereo Matching",
+    "conference": "Third Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA 2007)",
+    "location": "Girona, Spain",
+    "date": "June 6-8, 2007"
+  },
+  {
+    "authors": ["H. Y. Lin", "J. Y. Wei"],
+    "title": "A Street Scene Surveillance System for Moving Object Detection, Tracking and Classification",
+    "conference": "2007 IEEE Intelligent Vehicles Symposium (IV 2007)",
+    "location": "Istanbul, Turkey",
+    "date": "June 2007"
+  },
+  {
+    "authors": ["H. Y. Lin", "C. H. Chang"],
+    "title": "Photo-Consistent Motion Blur Modeling for Realistic Image Synthesis",
+    "conference": "First Pacific-Rim Symposium on Image and Video Technology (PSIVT 2006)",
+    "location": "Hsinchu, Taiwan",
+    "date": "Dec. 10-13, 2006"
+  },
+  {
+    "authors": ["H. Y. Lin", "M. L. Wang", "P. H. Yu"],
+    "title": "A 3D Model Acquisition System Based on a Sequence of Projected Level Curves",
+    "conference": "8th International Conference on Advanced Concepts for Intelligent Vision Systems (ACIVS 2006)",
+    "location": "Antwerp, Belgium",
+    "date": "Sep. 18-21, 2006"
+  },
+  {
+    "authors": ["H. Y. Lin", "C. H. Chang"],
+    "title": "Depth Recovery from Motion and Defocus Blur",
+    "conference": "Third International Conference on Image Analysis and Recognition (ICIAR 2006)",
+    "location": "Póvoa de Varzim, Portugal",
+    "date": "Sep. 18-20, 2006"
+  },
+  {
+    "authors": ["H. Y. Lin", "C. H. Chang"],
+    "title": "Depth Recovery from Motion Blurred Images",
+    "conference": "18th International Conference on Pattern Recognition (ICPR 2006)",
+    "location": "Hong Kong",
+    "date": "Aug. 2006"
+  },
+  {
+    "authors": ["H. Y. Lin", "C. Y. Ho"],
+    "title": "3D Model Acquisition Based on Projections of Level Curves",
+    "conference": "18th International Conference on Pattern Recognition (ICPR 2006)",
+    "location": "Hong Kong",
+    "date": "Aug. 2006"
+  },
+  {
+    "authors": ["M. L. Wang", "C. C. Huang", "H. Y. Lin"],
+    "title": "An Intelligent Surveillance System Based on an Omnidirectional Vision Sensor",
+    "conference": "IEEE International Conference on Cybernetics & Intelligent Systems (CIS-RAM 2006)",
+    "location": "Bangkok, Thailand",
+    "date": "June 2006"
+  },
+  {
+    "authors": ["H. Y. Lin", "J. H. Lin", "M. L. Wang"],
+    "title": "A Visual Positioning System for Vehicle Navigation",
+    "conference": "8th International IEEE Conference on Intelligent Transportation Systems (ITSC 2005)",
+    "location": "Vienna, Austria",
+    "date": "Sep. 2005"
+  },
+  {
+    "authors": ["H. Y. Lin", "C. H. Chang"],
+    "title": "Automatic Speed Measurements of Spherical Objects Using an Off-the-Shelf Digital Camera",
+    "conference": "IEEE International Conference on Mechatronics (ICM 2005)",
+    "location": "Taipei, Taiwan",
+    "date": "July 2005"
+  },
+  {
+    "authors": ["H. Y. Lin", "K. J. Li"],
+    "title": "Vehicle Speed Estimation from Single Still Images Based on Motion Blur Analysis",
+    "conference": "Ninth IAPR Conference on Machine Vision Applications (MVA 2005)",
+    "location": "Tokyo, Japan",
+    "date": "May 2005"
+  },
+  {
+    "authors": ["H. Y. Lin", "S. L. Chen", "J. H. Lin"],
+    "title": "Architectural Reconstruction from Single or Multiple Uncalibrated Images",
+    "conference": "Ninth IAPR Conference on Machine Vision Applications (MVA 2005)",
+    "location": "Tokyo, Japan",
+    "date": "May 2005"
+  },
+  {
+    "authors": ["H. Y. Lin"],
+    "title": "Vehicle Speed Detection and Identification from a Single Motion Blurred Image",
+    "conference": "Seventh IEEE Workshop on Applications of Computer Vision (WACV 2005)",
+    "location": "Breckenridge, Colorado, USA",
+    "date": "Jan. 2005"
+  },
+  {
+    "authors": ["H. Y. Lin", "K. J. Li"],
+    "title": "Motion Blur Removal and its Application to Vehicle Speed Detection",
+    "conference": "IEEE International Conference on Image Processing (ICIP 2004)",
+    "location": "Singapore",
+    "date": "Oct. 2004"
+  },
+  {
+    "authors": ["H. Y. Lin", "M. Subbarao"],
+    "title": "Multiple Base-Angle Rotational Stereo for Accurate 3D Model Reconstruction",
+    "conference": "3rd International Symposium on Image and Signal Processing and Analysis (ISPA 2003)",
+    "location": "Rome, Italy",
+    "date": "Sep. 2003"
+  },
+  {
+    "authors": ["H. Y. Lin", "M. Subbarao"],
+    "title": "Complete 3D Model Reconstruction from Multiple Views",
+    "conference": "Machine Vision and Three-Dimensional Imaging Systems for Inspection and Metrology II, Proceedings of SPIE, Vol. 4567",
+    "location": "Boston, MA, USA",
+    "date": "Feb. 2002"
+  },
+  {
+    "authors": ["H. Y. Lin", "M. Subbarao"],
+    "title": "A Vision System for Fast 3D Model Reconstruction",
+    "conference": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR 2001)",
+    "location": "Kauai, Hawaii, USA",
+    "date": "Dec. 2001"
+  },
+  {
+    "authors": ["H. Y. Lin", "M. Subbarao"],
+    "title": "Three-Dimensional Model Acquisition using Rotational Stereo and Image Focus Analysis",
+    "conference": "Machine Vision and Three-Dimensional Imaging Systems for Inspection and Metrology, Proceedings of SPIE, Vol. 4189",
+    "location": "Boston, MA, USA",
+    "date": "Feb. 2001"
+  },
+  {
+    "authors": ["T. Yuan", "H. Y. Lin", "X. Qin", "M. Subbarao"],
+    "title": "A Digital Vision System for Three-dimensional Model Acquisition",
+    "conference": "Vision Geometry IX, Proceedings of SPIE, Vol. 4117",
+    "location": "San Diego, CA, USA",
+    "date": "July 2000"
+  }
+]

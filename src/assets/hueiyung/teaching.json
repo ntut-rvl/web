@@ -1,0 +1,58 @@
+[
+    {
+        "course": "Electric Circuit I, II",
+        "grade": "undergraduate"
+    },
+    {
+        "course": "Introduction to Visual Computing",
+        "grade": "undergraduate"
+    },
+    {
+        "course": "Linear Algebra",
+        "grade": "undergraduate"
+    },
+    {
+        "course": "Computer Organization",
+        "grade": "undergraduate"
+    },
+    {
+        "course": "Introduction to Image Processing",
+        "grade": "undergraduate"
+    },
+    {
+        "course": "Differential Equations",
+        "grade": "undergraduate"
+    },
+    {
+        "course": "Machine Vision",
+        "grade": "undergraduate"
+    },
+    {
+        "course": "Design Project on Intelligent Systems",
+        "grade": "undergraduate"
+    },
+    {
+        "course": "Logic Design",
+        "grade": "undergraduate"
+    },
+    {
+        "course": "Introduction to Computer Vision",
+        "grade": "master"
+    },
+    {
+        "course": "3-D Computer Vision",
+        "grade": "master"
+    },
+    {
+        "course": "Autonomous Mobile Robots",
+        "grade": "master"
+    },
+    {
+        "course": "Introduction to Computer Vision",
+        "grade": "master"
+    },
+    {
+        "course": "High Quality and 3D TV",
+        "grade": "master"
+    }
+]
