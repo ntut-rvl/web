@@ -1,0 +1,80 @@
+[
+  {
+    "inventors": ["H. Y. Lin", "Y. T. Chen"],
+    "title": "Method for reducing matching error in disparity image by information in zoom image",
+    "patentNumber": "US 10,529,092",
+    "filingDate": "Dec. 2017",
+    "issueDate": "Jan. 7, 2020"
+  },
+  {
+    "inventors": ["H. Y. Lin", "C. L. Tsai"],
+    "title": "Method for measuring environment depth using image extraction device rotation and image extraction device thereof",
+    "patentNumber": "US 9,197,879",
+    "filingDate": "Dec. 2014",
+    "issueDate": "Nov. 24, 2015"
+  },
+  {
+    "inventors": ["H. Y. Lin", "P. C. Kang"],
+    "title": "Method for adaptive focusing",
+    "patentNumber": "US 9,100,569",
+    "filingDate": "Jan. 2014",
+    "issueDate": "Aug. 4, 2015"
+  },
+  {
+    "inventors": ["M. L. Wang", "H. Y. Lin", "L. Q. Chen", "S. C. Chao", "L. C. Lai"],
+    "title": "Image enhancement method for improving color perception of colorblind viewers",
+    "patentNumber": "US 8,977,051",
+    "filingDate": "Mar. 2013",
+    "issueDate": "Mar. 10, 2015"
+  },
+  {
+    "inventors": ["H. Y. Lin", "X. H. Chou"],
+    "title": "Method for estimating blur degree of image and method for evaluating image quality",
+    "patentNumber": "US 8,917,938",
+    "filingDate": "Nov. 2012",
+    "issueDate": "Dec. 23, 2014"
+  },
+  {
+    "inventors": ["H. Y. Lin", "P. Z. Lin"],
+    "title": "Stereo matching method based on image intensity quantization",
+    "patentNumber": "US 8,406,512",
+    "filingDate": "May 2011",
+    "issueDate": "Mar. 26, 2013"
+  },
+  {
+    "inventors": ["H. Y. Lin", "K. D. Gu", "H. C. Wang"],
+    "title": "Apparatus and method for measuring depth and method for computing image defocus and blur status",
+    "patentNumber": "US 8,260,074",
+    "filingDate": "July 2009",
+    "issueDate": "Sep. 4, 2012"
+  },
+  {
+    "inventors": ["H. Y. Lin", "M. L. Wang", "S. C. Liang"],
+    "title": "3D model reconstruction acquisition based on images of incremental or decremental liquid level",
+    "patentNumber": "US 8,260,037",
+    "filingDate": "Jan. 2009",
+    "issueDate": "Sep. 4, 2012"
+  },
+  {
+    "inventors": ["H. Y. Lin", "W. Z. Chang"],
+    "title": "Method for high dynamic range imaging",
+    "patentNumber": "US 8,208,048",
+    "filingDate": "May 2009",
+    "issueDate": "June 26, 2012"
+  },
+  {
+    "inventors": ["H. Y. Lin", "W. C. Fan-Chiang"],
+    "title": "Image-based techniques for shredded document reconstruction",
+    "patentNumber": "US 8,073,264",
+    "filingDate": "Oct. 2009",
+    "issueDate": "Dec. 6, 2011"
+  },
+  {
+    "inventors": ["H. Y. Lin"],
+    "title": "Measurement method using blurred images",
+    "patentNumber": "US 7,330,569",
+    "filingDate": "Oct. 2004",
+    "issueDate": "Feb. 12, 2008"
+  }
+]
+

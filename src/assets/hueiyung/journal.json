@@ -1,0 +1,895 @@
+{
+    "data": [
+        {
+            "authors": [
+                "H. Y. Lin",
+                "Y. C. Chen"
+            ],
+            "title": "Traffic Light Detection using Ensemble Learning by Boosting with Color-Based Data Augmentation",
+            "journal": "International Journal of Transportation Science and Technology",
+            "volume": null,
+            "issue": null,
+            "pages": null,
+            "date": "Nov. 2024"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "S. F. Kao",
+                "C. C. Wang"
+            ],
+            "title": "A Passenger Detection and Action Recognition System for Public Transport Vehicles",
+            "journal": "Journal of Intelligent & Robotic Systems",
+            "volume": "110",
+            "issue": null,
+            "pages": null,
+            "date": "Oct. 2024"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "Y. R. Lin",
+                "W. C. Lin",
+                "C. C. Chang"
+            ],
+            "title": "Reconstructing High Dynamic Range Image from a Single Low Dynamic Range Image Using Histogram Learning",
+            "journal": "Applied Sciences",
+            "volume": "14",
+            "issue": "21",
+            "pages": "9847",
+            "date": "Oct. 2024"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "P. Y. Hsieh",
+                "S. Y. Chou",
+                "C. C. Chang"
+            ],
+            "title": "An Improved Ensemble Learning-Based Approach for Retail Product Recognition",
+            "journal": "International Journal of Innovative Computing, Information and Control",
+            "volume": "20",
+            "issue": "5",
+            "pages": "1319-1330",
+            "date": "Oct. 2024"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "S. Y. Lin",
+                "K. C. Tu"
+            ],
+            "title": "Traffic Light Detection and Recognition using a Two-Stage Framework from Individual Signal Bulb Identification",
+            "journal": "IEEE Access",
+            "volume": "12",
+            "issue": null,
+            "pages": "132279-132289",
+            "date": "Aug. 2024"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. K. Chang",
+                "V. L. Tran"
+            ],
+            "title": "Lane Detection Networks Based on Deep Neural Networks and Temporal Information",
+            "journal": "Alexandria Engineering Journal",
+            "volume": "98",
+            "issue": null,
+            "pages": "10-18",
+            "date": "Jul. 2024"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "K. L. Chang",
+                "H. Y. Huang"
+            ],
+            "title": "Development of Unmanned Aerial Vehicle Navigation and Warehouse Inventory System Based on Reinforcement Learning",
+            "journal": "Drones",
+            "volume": "8",
+            "issue": "6",
+            "pages": "220",
+            "date": "May 2024"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "T. Y. Hsu"
+            ],
+            "title": "Disparity Computation with Low Intensity Quantization on Stereo Image Pairs",
+            "journal": "IEEE Transactions on Computational Imaging",
+            "volume": "10",
+            "issue": null,
+            "pages": "318-328",
+            "date": "Feb. 2024"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. H. Tseng"
+            ],
+            "title": "Abnormal Activity Detection and Classification of Bus Passengers with In-Vehicle Image Sensing",
+            "journal": "IEEE Access",
+            "volume": "12",
+            "issue": null,
+            "pages": "23057-23065",
+            "date": "Feb. 2024"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "T. A. Liu",
+                "W. Y. Lin"
+            ],
+            "title": "Inertialnet: Inertial Measurement Learning for Simultaneous Localization and Mapping",
+            "journal": "Sensors",
+            "volume": null,
+            "issue": null,
+            "pages": null,
+            "date": "Dec. 2023"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "J. Z. Zhang",
+                "C. C. Chang"
+            ],
+            "title": "Image Data Extraction and Driving Behavior Analysis Based on Geographic Information and Driving Data",
+            "journal": "Electronics",
+            "volume": "12",
+            "issue": "13",
+            "pages": "2989",
+            "date": "Jul. 2023"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. Y. Hsu"
+            ],
+            "title": "Structured Cluster Detection from Local Feature Learning for Text Region Extraction",
+            "journal": "Entropy",
+            "volume": null,
+            "issue": null,
+            "pages": null,
+            "date": "Apr. 2023"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "J. R. Zhan"
+            ],
+            "title": "GNSS-denied UAV Indoor Navigation with UWB Incorporated Visual Inertial Odometry",
+            "journal": "Measurement (Journal of the International Measurement Confederation)",
+            "volume": "206",
+            "issue": null,
+            "pages": null,
+            "date": "Jan. 2023"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "S. L. Tseng",
+                "J. Y. Li"
+            ],
+            "title": "SUR-Net: A Deep Network for Fish Detection and Segmentation with Limited Training Data",
+            "journal": "IEEE Sensors Journal",
+            "volume": "22",
+            "issue": "18",
+            "pages": "18035-18044",
+            "date": "Sep. 2022"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "M. C. Yeh"
+            ],
+            "title": "Drift-Free Visual SLAM for Mobile Robot Localization by Integrating UWB Technology",
+            "journal": "IEEE Access",
+            "volume": "10",
+            "issue": null,
+            "pages": "93636-93645",
+            "date": "Sep. 2022"
+        },
+        {
+            "authors": [
+                "B. T. Dong",
+                "H. Y. Lin",
+                "C. C. Chang"
+            ],
+            "title": "Driver Fatigue and Distracted Driving Detection Using Random Forest and Convolutional Neural Network",
+            "journal": "Applied Sciences",
+            "volume": "12",
+            "issue": "17",
+            "pages": null,
+            "date": "Aug. 2022"
+        },
+        {
+            "authors": [
+                "V. L. Tran",
+                "H. Y. Lin",
+                "H. W. Liu"
+            ],
+            "title": "Multitask Deep Learning for Segmentation and Lumbosacral Spine Inspection",
+            "journal": "IEEE Transactions on Instrumentation and Measurement",
+            "volume": "71",
+            "issue": null,
+            "pages": null,
+            "date": "Jul. 2022"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. Y. Ho"
+            ],
+            "title": "Adaptive Speed Bump with Vehicle Identification for Intelligent Traffic Flow Control",
+            "journal": "IEEE Access",
+            "volume": null,
+            "issue": null,
+            "pages": null,
+            "date": "Jun. 2022"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "Z. Y. Wu"
+            ],
+            "title": "Development of Automatic Gear Shifting for Bicycle Riding Based on Physiological Information and Environment Sensing",
+            "journal": "IEEE Sensors Journal",
+            "volume": "21",
+            "issue": "21",
+            "pages": "24591-24600",
+            "date": "Nov. 2021"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. C. Kao"
+            ],
+            "title": "Hierarchical Bit-Plane Slicing for High Dynamic Range Image Stereo Matching",
+            "journal": "IEEE Transactions on Instrumentation and Measurement",
+            "volume": "70",
+            "issue": null,
+            "pages": null,
+            "date": "Sep. 2021"
+        },
+        {
+            "authors": [
+                "T. W. Yeh",
+                "H. Y. Lin",
+                "C. C. Chang"
+            ],
+            "title": "Traffic Light and Arrow Signal Recognition Based on a Unified Network",
+            "journal": "Applied Sciences",
+            "volume": "11",
+            "issue": "17",
+            "pages": null,
+            "date": "Sep. 2021"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "X. Z. Peng"
+            ],
+            "title": "Autonomous Quadrotor Navigation with Vision Based Obstacle Avoidance and Path Planning",
+            "journal": "IEEE Access",
+            "volume": "9",
+            "issue": null,
+            "pages": "102450–102459",
+            "date": "Jul. 2021"
+        },
+        {
+            "authors": [
+                "H. M. Wang",
+                "H. Y. Lin",
+                "C. C. Chang"
+            ],
+            "title": "Object Detection and Depth Estimation Approach Based on Deep Convolutional Neural Networks",
+            "journal": "Sensors",
+            "volume": "21",
+            "issue": "14",
+            "pages": null,
+            "date": "Jul. 2021"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "Y. C. Chung",
+                "M. L. Wang"
+            ],
+            "title": "Self-Localization of Mobile Robots Using a Single Catadioptric Camera with Line Feature Extraction",
+            "journal": "Sensors",
+            "volume": "21",
+            "issue": "14",
+            "pages": null,
+            "date": "Jul. 2021"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "Y. C. Huang"
+            ],
+            "title": "Collaborative Complete Coverage and Path Planning for Multi-Robot Exploration",
+            "journal": "Sensors",
+            "volume": "21",
+            "issue": "11",
+            "pages": null,
+            "date": "May 2021"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "J. L. Hsu"
+            ],
+            "title": "A Sparse Visual Odometry Technique Based on Pose Adjustment with Keyframe Matching",
+            "journal": "IEEE Sensors Journal",
+            "volume": "21",
+            "issue": "10",
+            "pages": "11810-11821",
+            "date": "May 2021"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "S. C. Liang",
+                "Y. K. Chen"
+            ],
+            "title": "Robotic Grasping with Multi-View Image Acquisition and Model-Based Pose Estimation",
+            "journal": "IEEE Sensors Journal",
+            "volume": "21",
+            "issue": "10",
+            "pages": "11870-11878",
+            "date": "May 2021"
+        },
+        {
+            "authors": [
+                "V. L. Tran",
+                "H. Y. Lin"
+            ],
+            "title": "BiLuNetICP: A Deep Neural Network for Object Semantic Segmentation and 6D Pose Recognition",
+            "journal": "IEEE Sensors Journal",
+            "volume": "21",
+            "issue": "10",
+            "pages": "11748-11757",
+            "date": "May 2021"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. L. Tsai",
+                "V. L. Tran"
+            ],
+            "title": "Depth Measurement Based on Stereo Vision with Integrated Camera Rotation",
+            "journal": "IEEE Transactions on Instrumentation and Measurement",
+            "volume": "70",
+            "issue": null,
+            "pages": "1-10",
+            "date": "Apr. 2021"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. H. He"
+            ],
+            "title": "Mobile Robot Self-Localization Using Omnidirectional Vision with Feature Matching from Real and Virtual Spaces",
+            "journal": "Applied Sciences",
+            "volume": "11",
+            "issue": "8",
+            "pages": null,
+            "date": "Apr. 2021"
+        },
+        {
+            "authors": [
+                "B. Y. Zhuo",
+                "H. Y. Lin",
+                "C. C. Chang"
+            ],
+            "title": "Stereo Matching Approach Using Zooming Images",
+            "journal": "International Journal of Innovative Computing, Information and Control",
+            "volume": "17",
+            "issue": "2",
+            "pages": "473-482",
+            "date": "Apr. 2021"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "K. C. Tu",
+                "C. Y. Li"
+            ],
+            "title": "VAID: An Aerial Image Dataset for Vehicle Detection and Classification",
+            "journal": "IEEE Access",
+            "volume": null,
+            "issue": null,
+            "pages": null,
+            "date": "Nov. 2020"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "J. M. Dai",
+                "L. T. Wu",
+                "L. Q. Chen"
+            ],
+            "title": "A Vision Based Driver Assistance System with Forward Collision and Overtaking Detection",
+            "journal": "Sensors",
+            "volume": "20",
+            "issue": "18",
+            "pages": null,
+            "date": "Sep. 2020"
+        },
+        {
+            "authors": [
+                "P. Y. Huang",
+                "H. Y. Lin",
+                "C. C. Chang"
+            ],
+            "title": "Depth-Based Rear-Obstacle Detection Approach for Driving in the Reverse Gear",
+            "journal": "International Journal of Innovative Computing, Information and Control",
+            "volume": null,
+            "issue": null,
+            "pages": null,
+            "date": "Aug. 2020"
+        },
+        {
+            "authors": [
+                "V. L. Tran",
+                "H. Y. Lin"
+            ],
+            "title": "Extending and Matching a High Dynamic Range Image from a Single Image",
+            "journal": "Sensors",
+            "volume": "20",
+            "issue": "14",
+            "pages": null,
+            "date": "Jul. 2020"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "F. N. Yang"
+            ],
+            "title": "Design and Implementation of A CPS-Based Predictive Maintenance and Automated Management Platform",
+            "journal": "IET Cyber-Physical Systems: Theory & Applications",
+            "volume": "5",
+            "issue": "1",
+            "pages": null,
+            "date": "Mar. 2020"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. C. Chang",
+                "V. L. Tran",
+                "J. H. Shi"
+            ],
+            "title": "Improved Traffic Sign Recognition for In-car Cameras",
+            "journal": "Journal of the Chinese Institute of Engineers",
+            "volume": "43",
+            "issue": "3",
+            "pages": "300-307",
+            "date": "Jan. 2020"
+        },
+        {
+            "authors": [
+                "C. H. Do",
+                "H. Y. Lin"
+            ],
+            "title": "Incorporating Neuro-Fuzzy with Extended Kalman Filter for Simultaneous Localization and Mapping",
+            "journal": "International Journal of Advanced Robotic Systems",
+            "volume": null,
+            "issue": null,
+            "pages": null,
+            "date": "Sep. 2019"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "L. Q. Chen",
+                "M. L. Wang"
+            ],
+            "title": "Improving Discrimination in Color Vision Deficiency by Image Re-coloring",
+            "journal": "Sensors",
+            "volume": "19",
+            "issue": "10",
+            "pages": null,
+            "date": "May 2019"
+        },
+        {
+            "authors": [
+                "V. L. Tran",
+                "H. Y. Lin"
+            ],
+            "title": "A Structured Light RGB-D Camera System for Accurate Depth Measurement",
+            "journal": "International Journal of Optics",
+            "volume": null,
+            "issue": null,
+            "pages": null,
+            "date": "Nov. 2018"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. C. Chang",
+                "S. C. Huang"
+            ],
+            "title": "Traffic Sign Detection and Recognition for Driving Assistance System",
+            "journal": "Advances in Image and Video Processing",
+            "volume": "6",
+            "issue": "3",
+            "pages": "16-25",
+            "date": "Jun. 2018"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. C. Chang",
+                "S. C. Liang"
+            ],
+            "title": "3D Pose Estimation Using Genetic-Based Iterative Closest Point Algorithm",
+            "journal": "International Journal of Innovative Computing, Information and Control",
+            "volume": "14",
+            "issue": "2",
+            "pages": "537-548",
+            "date": "Apr. 2018"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. W. Yao",
+                "K. S. Cheng",
+                "V. L. Tran"
+            ],
+            "title": "Topological Map Construction and Scene Recognition for Vehicle Localization",
+            "journal": "Autonomous Robots",
+            "volume": "42",
+            "issue": "1",
+            "pages": "65-81",
+            "date": "Jan. 2018"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. C. Chang",
+                "X. H. Chou"
+            ],
+            "title": "No-reference Objective Image Quality Assessment using Defocus Blur Estimation",
+            "journal": "Journal of the Chinese Institute of Engineers",
+            "volume": "40",
+            "issue": "4",
+            "pages": "341-346",
+            "date": "Apr. 2017"
+        },
+        {
+            "authors": [
+                "Y. Y. Chiang",
+                "M. L. Wang",
+                "H. Y. Lin",
+                "P. Y. Lee",
+                "C. C. Chang"
+            ],
+            "title": "A Model Deformation Approach for 3D Reconstruction",
+            "journal": "International Journal of Hybrid Information Technology",
+            "volume": "8",
+            "issue": "12",
+            "pages": "479-490",
+            "date": "2015"
+        },
+        {
+            "authors": [
+                "Y. J. Tu",
+                "C. C. Kao",
+                "H. Y. Lin",
+                "C. C. Chang"
+            ],
+            "title": "Face and Gesture Based Human Computer Interaction",
+            "journal": "International Journal of Signal Processing, Image Processing and Pattern Recognition",
+            "volume": "8",
+            "issue": "9",
+            "pages": "219-228",
+            "date": "Sep. 2015"
+        },
+        {
+            "authors": [
+                "J. J. Cheng",
+                "C. C. Chang",
+                "H. Y. Lin"
+            ],
+            "title": "Enhanced Depth Features of Human Bodies for Image Retargeting",
+            "journal": "Journal of Image and Graphics",
+            "volume": "3",
+            "issue": "1",
+            "pages": "52-55",
+            "date": "Jun. 2015"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "Y. H. Xiao",
+                "B. R. Chen"
+            ],
+            "title": "Multilayered Nonuniform Sampling for Three-Dimensional Scene Representation",
+            "journal": "Optical Engineering",
+            "volume": "54",
+            "issue": "9",
+            "pages": null,
+            "date": "Sep. 2015"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. C. Chang",
+                "J. R. Wu"
+            ],
+            "title": "A Novel 3D Reconstruction Approach",
+            "journal": "International Journal of Innovative Computing, Information and Control",
+            "volume": "10",
+            "issue": "5",
+            "pages": "1915-1921",
+            "date": "Oct. 2014"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "M. L. Wang"
+            ],
+            "title": "HOPIS: Hybrid Omnidirectional and Perspective Imaging System for Mobile Robots",
+            "journal": "Sensors",
+            "volume": "14",
+            "issue": "9",
+            "pages": "16508-16531",
+            "date": "Sep. 2014"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. C. Chang",
+                "M. S. Yu",
+                "H. Wu"
+            ],
+            "title": "A Robot Vision System for Visual Surveillance",
+            "journal": "International Journal of Innovative Computing, Information and Control",
+            "volume": "10",
+            "issue": "4",
+            "pages": "1267-1274",
+            "date": "Aug. 2014"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. C. Chang",
+                "T. W. Chen"
+            ],
+            "title": "Model-Based Approach for 3D Pose Estimation with Application to Augmented Reality",
+            "journal": "International Journal of Innovative Computing, Information and Control",
+            "volume": "10",
+            "issue": "2",
+            "pages": "495-503",
+            "date": "Apr. 2014"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. C. Chang",
+                "J. Y. Huang"
+            ],
+            "title": "Image Retargeting Approach for Ranging Cameras",
+            "journal": "Imaging Science Journal",
+            "volume": "62",
+            "issue": "2",
+            "pages": "111-120",
+            "date": "Feb. 2014"
+        },
+        {
+            "authors": [
+                "M. H. Chia",
+                "C. H. He",
+                "H. Y. Lin"
+            ],
+            "title": "Novel View Image Synthesis Based on Photo-Consistent 3D Model Deformation",
+            "journal": "International Journal of Computational Science and Engineering",
+            "volume": "8",
+            "issue": "4",
+            "pages": null,
+            "date": "Oct. 2013"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "P. Z. Lin"
+            ],
+            "title": "Hierarchical Stereo Matching with Image Bit-Plane Slicing",
+            "journal": "Machine Vision and Applications",
+            "volume": "24",
+            "issue": "5",
+            "pages": "883-898",
+            "date": "Jul. 2013"
+        },
+        {
+            "authors": [
+                "C. C. Chang",
+                "H. Y. Lin",
+                "C. H. Hsieh"
+            ],
+            "title": "Novel Stereo Image and Video Retargeting Approach",
+            "journal": "International Journal of Innovative Computing, Information and Control",
+            "volume": "9",
+            "issue": "4",
+            "pages": "1727-1736",
+            "date": "Apr. 2013"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "K. D. Gu",
+                "C. H. Chang"
+            ],
+            "title": "Photo-Consistent Synthesis of Motion Blur and Depth-of-Field Effects with a Real Camera Model",
+            "journal": "Image and Vision Computing",
+            "volume": "30",
+            "issue": "9",
+            "pages": "605-618",
+            "date": "Sep. 2012"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "X. H. Chou"
+            ],
+            "title": "Defocus Blur Parameters Identification by Histogram Matching",
+            "journal": "Journal of the Optical Society of America A",
+            "volume": "29",
+            "issue": "8",
+            "pages": "1694-1706",
+            "date": "Aug. 2012"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "W. C. Fan-Chiang"
+            ],
+            "title": "Reconstruction of Shredded Document Based on Image Feature Matching",
+            "journal": "Expert Systems with Applications",
+            "volume": "39",
+            "issue": "3",
+            "pages": "3324-3332",
+            "date": "Feb. 2012"
+        },
+        {
+            "authors": [
+                "M. L. Wang",
+                "H. Y. Lin"
+            ],
+            "title": "An Extended-HCT Semantic Description for Visual Place Recognition",
+            "journal": "International Journal of Robotics Research",
+            "volume": "30",
+            "issue": "11",
+            "pages": "1403-1420",
+            "date": "Sep. 2011"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "W. N. Lie",
+                "M. L. Wang"
+            ],
+            "title": "A Framework of View-Dependent Planar Scene Active Camouflage",
+            "journal": "International Journal of Imaging Systems and Technology",
+            "volume": "19",
+            "issue": null,
+            "pages": "167-174",
+            "date": "Sep. 2009"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. Y. Ho",
+                "M. L. Wang"
+            ],
+            "title": "Reverse Engineering of Geometric Models Using Images of Surface Level Curves",
+            "journal": "International Journal of Robotics and Automation",
+            "volume": "24",
+            "issue": "2",
+            "pages": null,
+            "date": "2009"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "J. Y. Wei"
+            ],
+            "title": "A Street Scene Surveillance System for Moving Object Detection, Tracking and Classification",
+            "journal": "Journal of Computers",
+            "volume": "19",
+            "issue": "3",
+            "pages": null,
+            "date": "Oct. 2008"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "M. L. Wang",
+                "C. C. Huang"
+            ],
+            "title": "A Robust Visual Surveillance System Based on an Omnidirectional Vision Sensor",
+            "journal": "Journal of Computers",
+            "volume": "19",
+            "issue": "3",
+            "pages": null,
+            "date": "Oct. 2008"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "K. J. Li",
+                "C. H. Chang"
+            ],
+            "title": "Vehicle Speed Detection from a Single Motion Blurred Image",
+            "journal": "Image and Vision Computing",
+            "volume": "26",
+            "issue": null,
+            "pages": "1327-1337",
+            "date": "Oct. 2008"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. H. Chang"
+            ],
+            "title": "Speed Measurement of Spherical Objects Using an Off-the-Shelf Digital Camera",
+            "journal": "Journal of Electronic Imaging",
+            "volume": "17",
+            "issue": "3",
+            "pages": "033015",
+            "date": "Jul-Sep 2008"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "S. L. Chen",
+                "J. H. Lin"
+            ],
+            "title": "Architectural Scene Reconstruction from Single or Multiple Uncalibrated Images",
+            "journal": "Electronic Letters on Computer Vision and Image Analysis",
+            "volume": "5",
+            "issue": "4",
+            "pages": "75-82",
+            "date": "Jan. 2007"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "C. H. Chang"
+            ],
+            "title": "Depth from Motion and Defocus Blur",
+            "journal": "Optical Engineering",
+            "volume": "45",
+            "issue": "12",
+            "pages": "127201-127212",
+            "date": "Dec. 2006"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "J. H. Lin"
+            ],
+            "title": "A Visual Positioning System for Vehicle or Mobile Robot Navigation",
+            "journal": "IEICE Transactions on Information and Systems",
+            "volume": "E89-D",
+            "issue": "7",
+            "pages": "2109-2116",
+            "date": "Jul. 2006"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
+                "M. Subbarao"
+            ],
+            "title": "Vision system for fast 3-D model reconstruction",
+            "journal": "Optical Engineering",
+            "volume": null,
+            "issue": null,
+            "pages": "1651-1664",
+            "date": "Jul. 2004"
+        }
+    ]
+}
