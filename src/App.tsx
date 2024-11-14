@@ -10,6 +10,7 @@ import PastMemberPage from './views/PastMemberPage';
 import ResearchRobotVisionSystemPage from './views/ResearchRobotVisionSystemPage';
 import ResearchIntelligenceTransportationSystemPage from './views/ResearchIntelligenceTransportationSystemPage';
 import ResearchComputerGraphicsAndVisualizationPage from './views/ResearchComputerGraphicsAndVisualizationPage';
+import CourseDifferentialEquations from './views/CourseDifferentialEquations';
 import Layout from './components/Layout';
 import { ScrollToTop } from './Utils';
 import ResearchDocumentImageAnalysisPage from './views/ResearchDocumentImageAnalysisPage';
@@ -34,6 +35,7 @@ function App() {
                         <Route path='/research/its' element={<ResearchIntelligenceTransportationSystemPage />} />
                         <Route path='/research/cgv' element={<ResearchComputerGraphicsAndVisualizationPage />} />
                         <Route path='/research/reconstruct' element={<ResearchReconstructionPage />} />
+                        <Route path='/course/differential_equations' element={<CourseDifferentialEquations />} />
                     </Routes>
                 </Layout>
             </Router>
