@@ -37,7 +37,7 @@ const Contact: React.FC = () => {
               </li>
               <li>
                 <span className="fa-li"><FontAwesomeIcon icon={faGlobeAmericas} /></span>
-                <a href="https://robustlab122.github.io/NTUT-RVL/">https://robustlab122.github.io/NTUT-RVL/</a>
+                <a href="https://ntut-rvl.github.io/web/">https://ntut-rvl.github.io/web/</a>
               </li>
             </ul>
           </div>
