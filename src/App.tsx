@@ -21,7 +21,7 @@ function App() {
 
     return (
         <HelmetProvider>
-            <Router basename="/NTUT-RVL">
+            <Router basename="/web">
                 <ScrollToTop />
                 <Layout>
                     <Routes>
