@@ -8,6 +8,7 @@ import BulletinPage from './views/BulletinPage';
 import MemberPage from './views/MemberPage';
 import PastMemberPage from './views/PastMemberPage';
 import ResearchRobotVisionSystemPage from './views/ResearchRobotVisionSystemPage';
+import ResearchSurveillancePage from './views/ResearchSurveillancePage';
 import ResearchIntelligenceTransportationSystemPage from './views/ResearchIntelligenceTransportationSystemPage';
 import ResearchComputerGraphicsAndVisualizationPage from './views/ResearchComputerGraphicsAndVisualizationPage';
 import CourseDifferentialEquations from './views/CourseDifferentialEquations';
@@ -32,6 +33,7 @@ function App() {
                         <Route path="/past_members" element={<PastMemberPage />} />
                         <Route path='/research/rvs' element={<ResearchRobotVisionSystemPage />} />
                         <Route path='/research/dia' element={<ResearchDocumentImageAnalysisPage />} />
+                        <Route path='/research/sur' element={<ResearchSurveillancePage />} />
                         <Route path='/research/its' element={<ResearchIntelligenceTransportationSystemPage />} />
                         <Route path='/research/cgv' element={<ResearchComputerGraphicsAndVisualizationPage />} />
                         <Route path='/research/reconstruct' element={<ResearchReconstructionPage />} />
