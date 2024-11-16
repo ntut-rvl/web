@@ -7,9 +7,6 @@ import ProjChen from '../assets/images/research/proj-chen.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {faRobot } from '@fortawesome/free-solid-svg-icons';
 
-
-
-
 const ResearchSurveillancePage: React.FC = () => {
     const onScrollEl = useAnimateOnScroll();
     const thumbnails = [
