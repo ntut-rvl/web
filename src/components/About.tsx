@@ -27,7 +27,7 @@ const About: React.FC = () => {
             data-animate-effect="fadeIn"
         >
           <div className="col-12 mb-5">
-            <p className="lead mb-1">「機器人視覺實驗室」隸屬於國立中正大學電機工程研究所</p>
+            <p className="lead mb-1">「機器人視覺實驗室」隸屬於國立臺北科技大學資訊工程研究所</p>
             <p className="lead">歡迎具電機、資訊相關背景的同學加入我們的研究行列</p>
           </div>
         </div>
