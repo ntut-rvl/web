@@ -1,6 +1,27 @@
 import { useEffect, useRef } from 'react';
 import { useLocation } from 'react-router-dom';
 
+export interface Member {
+    name: string;
+    eng_name: string;
+    avatar: string | null;
+    degree: string;
+    email: string;
+    company: string,
+    grad: string,
+    is_graduated: boolean,
+}
+
+export interface PastMember {
+    id: number;
+    name: string;
+    eng_name: string;
+    grad: number;
+    degree: string;
+    statue: string | null;
+    thesis: string | null;
+}
+
 export const ScrollToTop = () => {
   const { pathname } = useLocation();
 
