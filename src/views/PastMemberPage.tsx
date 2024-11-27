@@ -1,16 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useAnimateOnScroll } from '../Utils';
 import PastMemberData from '../assets/past_members.json';
-
-interface PastMember {
-    id: number;
-    name: string;
-    eng_name: string;
-    grad: number;
-    degree: string;
-    statue: string | null;
-    thesis: string | null;
-}
+import { PastMember } from '../Utils';
 
 type Members = PastMember[];
 
