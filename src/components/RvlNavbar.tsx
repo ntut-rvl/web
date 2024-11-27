@@ -32,7 +32,7 @@ const RvlNavbar: React.FC = () => {
                     </Nav>
                         :
                     <Nav className="navbar-nav ms-auto">
-                        <Nav.Link href="/NTUT-RVL">回首頁</Nav.Link>
+                        <Nav.Link href="/web">回首頁</Nav.Link>
                     </Nav>
                     }
                 </Navbar.Collapse>
