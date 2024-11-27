@@ -1,17 +1,7 @@
 import React, { useEffect, useState } from 'react';
-import { useAnimateOnScroll } from '../Utils';
+import { useAnimateOnScroll, Member } from '../Utils';
 import MemberData from '../assets/members.json';
 
-interface Member {
-    name: string;
-    eng_name: string;
-    avatar: string | null;
-    degree: string;
-    email: string;
-    company: string,
-    grad: string,
-    is_graduated: boolean,
-}
 
 type Members = Member[];
 

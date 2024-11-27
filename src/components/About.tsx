@@ -1,11 +1,29 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser, faGraduationCap } from '@fortawesome/free-solid-svg-icons';
-import { useAnimateOnScroll } from '../Utils';
+import { useAnimateOnScroll, Member, PastMember } from '../Utils';
+import PastMemberData from '../assets/past_members.json';
+import MemberData from '../assets/members.json';
+
+type Members = Member[];
+type FormerMembers = PastMember[];
 
 const About: React.FC = () => {
     const onScrollEl = useAnimateOnScroll();
+
+    const [members, setMembers] = useState<Members | null>(null);
+    useEffect(() => {
+        setMembers(MemberData.data);
+    }, []);
+    const numMembers = members ? members.length : 0;
+
+    const [formerMembers, setFormerMembers] = useState<FormerMembers | null>(null);
+    useEffect(() => {
+        setFormerMembers(PastMemberData);
+    }, []);
+    const numFormerMembers = formerMembers ? formerMembers.length : 0;
+
     return (
     <section className="rvl-section rvl-bg-gray rvl-slant rvl-slant-white text-center" id="about">
       <div className="container">
@@ -39,7 +57,7 @@ const About: React.FC = () => {
           >
             <Link to="/member" className="rvl-block rvl-block-btn p-sm-5 p-4">
               <FontAwesomeIcon icon={faUser} className="rvl-icon fa-4x" />
-              <span className="rvl-counter mx-auto">10</span>
+              <span className="rvl-counter mx-auto">{numMembers}</span>
               <p className="lead">Members</p>
             </Link>
           </div>
@@ -50,7 +68,7 @@ const About: React.FC = () => {
           >
             <Link to="/past_members" className="rvl-block rvl-block-btn p-sm-5 p-4">
               <FontAwesomeIcon icon={faGraduationCap} className="rvl-icon fa-3x" />
-              <span className="rvl-counter mx-auto">50</span>
+              <span className="rvl-counter mx-auto">{numFormerMembers}</span>
               <p className="lead">Former Members</p>
             </Link>
           </div>
