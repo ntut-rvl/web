@@ -61,7 +61,7 @@ const Research: React.FC = () => {
             icon={faRobot}
             title="Environment Surveillance and Object Tracking"
             description="運用於環境監控、人機互動與行動機器人（MR）之視覺系統的建構"
-            link="research/surveillance.html"
+            link="research/sur"
             onScrollEl={onScrollEl}
           />
           <ResearchArea
