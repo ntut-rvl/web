@@ -44,12 +44,12 @@ jobs:
         if: success() # Only runs if the job succeeds
         run: |
           curl -X POST -H "Content-Type: application/json" \
-          -d '{"content": "**✅ GitHub Actions Succeeded!**"}' \
+          -d '{"content": "**✅ GitHub Actions Succeeded!**"}\n Workflow: ${{ github.workflow }}\n- Job: ${{ github.job }}\n- Repository: ${{ github.repository }}' \
           ${{ secrets.DISCORD_WEBHOOK_URL }}
 
       - name: Notify Discord on Failure
         if: failure() # Only runs if the job fails
         run: |
           curl -X POST -H "Content-Type: application/json" \
-          -d '{"content": "**❌ GitHub Actions Failed!**"}' \
+          -d '{"content": "**❌ GitHub Actions Failed!**"}\n Workflow: ${{ github.workflow }}\n- Job: ${{ github.job }}\n- Repository: ${{ github.repository }}' \
           ${{ secrets.DISCORD_WEBHOOK_URL }}
