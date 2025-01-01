@@ -196,13 +196,13 @@
             "present_date": "2024/12/25",
             "presenter": "鈺翔",
             "topic": "A New Efficient Eye Gaze Tracker for Robotic Applications",
-            "is_show": true
+            "is_show": false
         },
         {
             "present_date": "2024/12/25",
             "presenter": "旻璇",
             "topic": "Efficient and Hybrid Decoder for Local Map Construction in Bird’s-Eye-View",
-            "is_show": true
+            "is_show": false
         },
         {
             "present_date": "2025/01/08",
