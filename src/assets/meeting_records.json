@@ -1,222 +1,6 @@
 {
     "data": [
         {
-            "present_date": "2024/08/23",
-            "presenter": "媃安",
-            "topic": "A Light-weight, Low-cost, and Sustainable Planning System for UAVs Using a Local Map Origin Update Approach",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/08/23",
-            "presenter": "泳禎",
-            "topic": "Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/08/30",
-            "presenter": "鈺翔",
-            "topic": "Converting Depth Images and Point Clouds for Feature-based Pose Estimation",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/08/30",
-            "presenter": "明躍",
-            "topic": "TemporalStereo: Efficient Spatial-Temporal Stereo Matching Network",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/09/06",
-            "presenter": "婷婷",
-            "topic": "AirLine: Efficient Learnable Line Detection with Local Edge Voting",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/09/06",
-            "presenter": "士涵",
-            "topic": "VIW-Fusion: Extrinsic Calibration and Pose Estimation for Visual-IMU-Wheel Encoder System",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/09/13",
-            "presenter": "宥羽",
-            "topic": "Pseudo-Stereo++: Cycled Generative Pseudo-Stereo for Monocular 3D Object Detection in Autonomous Driving",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/09/13",
-            "presenter": "靖嫺",
-            "topic": "Learning Sim-to-Real Dense Object Descriptors for Robotic Manipulation",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/09/20",
-            "presenter": "媃安",
-            "topic": "Unsupervised Road Anomaly Detection with Language Anchors",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/09/20",
-            "presenter": "泳禎",
-            "topic": "Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/09/20",
-            "presenter": "Munir",
-            "topic": "SGDViT: Saliency-Guided Dynamic Vision Transformer for UAV Tracking",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/09/27",
-            "presenter": "鈺翔",
-            "topic": "EasyGaze3D: Towards Effective and Flexible 3D Gaze Estimation from a Single RGB Camera",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/09/27",
-            "presenter": "明躍",
-            "topic": "Road Anomaly Segmentation Based on Pixel-wise Logit Variance with Iterative Background Highlighting",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/10/04",
-            "presenter": "婷婷",
-            "topic": "Semantics-aware Exploration and Inspection Path Planning",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/10/04",
-            "presenter": "士涵",
-            "topic": "Accurate and Interactive Visual-Inertial Sensor Calibration with Next-Best-View and Next-Best-Trajectory Suggestion",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/10/11",
-            "presenter": "柏勳",
-            "topic": "Multimodal Image Registration for GPS-denied UAV Navigation Based on Disentangled Representations",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/10/11",
-            "presenter": "欣玲",
-            "topic": "End-to-End Learning of Behavioural Inputs for Autonomous Driving in Dense Traffic",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/10/18",
-            "presenter": "宥羽",
-            "topic": "Unsupervised RGB-to-Thermal Domain Adaptation via Multi-Domain Attention Network",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/10/18",
-            "presenter": "靖嫺",
-            "topic": "GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/10/25",
-            "presenter": "媃安",
-            "topic": "Estimating Human Comfort Levels in Autonomous Vehicles Based on Vehicular Behaviors and Physiological Signals",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/10/25",
-            "presenter": "泳禎",
-            "topic": "Satellite Image Based Cross-view Localization for Autonomous Vehicle",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/11/01",
-            "presenter": "鈺翔",
-            "topic": "Global Localization in Repetitive and Ambiguous Environments",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/11/01",
-            "presenter": "明躍",
-            "topic": "TODE-Trans: Transparent Object Depth Estimation with Transformer",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/11/27",
-            "presenter": "婷婷",
-            "topic": "Parallel Reinforcement Learning Simulation for Visual Quadrotor Navigation",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/11/27",
-            "presenter": "士涵",
-            "topic": "NOCaL: Calibration-Free Semi-Supervised Learning of Odometry and Camera Intrinsics",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/12/04",
-            "presenter": "柏勳",
-            "topic": "Finding Things in the Unknown: Semantic Object-Centric Exploration with an MAV",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/12/04",
-            "presenter": "欣玲",
-            "topic": "Adaptive and Explainable Deployment of Navigation Skills via Hierarchical Deep Reinforcement Learning",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/12/11",
-            "presenter": "宥羽",
-            "topic": "FlowMap: Path Generation for Automated Vehicles in Open Space Using Traffic Flow",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/12/11",
-            "presenter": "靖嫺",
-            "topic": "RGB-D Grasp Detection via Depth Guided Learning with Cross-modal Attention",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/12/11",
-            "presenter": "Munir",
-            "topic": "SEER: Safe Efficient Exploration for Aerial Robots using Learning to Predict Information Gain",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/12/18",
-            "presenter": "媃安",
-            "topic": "AdaptSeqVPR: An Adaptive Sequence-based Visual Place Recognition Pipeline",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/12/18",
-            "presenter": "泳禎",
-            "topic": "Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/12/25",
-            "presenter": "鈺翔",
-            "topic": "A New Efficient Eye Gaze Tracker for Robotic Applications",
-            "is_show": false
-        },
-        {
-            "present_date": "2024/12/25",
-            "presenter": "旻璇",
-            "topic": "Efficient and Hybrid Decoder for Local Map Construction in Bird’s-Eye-View",
-            "is_show": false
-        },
-        {
-            "present_date": "2025/01/08",
-            "presenter": "明躍",
-            "topic": "AZTR: Aerial Video Action Recognition with Auto Zoom and Temporal Reasoning",
-            "is_show": true
-        },
-        {
-            "present_date": "2025/01/08",
-            "presenter": "宇廷",
-            "topic": "NeRF-Loc: Visual Localization with Conditional Neural Radiance Field",
-            "is_show": true
-        },
-        {
             "present_date": "2025/01/15",
             "presenter": "婷婷",
             "topic": "ARiADNE: A Reinforcement learning approach using Attention-based Deep Networks for Exploration",
@@ -241,58 +25,58 @@
             "is_show": true
         },
         {
-            "present_date": "2025/01/29",
-            "presenter": "柏勳",
-            "topic": "Cooperative Driving in Mixed Traffic of Manned and Unmanned Vehicles based on Human Driving Behavior Understanding",
-            "is_show": true
+          "present_date": "2025/02/05",
+          "presenter": "柏勳",
+          "topic": "Cooperative Driving in Mixed Traffic of Manned and Unmanned Vehicles based on Human Driving Behavior Understanding",
+          "is_show": true
         },
         {
-            "present_date": "2025/01/29",
-            "presenter": "文文",
-            "topic": "DQN-based on-line Path Planning Method for Automatic Navigation of Miniature Robots",
-            "is_show": true
+          "present_date": "2025/02/05",
+          "presenter": "文文",
+          "topic": "DQN-based on-line Path Planning Method for Automatic Navigation of Miniature Robots",
+          "is_show": true
         },
         {
-            "present_date": "2025/02/12",
-            "presenter": "欣玲",
-            "topic": "DFR-FastMOT: Detection Failure Resistant Tracker for Fast Multi-Object Tracking Based on Sensor Fusion",
-            "is_show": true
+          "present_date": "2025/02/19",
+          "presenter": "欣玲",
+          "topic": "DFR-FastMOT: Detection Failure Resistant Tracker for Fast Multi-Object Tracking Based on Sensor Fusion",
+          "is_show": true
         },
         {
-            "present_date": "2025/02/12",
-            "presenter": "崇瑋",
-            "topic": "A Fast and Map-Free Model for Trajectory Prediction in Traffics",
-            "is_show": true
+          "present_date": "2025/02/19",
+          "presenter": "崇瑋",
+          "topic": "A Fast and Map-Free Model for Trajectory Prediction in Traffics",
+          "is_show": true
         },
         {
-            "present_date": "2025/02/19",
-            "presenter": "宥羽",
-            "topic": "Depth self-supervision for single image novel view synthesis",
-            "is_show": true
+          "present_date": "2025/02/26",
+          "presenter": "宥羽",
+          "topic": "Depth self-supervision for single image novel view synthesis",
+          "is_show": true
         },
         {
-            "present_date": "2025/02/19",
-            "presenter": "洺緯",
-            "topic": "CAROM Air - Vehicle Localization and Traffic Scene Reconstruction from Aerial Videos",
-            "is_show": true
+          "present_date": "2025/02/26",
+          "presenter": "洺緯",
+          "topic": "CAROM Air - Vehicle Localization and Traffic Scene Reconstruction from Aerial Videos",
+          "is_show": true
         },
         {
-            "present_date": "2025/02/26",
-            "presenter": "Munir",
-            "topic": "Feature Explanation for Robust Trajectory Prediction",
-            "is_show": true
+          "present_date": "2025/03/05",
+          "presenter": "Munir",
+          "topic": "Feature Explanation for Robust Trajectory Prediction",
+          "is_show": true
         },
         {
-            "present_date": "2025/02/26",
-            "presenter": "靖嫺",
-            "topic": "Hierarchical Graph Neural Networks for Proprioceptive 6D Pose Estimation of In-hand Objects",
-            "is_show": true
+          "present_date": "2025/03/05",
+          "presenter": "靖嫺",
+          "topic": "Hierarchical Graph Neural Networks for Proprioceptive 6D Pose Estimation of In-hand Objects",
+          "is_show": true
         },
         {
-            "present_date": "2025/03/05",
-            "presenter": "依庭",
-            "topic": "GSMR-CNN: An End-to-End Trainable Architecture for Grasping Target Objects from Multi-Object Scenes",
-            "is_show": true
+          "present_date": "2025/03/12",
+          "presenter": "依庭",
+          "topic": "GSMR-CNN: An End-to-End Trainable Architecture for Grasping Target Objects from Multi-Object Scenes",
+          "is_show": true
         }
     ]
 }
