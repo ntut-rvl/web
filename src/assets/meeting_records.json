@@ -1,30 +1,6 @@
 {
     "data": [
         {
-            "present_date": "2025/01/22",
-            "presenter": "士涵",
-            "topic": "Linear Auto-calibration of Pan-Tilt-Zoom Cameras With Rotation Center Offset",
-            "is_show": false
-        },
-        {
-            "present_date": "2025/01/22",
-            "presenter": "淳傑",
-            "topic": "GNM: A General Navigation Model to Drive Any Robot",
-            "is_show": false
-        },
-        {
-          "present_date": "2025/02/05",
-          "presenter": "柏勳",
-          "topic": "Cooperative Driving in Mixed Traffic of Manned and Unmanned Vehicles based on Human Driving Behavior Understanding",
-          "is_show": true
-        },
-        {
-          "present_date": "2025/02/05",
-          "presenter": "文文",
-          "topic": "DQN-based on-line Path Planning Method for Automatic Navigation of Miniature Robots",
-          "is_show": true
-        },
-        {
           "present_date": "2025/02/12",
           "presenter": "欣玲",
           "topic": "DFR-FastMOT: Detection Failure Resistant Tracker for Fast Multi-Object Tracking Based on Sensor Fusion",
