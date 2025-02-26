@@ -1,24 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2025/02/26",
-      "presenter": "Munir",
-      "topic": "Feature Explanation for Robust Trajectory Prediction",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/02/26",
-      "presenter": "靖嫺",
-      "topic": "Hierarchical Graph Neural Networks for Proprioceptive 6D Pose Estimation of In-hand Objects",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/02/26",
-      "presenter": "依庭",
-      "topic": "GSMR-CNN: An End-to-End Trainable Architecture for Grasping Target Objects from Multi-Object Scenes",
-      "is_show": true
-    },
-    {
       "present_date": "2025/03/05",
       "presenter": "媃安",
       "topic": "CurricularVPR: Curricular Contrastive Loss for Visual Place Recognition",
