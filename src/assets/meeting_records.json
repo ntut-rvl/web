@@ -1,18 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2025/03/12",
-      "presenter": "泳禎",
-      "topic": "MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/03/12",
-      "presenter": "宇廷",
-      "topic": "Neuro-Explorer: Efficient and Scalable Exploration Planning via Learned Frontier Regions",
-      "is_show": true
-    },
-    {
       "present_date": "2025/03/19",
       "presenter": "鈺翔",
       "topic": "ChatMap: A Wearable Platform Based on the Multi-modal Foundation Model to Augment Spatial Cognition for People with Blindness and Low Vision",
