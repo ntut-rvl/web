@@ -1,18 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2025/03/19",
-      "presenter": "鈺翔",
-      "topic": "ChatMap: A Wearable Platform Based on the Multi-modal Foundation Model to Augment Spatial Cognition for People with Blindness and Low Vision",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/03/19",
-      "presenter": "粲儒",
-      "topic": "ContactHandover: Contact-Guided Robot-to-Human Object Handover",
-      "is_show": true
-    },
-    {
       "present_date": "2025/03/26",
       "presenter": "明躍",
       "topic": "LDIP: Real-time on-road object detection with depth estimation from a single image",
