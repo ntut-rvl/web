@@ -1,18 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2025/04/02",
-      "presenter": "婷婷",
-      "topic": "StratXplore: Strategic Novelty-seeking and Instruction-aligned Exploration for Vision and Language Navigation",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/04/02",
-      "presenter": "文文",
-      "topic": "3D Object Visibility Prediction in Autonomous Driving",
-      "is_show": true
-    },
-    {
       "present_date": "2025/04/09",
       "presenter": "士涵",
       "topic": "DVT: Decoupled Dual-Branch View Transformation for Monocular Bird’s Eye View Semantic Segmentation",
