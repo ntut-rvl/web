@@ -1,30 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2025/04/16",
-      "presenter": "柏勳",
-      "topic": "Temporal Attention for Cross-View Sequential Image Localization",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/04/16",
-      "presenter": "洺緯",
-      "topic": "Simultaneous Super-resolution and Depth Estimation for Satellite Images Based on Diffusion Model",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/04/23",
-      "presenter": "欣玲",
-      "topic": "BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/04/23",
-      "presenter": "依庭",
-      "topic": "OV-MAP : Open-Vocabulary Zero-Shot 3D Instance Segmentation Map for Robots",
-      "is_show": true
-    },
-    {
       "present_date": "2025/04/30",
       "presenter": "Munir",
       "topic": "Semantics from Space: Satellite-Guided Thermal Semantic Segmentation Annotation for Aerial Field Robots",
