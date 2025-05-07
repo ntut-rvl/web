@@ -1,205 +1,205 @@
 {
   "data": [
     {
-      "present_date": "2025/05/07",
+      "present_date": "2025/05/14",
       "presenter": "宥羽",
       "topic": "Multiple Visual Features in Topological Map for Vision-and-Language Navigation",
       "is_show": true
     },
     {
-      "present_date": "2025/05/07",
+      "present_date": "2025/05/14",
       "presenter": "旻璇",
       "topic": "MapLocNet: Coarse-to-Fine Feature Registration for Visual Re-Localization in Navigation Maps",
       "is_show": true
     },
     {
-      "present_date": "2025/05/14",
+      "present_date": "2025/05/21",
       "presenter": "靖嫺",
       "topic": "OVGNet: A Unified Visual-Linguistic Framework for Open-Vocabulary Robotic Grasping",
       "is_show": true
     },
     {
-      "present_date": "2025/05/14",
+      "present_date": "2025/05/21",
       "presenter": "宇廷",
       "topic": "ASML-VDIO: Visual-Depth-Inertial Odometry using Selected Accurate and Stable Multi-Modal Landmarks in Structural Environments",
       "is_show": true
     },
     {
-      "present_date": "2025/05/21",
+      "present_date": "2025/05/28",
       "presenter": "媃安",
       "topic": "Realistic Rainy Weather Simulation for LiDARs in CARLA Simulator",
       "is_show": true
     },
     {
-      "present_date": "2025/05/21",
+      "present_date": "2025/05/28",
       "presenter": "粲儒",
       "topic": "KOSMOS-E : Learning to Follow Instruction for Robotic Grasping",
       "is_show": true
     },
     {
-      "present_date": "2025/05/28",
+      "present_date": "2025/06/04",
       "presenter": "泳禎",
       "topic": "Robot Active Vision-Based Path Planning for Localization Improvement in Indoor Environments",
       "is_show": true
     },
     {
-      "present_date": "2025/05/28",
+      "present_date": "2025/06/04",
       "presenter": "淳傑",
       "topic": "Object Pose Estimation by Camera Arm Control Based on the Next Viewpoint Estimation",
       "is_show": true
     },
     {
-      "present_date": "2025/06/04",
+      "present_date": "2025/06/11",
       "presenter": "鈺翔",
       "topic": "A Large Vision-Language Model based Environment Perception System for Visually Impaired People",
       "is_show": true
     },
     {
-      "present_date": "2025/06/04",
+      "present_date": "2025/06/11",
       "presenter": "文文",
       "topic": "Learning autonomous driving from aerial imagery",
       "is_show": true
     },
     {
-      "present_date": "2025/06/11",
+      "present_date": "2025/06/18",
       "presenter": "明躍",
       "topic": "Visual Perception System for Autonomous Driving",
       "is_show": true
     },
     {
-      "present_date": "2025/06/11",
+      "present_date": "2025/06/18",
       "presenter": "崇瑋",
       "topic": "Open6DOR: Benchmarking Open-instruction 6-DoF Object Rearrangement and A VLM-based Approach",
       "is_show": true
     },
     {
-      "present_date": "2025/06/18",
+      "present_date": "2025/06/25",
       "presenter": "婷婷",
       "topic": "Semantic Layering in Room Segmentation via LLMs",
       "is_show": true
     },
     {
-      "present_date": "2025/06/18",
+      "present_date": "2025/06/25",
       "presenter": "洺緯",
       "topic": "A Low-Texture Robust Hybrid Feature Based Visual Odometry",
       "is_show": true
     },
     {
-      "present_date": "2025/06/25",
+      "present_date": "2025/07/02",
       "presenter": "士涵",
       "topic": "Representing 3D sparse map points and lines for camera relocalization",
       "is_show": true
     },
     {
-      "present_date": "2025/06/25",
+      "present_date": "2025/07/02",
       "presenter": "依庭",
       "topic": "Context-Aware GAN-based Image Retrieval for Coarse Localization of Autonomous Robots",
       "is_show": true
     },
     {
-      "present_date": "2025/07/02",
+      "present_date": "2025/07/09",
       "presenter": "柏勳",
       "topic": "BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment",
       "is_show": true
     },
     {
-      "present_date": "2025/07/02",
+      "present_date": "2025/07/09",
       "presenter": "Teresa",
       "topic": "An Efficient Coverage Method for Irregularly Shaped Terrains",
       "is_show": true
     },
     {
-      "present_date": "2025/07/09",
+      "present_date": "2025/07/16",
       "presenter": "欣玲",
       "topic": "PCT: Perspective Cue Training Framework for Multi-Camera BEV Segmentation",
       "is_show": true
     },
     {
-      "present_date": "2025/07/09",
+      "present_date": "2025/07/16",
       "presenter": "Munir",
       "topic": "BEVLoc: Cross-View Localization and Matching via Birds-Eye-View Synthesis",
       "is_show": true
     },
     {
-      "present_date": "2025/07/16",
+      "present_date": "2025/07/23",
       "presenter": "旻璇",
       "topic": "WidthFormer: Toward Efficient Transformer-based BEV View Transformation",
       "is_show": true
     },
     {
-      "present_date": "2025/07/16",
+      "present_date": "2025/07/23",
       "presenter": "宇廷",
       "topic": "OmniNxt: A Fully Open-source and Compact Aerial Robot with Omnidirectional Visual Perception",
       "is_show": true
     },
     {
-      "present_date": "2025/07/23",
+      "present_date": "2025/07/30",
       "presenter": "粲儒",
       "topic": "Compliant Blind Handover Control for Human-Robot Collaboration",
       "is_show": true
     },
     {
-      "present_date": "2025/07/23",
+      "present_date": "2025/07/30",
       "presenter": "淳傑",
       "topic": "Robot Generating Data for Learning Generalizable Visual Robotic Manipulation",
       "is_show": true
     },
     {
-      "present_date": "2025/07/30",
+      "present_date": "2025/08/06",
       "presenter": "文文",
       "topic": "AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird’s Eye View for Automated Valet Parking",
       "is_show": true
     },
     {
-      "present_date": "2025/07/30",
+      "present_date": "2025/08/06",
       "presenter": "崇瑋",
       "topic": "Gradual Receptive Expansion Using Vision Transformer for Online 3D Bin Packing",
       "is_show": true
     },
     {
-      "present_date": "2025/08/06",
+      "present_date": "2025/08/13",
       "presenter": "洺緯",
       "topic": "Deep Visual Odometry with Events and Frames",
       "is_show": true
     },
     {
-      "present_date": "2025/08/06",
+      "present_date": "2025/08/13",
       "presenter": "依庭",
       "topic": "HM3D-OVON: A Dataset and Benchmark for Open-Vocabulary Object Goal Navigation",
       "is_show": true
     },
     {
-      "present_date": "2025/08/13",
+      "present_date": "2025/08/20",
       "presenter": "Teresa",
       "topic": "A Two-Stage Reinforcement Learning Approach for Robot Navigation in Long-range Indoor Dense Crowd Environments",
       "is_show": true
     },
     {
-      "present_date": "2025/08/13",
+      "present_date": "2025/08/20",
       "presenter": "Munir",
       "topic": "Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models",
       "is_show": true
     },
     {
-      "present_date": "2025/08/20",
+      "present_date": "2025/08/27",
       "presenter": "旻璇",
       "topic": "Camera Pose Estimation from Bounding Boxes",
       "is_show": true
     },
     {
-      "present_date": "2025/08/20",
+      "present_date": "2025/08/27",
       "presenter": "宇廷",
       "topic": "An Observability Constrained Downward-Facing Optical-Flow-Aided Visual-Inertial Odometry",
       "is_show": true
     },
     {
-      "present_date": "2025/08/27",
+      "present_date": "2025/09/03",
       "presenter": "粲儒",
       "topic": "Enhanced Robotic Assistance for Human Activities through Human-Object Interaction Segment Prediction",
       "is_show": true
     },
     {
-      "present_date": "2025/08/27",
+      "present_date": "2025/09/03",
       "presenter": "淳傑",
       "topic": "PS6D: Point Cloud Based Symmetry-Aware 6D Object Pose Estimation in Robot Bin-Picking",
       "is_show": true
