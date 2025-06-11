@@ -1,18 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2025/06/11",
-      "presenter": "鈺翔",
-      "topic": "A Large Vision-Language Model based Environment Perception System for Visually Impaired People",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/06/11",
-      "presenter": "文文",
-      "topic": "Learning autonomous driving from aerial imagery",
-      "is_show": true
-    },
-    {
       "present_date": "2025/06/18",
       "presenter": "明躍",
       "topic": "Visual Perception System for Autonomous Driving",
