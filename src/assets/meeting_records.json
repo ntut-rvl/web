@@ -38,18 +38,12 @@
     },
     {
       "present_date": "2025/07/23",
-      "presenter": "欣玲",
-      "topic": "PCT: Perspective Cue Training Framework for Multi-Camera BEV Segmentation",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/07/23",
       "presenter": "Munir",
       "topic": "BEVLoc: Cross-View Localization and Matching via Birds-Eye-View Synthesis",
       "is_show": true
     },
     {
-      "present_date": "2025/07/30",
+      "present_date": "2025/07/23",
       "presenter": "旻璇",
       "topic": "WidthFormer: Toward Efficient Transformer-based BEV View Transformation",
       "is_show": true
@@ -61,7 +55,7 @@
       "is_show": true
     },
     {
-      "present_date": "2025/08/06",
+      "present_date": "2025/07/30",
       "presenter": "粲儒",
       "topic": "Compliant Blind Handover Control for Human-Robot Collaboration",
       "is_show": true
@@ -73,7 +67,7 @@
       "is_show": true
     },
     {
-      "present_date": "2025/08/13",
+      "present_date": "2025/08/06",
       "presenter": "文文",
       "topic": "AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird’s Eye View for Automated Valet Parking",
       "is_show": true
@@ -85,7 +79,7 @@
       "is_show": true
     },
     {
-      "present_date": "2025/08/20",
+      "present_date": "2025/08/13",
       "presenter": "洺緯",
       "topic": "Deep Visual Odometry with Events and Frames",
       "is_show": true
@@ -97,7 +91,7 @@
       "is_show": true
     },
     {
-      "present_date": "2025/08/27",
+      "present_date": "2025/08/20",
       "presenter": "Teresa",
       "topic": "A Two-Stage Reinforcement Learning Approach for Robot Navigation in Long-range Indoor Dense Crowd Environments",
       "is_show": true
@@ -109,7 +103,7 @@
       "is_show": true
     },
     {
-      "present_date": "2025/09/03",
+      "present_date": "2025/08/27",
       "presenter": "旻璇",
       "topic": "Camera Pose Estimation from Bounding Boxes",
       "is_show": true
@@ -121,7 +115,7 @@
       "is_show": true
     },
     {
-      "present_date": "2025/09/10",
+      "present_date": "2025/09/03",
       "presenter": "粲儒",
       "topic": "Enhanced Robotic Assistance for Human Activities through Human-Object Interaction Segment Prediction",
       "is_show": true
