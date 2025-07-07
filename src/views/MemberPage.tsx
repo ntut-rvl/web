@@ -49,7 +49,7 @@ const MemberPage: React.FC = () => {
                         </div>
                     </div>
                 ))
-                    <div className="col-lg-4 col-md-6 col-12 my-5">loading</div>
+                    : <div className="col-lg-4 col-md-6 col-12 my-5">loading</div>
                 };
             </div>
         </div>
