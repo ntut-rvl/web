@@ -189,6 +189,36 @@
             "is_graduated": false,
             "grad": "",
             "company": ""
+        },
+        {
+            "name": "張桂茹",
+            "eng_name": "Kuei-Ju Chang",
+            "avatar": "Kuei-Ju_Chang.jpg",
+            "degree": "Master",
+            "email": "ivy985363@gmail.com",
+            "is_graduated": false,
+            "grad": "",
+            "company": ""
+        },
+        {
+            "name": "張樂業",
+            "eng_name": "Le-Yeh Chang",
+            "avatar": "Le-Yeh_Chang.jpg",
+            "degree": "Master",
+            "email": "aa540799@gmail.com",
+            "is_graduated": false,
+            "grad": "",
+            "company": ""
+        },
+        {
+            "name": "葉騏緯",
+            "eng_name": "Chi-Wei Yeh",
+            "avatar": "Chi-Wei_Yeh .jpg",
+            "degree": "Master",
+            "email": "yehchiwei.work@gmail.com",
+            "is_graduated": false,
+            "grad": "",
+            "company": ""
         }
     ]
 }
