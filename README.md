@@ -1,7 +1,7 @@
 # Introduction
 
 This is robot vision lab github page repository.
-If you're interset in our research, welcome to [here](https://ntut-rvl.github.io/NTUT-RVL/) to take a look.
+If you're interset in our research, welcome to [here](https://ntut-rvl.github.io/web/) to take a look.
 
 # Development
 
