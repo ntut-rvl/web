@@ -11,6 +11,16 @@
             "company": ""
         },
         {
+            "name": "",
+            "eng_name": "Teresa Tamba",
+            "avatar": "Teresa_Tamba.jpg",
+            "degree": "Doctor",
+            "email": "t113999409@ntut.edu.tw",
+            "is_graduated": false,
+            "grad": "",
+            "company": ""
+        },
+        {
             "name": "陳明躍",
             "eng_name": "Ming-Yiao Chen",
             "avatar": "mingyiao.jpg",
@@ -153,7 +163,7 @@
         {
             "name": "林粲儒",
             "eng_name": "Tsan-Ru Lin",
-            "avatar": "tsanru.jpeg",
+            "avatar": "tsanru2.jpg",
             "degree": "Master",
             "email": "aa3695901@gmail.com",
             "is_graduated": false,
@@ -216,6 +226,26 @@
             "avatar": "Chi-Wei_Yeh .jpg",
             "degree": "Master",
             "email": "yehchiwei.work@gmail.com",
+            "is_graduated": false,
+            "grad": "",
+            "company": ""
+        },
+        {
+            "name": "蔡汶璇",
+            "eng_name": "Wen-Hsuan Tsai",
+            "avatar": "Wen-Hsuan_Tsai.jpg",
+            "degree": "Master",
+            "email": "0976925501wenshen@gmail.com",
+            "is_graduated": false,
+            "grad": "",
+            "company": ""
+        },
+        {
+            "name": "黃新哲",
+            "eng_name": "Hsin-Che Huang",
+            "avatar": "Hsin-Che_Huang.jpg",
+            "degree": "Master",
+            "email": "ajimmyhuang86@gmail.com",
             "is_graduated": false,
             "grad": "",
             "company": ""
