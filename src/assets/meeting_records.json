@@ -1,30 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2025/07/02",
-      "presenter": "婷婷",
-      "topic": "Semantic Layering in Room Segmentation via LLMs",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/07/02",
-      "presenter": "洺緯",
-      "topic": "A Low-Texture Robust Hybrid Feature Based Visual Odometry",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/07/09",
-      "presenter": "士涵",
-      "topic": "Representing 3D sparse map points and lines for camera relocalization",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/07/09",
-      "presenter": "依庭",
-      "topic": "Context-Aware GAN-based Image Retrieval for Coarse Localization of Autonomous Robots",
-      "is_show": true
-    },
-    {
       "present_date": "2025/07/16",
       "presenter": "柏勳",
       "topic": "BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment",
