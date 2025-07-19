@@ -26,6 +26,7 @@ const RvlNavbar: React.FC = () => {
                         <Nav.Link href="#about">關於我們</Nav.Link>
                         <Nav.Link href="#professor">指導教授</Nav.Link>
                         <Nav.Link href="#research">研究領域</Nav.Link>
+                        <Nav.Link href="#project">研究計畫</Nav.Link>
                         <Nav.Link href="#course">課程資訊</Nav.Link>
                         <Nav.Link href="#bulletin">公告</Nav.Link>
                         <Nav.Link href="#contact">聯絡方式</Nav.Link>
