@@ -17,6 +17,7 @@ import { ScrollToTop } from './Utils';
 import ResearchDocumentImageAnalysisPage from './views/ResearchDocumentImageAnalysisPage';
 import ResearchReconstructionPage from './views/ResearchReconstructionPage';
 import HueiyungPage from './views/HueiyungPage';
+import ProjectPage from './views/ProjectPage';
 
 function App() {
 
@@ -38,6 +39,7 @@ function App() {
                         <Route path='/research/cgv' element={<ResearchComputerGraphicsAndVisualizationPage />} />
                         <Route path='/research/reconstruct' element={<ResearchReconstructionPage />} />
                         <Route path='/course/differential_equations' element={<CourseDifferentialEquations />} />
+                        <Route path="/project" element={<ProjectPage />} />
                     </Routes>
                 </Layout>
             </Router>
