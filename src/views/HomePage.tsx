@@ -5,6 +5,7 @@ import Research from '../components/Research';
 import Course from '../components/Course';
 import Bulletin from '../components/Bulletin';
 import Contact from '../components/Contact';
+import Project from '../components/Project';
 
 const HomePage: React.FC = () => {
     return (
@@ -12,6 +13,7 @@ const HomePage: React.FC = () => {
             <About />
             <Professor />
             <Research />
+            <Project />
             <Course />
             <Bulletin />
             <Contact />
