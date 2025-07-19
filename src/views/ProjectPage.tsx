@@ -1,7 +1,4 @@
-import React, { useEffect, useState } from 'react';
-import { useAnimateOnScroll } from '../Utils';
-import Table from 'react-bootstrap/Table';
-import MeetingRecordsData from '../assets/meeting_records.json';
+import React from 'react';
 
 const ProjectPage: React.FC = () => {  
     return (
@@ -12,4 +9,3 @@ const ProjectPage: React.FC = () => {
 };
 
 export default ProjectPage;
-
