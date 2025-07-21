@@ -1,0 +1,634 @@
+{
+    "data": [
+        {
+            "project_name": "基於生成式AI之機器人導航、手臂控制及人機協作技術開發",
+            "date": "2025/08-2028/07",
+            "unit": "國科會",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "基於環境感知學習與生成式AI之智慧駕駛輔助與智慧行車代理人系統開發",
+            "date": "2025/08-2028/07",
+            "unit": "國科會",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "Taiwan Bot : 智慧人形機器人之研製及其人機協作場域之應用 (III)",
+            "date": "2025/08-2026/07",
+            "unit": "國科會",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "自駕車環境感知及定位技術開發",
+            "date": "2025/04-2026/07",
+            "unit": "工研院",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "無人機邊緣運算AI立體視覺定位應用",
+            "date": "2025/03-2025/12",
+            "unit": "工研院",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "智慧協作人形機器人之視覺與感知系統開發（II）",
+            "date": "2024/08-2025/07",
+            "unit": "國科會",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "Taiwan Bot : 人機協作之智慧人形機器人系統 (II)",
+            "date": "2024/08-2025/07",
+            "unit": "國科會",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "訓練資料收集與標記委託 (II)",
+            "date": "2024/01-2025/07",
+            "unit": "工研院",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "智慧協作人形機器人之視覺與感知系統開發（I）",
+            "date": "2023/08-2024/07",
+            "unit": "國科會",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "訓練資料收集與標記委託 (I)",
+            "date": "2023/08-2024/07",
+            "unit": "工研院",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "Taiwan Bot : 人機協作之智慧人形機器人系統 (I)",
+            "date": "2023/08-2024/07",
+            "unit": "國科會",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "智慧機器人技術研發與服務產學聯盟 (2/3)",
+            "date": "2023/02-2024/01",
+            "unit": "國科會",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "XR 數位空間淬練計畫",
+            "date": "2022/11-2023/10",
+            "unit": "友達光電",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "用於虛實場域驗證之視覺辨識技術",
+            "date": "2022/09-2023/06",
+            "unit": "工研院",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "前瞻半導體封裝製程設備之智慧節能程序與伺服控制技術研發",
+            "date": "2022/08-2023/07",
+            "unit": "科技部",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "自駕車之無光達感知次系統與系統驗證軟體平台 (1/4)",
+            "date": "2022/08-2023/05",
+            "unit": "國科會",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "智慧機器人技術研發與服務產學聯盟 (1/3)",
+            "date": "2022/02-2023/01",
+            "unit": "科技部",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "乘客偵測與站坐姿態辨識 (II)",
+            "date": "2021/11-2022/11",
+            "unit": "工研院",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "ADAS 輔助系統及駕駛監控系統",
+            "date": "2021/08-2022/09",
+            "unit": "創研光電",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "ADAS 雲端輔助系統",
+            "date": "2021/08-2022/07",
+            "unit": "創研光電",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "AWS 雲端車輛管理系統-2",
+            "date": "2021/08-2022/07",
+            "unit": "創研光電",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "使用集成學習提高辨識準確度之技術研究",
+            "date": "2021/03-2021/11",
+            "unit": "工研院",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "基於圖資、行車資訊即時回饋之駕駛行為分析、車載資料提取及高精地圖更新之技術開發",
+            "date": "2020/08-2023/07",
+            "unit": "科技部",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "使用深寬度學習之智慧多移動機器人導航運動控制系統研製",
+            "date": "2020/08-2023/07",
+            "unit": "科技部",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "實時駕駛監控系統-1",
+            "date": "2020/08-2021/07",
+            "unit": "創研光電",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "AWS 雲端車輛管理系統-1",
+            "date": "2020/08-2021/07",
+            "unit": "創研光電",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "ADAS 輔助系統-1",
+            "date": "2020/08-2021/07",
+            "unit": "創研光電",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "乘客偵測與站坐姿態辨識研究",
+            "date": "2020/03-2020/11",
+            "unit": "工研院",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "極小物件偵查及超解析度演算法技術",
+            "date": "2020/03-2020/11",
+            "unit": "工研院",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "移動式手臂加工應用",
+            "date": "2020/03-2020/11",
+            "unit": "工研院",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "雲端車輛管理系統開發",
+            "date": "2019/08-2020/07",
+            "unit": "創研光電",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "Deep Learning ADAS 系統開發",
+            "date": "2019/08-2020/07",
+            "unit": "創研光電",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "乘客姿態偵測系統",
+            "date": "2019/05-2019/11",
+            "unit": "工研院",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "從少量數據中學習之演算法技術開發",
+            "date": "2019/03-2019/11",
+            "unit": "工研院",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "基於視覺之交通號誌及交通標誌偵測辨識技術",
+            "date": "2019/01-2019/06",
+            "unit": "工研院",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "新一代感測技術之演算法開發、系統建置及車載應用",
+            "date": "2018/08-2020/07",
+            "unit": "科技部",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "基於深度學習之視覺IMU演算法設計與多機器人完整覆蓋式移動系統開發",
+            "date": "2018/08-2020/07",
+            "unit": "科技部",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "基於深度學習之前瞻行車輔助技術開發",
+            "date": "2018/08-2019/07",
+            "unit": "創研光電",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "車輛定位顯示系統開發",
+            "date": "2018/08-2019/07",
+            "unit": "創研光電",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "建立物體追蹤辨識資料庫，優化演算法",
+            "date": "2018/03-2018/11",
+            "unit": "工研院",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "基於影像資訊之行車區域及前方車輛偵測系統開發",
+            "date": "2018/01-2018/12",
+            "unit": "工研院",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "Socket 光學檢測系統建置及演算法開發",
+            "date": "2018/01-2018/09",
+            "unit": "嘉澤端子",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "網宇實體多移動機器人系統之三維同步定位與建圖及協同探測研究",
+            "date": "2017/08-2018/07",
+            "unit": "科技部",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "三維場景定位、地圖建構與巡航技術研究",
+            "date": "2017/01-2017/12",
+            "unit": "資策會",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "智慧全向運網實系統開發與實域驗證",
+            "date": "2016/10-2017/09",
+            "unit": "科技部",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "開放源碼同步定位與地圖重建技術評估",
+            "date": "2016/10-2017/03",
+            "unit": "資策會",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "CAD Model 優化與物體姿態辨識",
+            "date": "2016/04-2017/03",
+            "unit": "交大研華物聯網中心",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "行動式手臂機器人系統開發及其自動化產業之應用",
+            "date": "2016/03-2017/02",
+            "unit": "科技部",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "掃地機器人雷射定位及巡航技術開發",
+            "date": "2015/09-2016/08",
+            "unit": "鴻奇機器人",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "結合影像與深度資訊之多模感知場景辨識、拓樸地圖建構及合作探勘之研究",
+            "date": "2015/08-2017/07",
+            "unit": "科技部",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "創研光電-機器人視覺實驗室技術合作",
+            "date": "2015/06-2018/05",
+            "unit": "創研光電",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "3D 視覺感測器與資料校正",
+            "date": "2015/04-2016/03",
+            "unit": "交大研華物聯網中心",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "運用移動式影像擷取裝置與雲端資料庫比對之智慧型導航研究",
+            "date": "2014/08-2016/07",
+            "unit": "科技部",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "結合深度影像與語意資訊之多模感知場景辨識、拓樸地圖建構及合作探勘之研究",
+            "date": "2014/08-2015/07",
+            "unit": "科技部",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "多行動服務機器人系統之分散式智慧估測、控制、操作及其系統研製",
+            "date": "2014/08-2015/07",
+            "unit": "科技部",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "紅外線尋標自動識別與追蹤技術研究",
+            "date": "2014/01-2014/12",
+            "unit": "科技部",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "運用影像資訊建構智慧型導航之研究",
+            "date": "2013/08-2014/07",
+            "unit": "科技部",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "脊椎手術 CT 影像組織分離與術前評估系統發展",
+            "date": "2012/08-2014/07",
+            "unit": "科技部",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "創新擴增實境技術於脊椎手術應用-提升手術效率及降低輻射量之暴露",
+            "date": "2012/08-2013/07",
+            "unit": "科技部",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "101年教育部網路人才培育先導型計畫-課程發展計畫",
+            "date": "2012/04-2013/03",
+            "unit": "教育部",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "創新擴增實境技術於脊椎手術應用-提升手術效率及降低輻射量之暴露",
+            "date": "2011/08-2012/07",
+            "unit": "科技部",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "道路障礙物偵測與測距之影像系統開發",
+            "date": "2010/12-2011/11",
+            "unit": "創研光電",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "行車記錄器遠端播放介面開發",
+            "date": "2010/09-2011/08",
+            "unit": "創研光電",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "運用陣列式攝影架構進行視訊重建技術之研究",
+            "date": "2010/08-2013/07",
+            "unit": "科技部",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "基於 3D 音視訊之多點互動擴增實境",
+            "date": "2010/08-2013/07",
+            "unit": "科技部",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "視覺辨識系統",
+            "date": "2010/06-2011/05",
+            "unit": "台達電子",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "多視角立體影像深度資訊之即時運算邏輯研究",
+            "date": "2010/01-2010/12",
+            "unit": "工研院",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "以全視域影像系統進行即時3D視訊擷取及虛擬互動技術之開發",
+            "date": "2009/08-2010/07",
+            "unit": "國科會",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "科技監控設備之行蹤監控系統之研究",
+            "date": "2009/07-2010/06",
+            "unit": "法務部",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "新形式光電偵測反制偽裝關鍵技術研發",
+            "date": "2009/01-2009/12",
+            "unit": "國科會",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "GPS 定位攝影機器人",
+            "date": "2008/11-2008/12",
+            "unit": "工研院",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "具視覺伺服之雙手臂順服控制與合作學習",
+            "date": "2008/08-2011/07",
+            "unit": "國科會",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "運動姿勢辨識及其三維姿態參數估測",
+            "date": "2008/05-2008/12",
+            "unit": "工研院",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "資通訊課程推廣計畫",
+            "date": "2007/12-2009/01",
+            "unit": "教育部",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "多視域視訊的影像擷取與表示法建構",
+            "date": "2007/08-2009/07",
+            "unit": "國科會",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "3D音視訊的內容製作、處理與互動式呈現",
+            "date": "2007/08-2009/07",
+            "unit": "國科會",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "智能化動態偽裝機制與技術探討",
+            "date": "2007/04-2007/12",
+            "unit": "中科院",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "保全機器人自主定位應用研究",
+            "date": "2007/04-2007/11",
+            "unit": "工研院",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "艦艇紅外線特徵量測",
+            "date": "2007/01-2007/12",
+            "unit": "國科會",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "智慧型看護與居家照顧機器人系統之設計與研製",
+            "date": "2006/10-2007/09",
+            "unit": "國科會",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "以全方位及立體視覺為基礎之行動機器人自主定位系統之研究",
+            "date": "2006/08-2007/07",
+            "unit": "國科會",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "3D 音視訊的內容製作、處理與互動式呈現",
+            "date": "2006/07-2007/08",
+            "unit": "國科會",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "環境適應性偽裝措施雛形研究",
+            "date": "2006/03-2006/12",
+            "unit": "中科院",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "智慧型看護與居家照顧機器人系統之設計與研製",
+            "date": "2005/10-2006/09",
+            "unit": "國科會",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "基於影像動態模糊進行物體移動速度偵測之研究",
+            "date": "2005/08-2006/07",
+            "unit": "國科會",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "智慧型照護監控系統研製",
+            "date": "2004/10-2005/09",
+            "unit": "國科會",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "智慧型看護與居家照顧機器人系統之設計與研製",
+            "date": "2004/10-2005/09",
+            "unit": "國科會",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "利用實體三維模型重建輔助機器人手術之研究",
+            "date": "2003/08-2004/07",
+            "unit": "國科會",
+            "work": "主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "人工膝關節置換手術諮詢輔助系統",
+            "date": "2003/08-2004/07",
+            "unit": "國科會",
+            "work": "共同主持人",
+            "is_show": true
+        },
+        {
+            "project_name": "研製三維電腦模型重建之數位視覺系統",
+            "date": "2002/11-2003/07",
+            "unit": "國科會",
+            "work": "主持人",
+            "is_show": true
+        }
+    ]
+}
