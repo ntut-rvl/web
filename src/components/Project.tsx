@@ -19,7 +19,7 @@ const Project: React.FC = () => {
                 </div>
                 <div className="col-12">
                     <h5>研究計畫</h5>
-                </div>
+                </div> 
             </div>
             <div className="row">
                 <div 
@@ -29,7 +29,7 @@ const Project: React.FC = () => {
                 >
                     <Link to="/project" className="rvl-block rvl-block-btn p-sm-5 p-4">
                         <FontAwesomeIcon icon={faProjectDiagram} className="rvl-icon fa-4x mb-3" />
-                        <p className="lead"> --- </p>
+                        <p className="lead"> 計畫列表 </p>
                     </Link>
                 </div>
             </div>
