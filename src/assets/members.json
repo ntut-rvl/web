@@ -249,6 +249,26 @@
             "is_graduated": false,
             "grad": "",
             "company": ""
+        },
+         {
+            "name": "蕭宇桓",
+            "eng_name": "Yu-Huan Xiao",
+            "avatar": "Yu-Huan_Xiao.png",
+            "degree": "Master",
+            "email": "yuhuanx0819@gmail.com",
+            "is_graduated": false,
+            "grad": "",
+            "company": ""
+        },
+         {
+            "name": "張瑋倫",
+            "eng_name": "Wei-Lun Chang",
+            "avatar": "Wei-Lun_Chang.jpg",
+            "degree": "Master",
+            "email": "w2909549987@gmail.com",
+            "is_graduated": false,
+            "grad": "",
+            "company": ""
         }
     ]
 }
