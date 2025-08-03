@@ -1132,5 +1132,95 @@
         "degree": "Master",
         "statue": "友達光電",
         "thesis": null
+    },
+    {
+        "id": 127,
+        "name": "陳明躍",
+        "eng_name": "Ming-Yiao Chen",
+        "grad": 114,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 128,
+        "name": "蕭宥羽",
+        "eng_name": "Yu-Yu Hsiao",
+        "grad": 114,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 129,
+        "name": "蔡媃安",
+        "eng_name": "Jou-An Tsai",
+        "grad": 114,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 130,
+        "name": "賴靖嫺",
+        "eng_name": "Jing-Xian Lai",
+        "grad": 114,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 131,
+        "name": "魏士涵",
+        "eng_name": "Shih-Han Wei",
+        "grad": 114,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 132,
+        "name": "游婷婷",
+        "eng_name": "Ting-Ting You",
+        "grad": 114,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 133,
+        "name": "陳柏勳",
+        "eng_name": "Po-Hsun Chen",
+        "grad": 114,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 134,
+        "name": "鄭泳禎",
+        "eng_name": "Yong-Jhen Jheng",
+        "grad": 114,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 135,
+        "name": "番鈺翔",
+        "eng_name": "Yu-Hsiang Fan",
+        "grad": 114,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 136,
+        "name": "呂欣玲",
+        "eng_name": "Hsin-Ling Lu",
+        "grad": 113,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
     }
 ]
