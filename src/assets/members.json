@@ -169,6 +169,16 @@
             "is_graduated": false,
             "grad": "",
             "company": ""
+        },
+         {
+            "name": "Doan Pham Thao Nhu",
+            "eng_name": "",
+            "avatar": "Thao_Nhu.png",
+            "degree": "Master",
+            "email": "nhudpt20@gmail.com",
+            "is_graduated": false,
+            "grad": "",
+            "company": ""
         }
     ]
 }
