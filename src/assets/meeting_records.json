@@ -1,29 +1,5 @@
 {
   "data": [
-{
-      "present_date": "2025/08/06",
-      "presenter": "Munir",
-      "topic": "BEVLoc: Cross-View Localization and Matching via Birds-Eye-View Synthesis",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/08/06",
-      "presenter": "旻璇",
-      "topic": "WidthFormer: Toward Efficient Transformer-based BEV View Transformation",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/08/13",
-      "presenter": "宇廷",
-      "topic": "OmniNxt: A Fully Open-source and Compact Aerial Robot with Omnidirectional Visual Perception",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/08/13",
-      "presenter": "粲儒",
-      "topic": "Compliant Blind Handover Control for Human-Robot Collaboration",
-      "is_show": true
-    },
     {
       "present_date": "2025/08/20",
       "presenter": "淳傑",
