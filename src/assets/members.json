@@ -179,6 +179,16 @@
             "is_graduated": false,
             "grad": "",
             "company": ""
+        },
+         {
+            "name": "Jeslin Konthoujam",
+            "eng_name": "",
+            "avatar": "Jeslin.jpg",
+            "degree": "Master",
+            "email": "jeslinkonthoujam99@gmail.com",
+            "is_graduated": false,
+            "grad": "",
+            "company": ""
         }
     ]
 }
