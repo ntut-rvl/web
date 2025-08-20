@@ -1,18 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2025/08/20",
-      "presenter": "淳傑",
-      "topic": "Robot Generating Data for Learning Generalizable Visual Robotic Manipulation",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/08/20",
-      "presenter": "文文",
-      "topic": "AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird’s Eye View for Automated Valet Parking",
-      "is_show": true
-    },
-    {
       "present_date": "2025/08/27",
       "presenter": "崇瑋",
       "topic": "Gradual Receptive Expansion Using Vision Transformer for Online 3D Bin Packing",
