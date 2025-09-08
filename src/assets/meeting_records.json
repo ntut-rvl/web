@@ -1,45 +1,69 @@
 {
   "data": [
     {
-      "present_date": "2025/09/08",
+      "present_date": "2025/09/09",
       "presenter": "依庭",
       "topic": "HM3D-OVON: A Dataset and Benchmark for Open-Vocabulary Object Goal Navigation",
       "is_show": true
     },
     {
-      "present_date": "2025/09/08",
+      "present_date": "2025/09/09",
       "presenter": "Teresa",
       "topic": "A Two-Stage Reinforcement Learning Approach for Robot Navigation in Long-range Indoor Dense Crowd Environments",
       "is_show": true
     },
     {
-      "present_date": "2025/09/15",
+      "present_date": "2025/09/16",
       "presenter": "Munir",
       "topic": "Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models",
       "is_show": true
     },
     {
-      "present_date": "2025/09/15",
+      "present_date": "2025/09/16",
       "presenter": "旻璇",
       "topic": "Camera Pose Estimation from Bounding Boxes",
       "is_show": true
     },
     {
-      "present_date": "2025/09/22",
+      "present_date": "2025/09/23",
       "presenter": "宇廷",
       "topic": "An Observability Constrained Downward-Facing Optical-Flow-Aided Visual-Inertial Odometry",
       "is_show": true
     },
     {
-      "present_date": "2025/09/22",
+      "present_date": "2025/09/23",
       "presenter": "粲儒",
       "topic": "Enhanced Robotic Assistance for Human Activities through Human-Object Interaction Segment Prediction",
       "is_show": true
     },
     {
-      "present_date": "2025/09/29",
+      "present_date": "2025/09/30",
       "presenter": "淳傑",
       "topic": "PS6D: Point Cloud Based Symmetry-Aware 6D Object Pose Estimation in Robot Bin-Picking",
+      "is_show": true
+    },
+    {
+      "present_date": "2025/10/07",
+      "presenter": "文文",
+      "topic": "Adv3D: Generating 3D Adversarial Examples for 3D Object Detection in Driving Scenarios with NeRF",
+      "is_show": true
+    },
+    {
+      "present_date": "2025/10/07",
+      "presenter": "崇瑋",
+      "topic": "Automatic Image Annotation for Mapped Features Detection",
+      "is_show": true
+    },
+    {
+      "present_date": "2025/10/14",
+      "presenter": "洺緯",
+      "topic": "Large Language Models Powered Context-aware Motion Prediction in Autonomous Driving",
+      "is_show": true
+    },
+    {
+      "present_date": "2025/10/14",
+      "presenter": "依庭",
+      "topic": "DNS-SLAM: Dense Neural Semantic-Informed SLAM",
       "is_show": true
     }
   ]
