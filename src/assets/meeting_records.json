@@ -1,30 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2025/09/16",
-      "presenter": "Munir",
-      "topic": "Lang2LTL-2: Grounding Spatiotemporal Navigation Commands Using Large Language and Vision-Language Models",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/09/16",
-      "presenter": "旻璇",
-      "topic": "Camera Pose Estimation from Bounding Boxes",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/09/23",
-      "presenter": "宇廷",
-      "topic": "An Observability Constrained Downward-Facing Optical-Flow-Aided Visual-Inertial Odometry",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/09/23",
-      "presenter": "粲儒",
-      "topic": "Enhanced Robotic Assistance for Human Activities through Human-Object Interaction Segment Prediction",
-      "is_show": true
-    },
-    {
       "present_date": "2025/09/30",
       "presenter": "淳傑",
       "topic": "PS6D: Point Cloud Based Symmetry-Aware 6D Object Pose Estimation in Robot Bin-Picking",
