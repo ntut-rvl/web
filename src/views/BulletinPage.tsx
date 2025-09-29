@@ -18,7 +18,7 @@ const BulletinPage: React.FC = () => {
         const sortedRecords = MeetingRecordsData.data
             .sort((a: Record, b: Record) => new Date(a.present_date).getTime() - new Date(b.present_date).getTime())
             .filter((record: Record) => record.is_show) // 過濾出 is_show 為 true 的記錄
-            .slice(0, 10); // 取前 10 筆資料
+            .slice(0, 20); // 取前 20 筆資料
 
         setMeetingRecords(sortedRecords);
     }, []);
