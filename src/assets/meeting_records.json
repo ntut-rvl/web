@@ -1,18 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2025/10/21",
-      "presenter": "洺緯",
-      "topic": "Large Language Models Powered Context-aware Motion Prediction in Autonomous Driving",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/10/21",
-      "presenter": "依庭",
-      "topic": "DNS-SLAM: Dense Neural Semantic-Informed SLAM",
-      "is_show": true
-    },
-    {
       "present_date": "2025/10/28",
       "presenter": "Teresa",
       "topic": "DARE: Diffusion Policy for Autonomous Robot Exploration",
