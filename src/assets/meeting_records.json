@@ -1,18 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2025/11/25",
-      "presenter": "文文",
-      "topic": "Cohere3D: Exploiting Temporal Coherence for Unsupervised Representation Learning of Vision-based Autonomous Driving",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/11/25",
-      "presenter": "崇瑋",
-      "topic": "SMART: Advancing Scalable Map Priors for Driving Topology Reasoning",
-      "is_show": true
-    },
-    {
       "present_date": "2025/12/02",
       "presenter": "洺緯",
       "topic": "ZeroSCD: Zero-Shot Street Scene Change Detection",
