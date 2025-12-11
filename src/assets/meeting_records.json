@@ -1,30 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2025/12/02",
-      "presenter": "洺緯",
-      "topic": "ZeroSCD: Zero-Shot Street Scene Change Detection",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/12/02",
-      "presenter": "依庭",
-      "topic": "Commonsense Reasoning for Legged Robot Adaptation with Vision-Language Models",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/12/09",
-      "presenter": "Teresa",
-      "topic": "AirShot: Efficient Few-Shot Detection for Autonomous Exploration",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/12/09",
-      "presenter": "Munir",
-      "topic": "UASTHN: Uncertainty-Aware Deep Homography Estimation for UAV Satellite-Thermal Geo-localization",
-      "is_show": true
-    },
-    {
       "present_date": "2025/12/16",
       "presenter": "旻璇",
       "topic": "Low-rank Adaptation-based All-Weather Removal for Autonomous Navigation",
