@@ -1,30 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2025/12/16",
-      "presenter": "旻璇",
-      "topic": "Low-rank Adaptation-based All-Weather Removal for Autonomous Navigation",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/12/16",
-      "presenter": "宇廷",
-      "topic": "ZSORN: Language-driven Object-Centric Zero-Shot Object Retrieval and Navigation",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/12/23",
-      "presenter": "粲儒",
-      "topic": "Leveraging Semantic and Geometric Information for Zero-Shot Robot-to-Human Handover",
-      "is_show": true
-    },
-    {
-      "present_date": "2025/12/23",
-      "presenter": "淳傑",
-      "topic": "DISC: Dataset for Analyzing Driving Styles In Simulated Crashes for Mixed Autonomy",
-      "is_show": true
-    },
-    {
       "present_date": "2025/12/30",
       "presenter": "文文",
       "topic": "Deep Height Decoupling for Precise Vision-based 3D Occupancy Prediction",
