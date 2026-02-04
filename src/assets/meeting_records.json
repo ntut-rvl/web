@@ -1,412 +1,376 @@
 {
   "data": [
     {
-      "present_date": "2026/01/13",
-      "presenter": "Teresa",
-      "topic": "OPPA: Online Planner’s Parameter Adaptation for Enhanced Mobile Robot Navigation",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/01/13",
-      "presenter": "桂茹",
-      "topic": "Leveraging GNSS and Onboard Visual Data from Consumer Vehicles for Robust Road Network Estimation",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/01/20",
-      "presenter": "Munir",
-      "topic": "MambaGlue: Fast and Robust Local Feature Matching With Mamba",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/01/20",
-      "presenter": "新哲",
-      "topic": "Task-Oriented Pre-Training for Drivable Area Detection",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/01/27",
-      "presenter": "旻璇",
-      "topic": "OpenSU3D: Open World 3D Scene Understanding using Foundation Models",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/01/27",
-      "presenter": "汶璇",
-      "topic": "Dual-Conditioned Temporal Diffusion Modeling for Driving Scene Generation",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/02/03",
+      "present_date": "2026/02/10",
       "presenter": "宇廷",
       "topic": "GA-TEB: Goal-Adaptive Framework for Efficient Navigation Based on Goal Lines",
       "is_show": true
     },
     {
-      "present_date": "2026/02/03",
+      "present_date": "2026/02/10",
       "presenter": "騏緯",
       "topic": "LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation",
       "is_show": true
     },
-    {
-      "present_date": "2026/02/10",
-      "presenter": "粲儒",
-      "topic": "SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/02/10",
-      "presenter": "樂業",
-      "topic": "Space-Aware Instruction Tuning: Dataset and Benchmark for Guide Dog Robots Assisting the Visually Impaired",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/02/17",
-      "presenter": "淳傑",
-      "topic": "DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/02/17",
-      "presenter": "宇桓",
-      "topic": "Anomalies-by-Synthesis: Anomaly Detection using Generative Diffusion Models for Off-Road Navigation",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/02/24",
-      "presenter": "文文",
-      "topic": "Decentralized Vehicle Coordination: The Berkeley DeepDrive Drone Dataset and Consensus-Based Models",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/02/24",
-      "presenter": "瑋倫",
-      "topic": "Efficient 7-DoF Grasp for Target-driven Object in Dense Cluttered Scenes",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/03/10",
-      "presenter": "崇瑋",
-      "topic": "SCAM-P: Spatial Channel Attention Module for Panoptic Driving Perception",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/03/10",
-      "presenter": "Jeslin",
-      "topic": "Segment Any Repeated Object",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/03/17",
-      "presenter": "洺緯",
-      "topic": "One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/03/17",
-      "presenter": "Nhu",
-      "topic": "Adaptive Thresholding for Sequence-Based Place Recognition",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/03/24",
-      "presenter": "依庭",
-      "topic": "MiniVLN: Efficient Vision-and-Language Navigation by Progressive Knowledge Distillation",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/03/24",
-      "presenter": "Teresa",
-      "topic": "Run-time Observation Interventions Make Vision-Language-Action Models More Visually Robust",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/03/31",
-      "presenter": "Munir",
-      "topic": "SpatialBot: Precise Spatial Understanding with Vision Language Models",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/03/31",
-      "presenter": "桂茹",
-      "topic": "Dur360BEV: A Real-world 360-degree Single Camera Dataset and Benchmark for Bird-Eye View Mapping in Autonomous Driving",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/04/07",
-      "presenter": "旻璇",
-      "topic": "Domain Adaptation-Based Crossmodal Knowledge Distillation for 3D Semantic Segmentation",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/04/07",
-      "presenter": "新哲",
-      "topic": "Towards Robust Autonomous Driving: Conditional Multimodal Large Language Models for Fine-Grained Perception",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/04/14",
-      "presenter": "宇廷",
-      "topic": "DP-Habitat: Bridging the Gap Between Simulation and Reality for Visual Navigation in Dynamic Pedestrian Environments",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/04/14",
-      "presenter": "汶璇",
-      "topic": "A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/04/21",
-      "presenter": "粲儒",
-      "topic": "Safety and Naturalness Perceptions of Robot-to-Human Handovers Performed by Data-Driven Robotic Mimicry of Human Givers",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/04/21",
-      "presenter": "騏緯",
-      "topic": "Vision Transformers for End-to-End Vision-Based Quadrotor Obstacle Avoidance",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/04/28",
-      "presenter": "淳傑",
-      "topic": "VLN-KHVR: Knowledge-and-History Aware Visual Representation for Continuous Vision-and-Language Navigation",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/04/28",
-      "presenter": "樂業",
-      "topic": "GND: Global Navigation Dataset with Multi-Modal Perception and Multi-Category Traversability in Outdoor Campus Environments",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/05/05",
-      "presenter": "文文",
-      "topic": "WcDT: World-centric Diffusion Transformer for Traffic Scene Generation",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/05/05",
-      "presenter": "宇桓",
-      "topic": "Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/05/12",
-      "presenter": "崇瑋",
-      "topic": "METDrive: Multimodal End-to-end Autonomous Driving with Temporal Guidance",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/05/12",
-      "presenter": "瑋倫",
-      "topic": "QDGset: A Large Scale Grasping Dataset Generated with Quality-Diversity",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/05/19",
-      "presenter": "洺緯",
-      "topic": "Drive with the Flow",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/05/19",
-      "presenter": "Jeslin",
-      "topic": "Language-Guided Object Search in Agricultural Environments",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/05/26",
-      "presenter": "依庭",
-      "topic": "Target-Aware Viewpoint Generation for Active Robotic Exploration in Unknown Environments",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/05/26",
-      "presenter": "Nhu",
-      "topic": "Context Graph-based Visual-Language Place Recognition",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/06/02",
-      "presenter": "旻璇",
-      "topic": "Open-RGBT: Open-vocabulary RGB-T Zero-shot Semantic Segmentation in Open-world Environments",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/06/02",
-      "presenter": "桂茹",
-      "topic": "Ground-level Viewpoint Vision-and-Language Navigation in Continuous Environments",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/06/09",
-      "presenter": "宇廷",
-      "topic": "Topology-based Visual Active Room Segmentation",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/06/09",
-      "presenter": "新哲",
-      "topic": "ROD: RGB-Only Fast and Efficient Off-road Freespace Detection",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/06/16",
-      "presenter": "粲儒",
-      "topic": "Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/06/16",
-      "presenter": "汶璇",
-      "topic": "Map-SemNav: Advancing Zero-Shot Continuous Vision-and-Language Navigation through Visual Semantics and Map Integration",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/06/23",
-      "presenter": "淳傑",
-      "topic": "Key-Scan-Based Mobile Robot Navigation: Integrated Mapping, Planning, and Control using Graphs of Scan Regions",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/06/23",
-      "presenter": "騏緯",
-      "topic": "Safe Interval Motion Planning for Quadrotors in Dynamic Environments",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/06/30",
-      "presenter": "文文",
-      "topic": "LeAP: Consistent multi-domain 3D labeling using Foundation Models",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/06/30",
-      "presenter": "樂業",
-      "topic": "M3DSS: A Multi-platform, Multi-sensor, and Multi-scenario Dataset for SLAM System",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/07/07",
-      "presenter": "崇瑋",
-      "topic": "HGAT-CP: Heterogeneous Graph Attention Network for Collision Prediction in Autonomous Driving",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/07/07",
-      "presenter": "宇桓",
-      "topic": "CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/07/14",
-      "presenter": "洺緯",
-      "topic": "Detecting Perception-based Attacks using Visual Odometry: Inconsistency Modeling and Checking on Robotic States",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/07/14",
-      "presenter": "瑋倫",
-      "topic": "GraspSAM: When Segment Anything Model Meets Grasp Detection",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/07/21",
-      "presenter": "依庭",
-      "topic": "Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/07/21",
-      "presenter": "Jeslin",
-      "topic": "Towards Safe and Efficient Through-the-Canopy Autonomous Fruit Counting with UAVs",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/07/28",
-      "presenter": "Nhu",
-      "topic": "Robotic-CLIP: Fine-tuning CLIP on Action Data for Robotic Applications",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/07/28",
-      "presenter": "桂茹",
-      "topic": "JRN-Geo: A Joint Perception Network based on RGB and Normal images for Cross-view Geo-localization",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/08/04",
-      "presenter": "新哲",
-      "topic": "CAFE-AD: Cross-Scenario Adaptive Feature Enhancement for Trajectory Planning in Autonomous Driving",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/08/04",
-      "presenter": "汶璇",
-      "topic": "TSCLIP: Robust CLIP Fine-Tuning for Worldwide Cross-Regional Traffic Sign Recognition",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/08/11",
-      "presenter": "騏緯",
-      "topic": "Large-Scale UWB Anchor Calibration and One-Shot Localization Using Gaussian Process",
-      "is_show": true
-    },
-   {
-    "present_date": "2026/08/11",
-    "presenter": "樂業",
-    "topic": "Learning to Predict the Future from Monocular Vision for Efficient Human-aware Navigation",
-    "is_show": true
-  },
-  {
-    "present_date": "2026/08/18",
-    "presenter": "宇桓",
-    "topic": "OoDIS: Anomaly Instance Segmentation and Detection Benchmark",
-    "is_show": true
-  },
-  {
-    "present_date": "2026/08/18",
-    "presenter": "瑋倫",
-    "topic": "Generalizable Zero-Shot Object Pose Estimation for Bin-Picking",
-    "is_show": true
-  },
-  {
-    "present_date": "2026/08/25",
-    "presenter": "Jeslin",
-    "topic": "Learning Dual-Arm Coordination for Grasping Large Flat Objects",
-    "is_show": true
-  },
-  {
-    "present_date": "2026/08/25",
-    "presenter": "Nhu",
-    "topic": "PhotoBot: Reference-Guided Interactive Photography via Natural Language",
-    "is_show": true
-  },
-  {
-    "present_date": "2026/09/01",
-    "presenter": "桂茹",
-    "topic": "UA-PnP: Uncertainty-Aware End-to-End Bird’s Eye View Visual Perception and Prediction for Autonomous Driving",
-    "is_show": true
-  },
-  {
-    "present_date": "2026/09/01",
-    "presenter": "新哲",
-    "topic": "IROAM: Improving Roadside Monocular 3D Object Detection Learning from Autonomous Vehicle Data Domain",
-    "is_show": true
-  },
-  {
-    "present_date": "2026/09/08",
-    "presenter": "汶璇",
-    "topic": "Open3DTrack: Towards Open-Vocabulary 3D Multi-Object Tracking",
-    "is_show": true
-  },
-  {
-    "present_date": "2026/09/08",
-    "presenter": "騏緯",
-    "topic": "Evaluating Global Geo-alignment for Precision Learned Autonomous Vehicle Localization using Aerial Data",
-    "is_show": true
-  }
+{
+  "present_date": "2026/02/24",
+  "presenter": "粲儒",
+  "topic": "SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models",
+  "is_show": true
+},
+{
+  "present_date": "2026/02/24",
+  "presenter": "樂業",
+  "topic": "Space-Aware Instruction Tuning: Dataset and Benchmark for Guide Dog Robots Assisting the Visually Impaired",
+  "is_show": true
+},
+{
+  "present_date": "2026/03/03",
+  "presenter": "淳傑",
+  "topic": "DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving",
+  "is_show": true
+},
+{
+  "present_date": "2026/03/03",
+  "presenter": "宇桓",
+  "topic": "Anomalies-by-Synthesis: Anomaly Detection using Generative Diffusion Models for Off-Road Navigation",
+  "is_show": true
+},
+{
+  "present_date": "2026/03/10",
+  "presenter": "文文",
+  "topic": "Decentralized Vehicle Coordination: The Berkeley DeepDrive Drone Dataset and Consensus-Based Models",
+  "is_show": true
+},
+{
+  "present_date": "2026/03/10",
+  "presenter": "瑋倫",
+  "topic": "Efficient 7-DoF Grasp for Target-driven Object in Dense Cluttered Scenes",
+  "is_show": true
+},
+{
+  "present_date": "2026/03/24",
+  "presenter": "崇瑋",
+  "topic": "SCAM-P: Spatial Channel Attention Module for Panoptic Driving Perception",
+  "is_show": true
+},
+{
+  "present_date": "2026/03/24",
+  "presenter": "Jeslin",
+  "topic": "Segment Any Repeated Object",
+  "is_show": true
+},
+{
+  "present_date": "2026/03/31",
+  "presenter": "洺緯",
+  "topic": "One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation",
+  "is_show": true
+},
+{
+  "present_date": "2026/03/31",
+  "presenter": "Nhu",
+  "topic": "Adaptive Thresholding for Sequence-Based Place Recognition",
+  "is_show": true
+},
+{
+  "present_date": "2026/04/07",
+  "presenter": "依庭",
+  "topic": "MiniVLN: Efficient Vision-and-Language Navigation by Progressive Knowledge Distillation",
+  "is_show": true
+},
+{
+  "present_date": "2026/04/07",
+  "presenter": "Teresa",
+  "topic": "Run-time Observation Interventions Make Vision-Language-Action Models More Visually Robust",
+  "is_show": true
+},
+{
+  "present_date": "2026/04/14",
+  "presenter": "Munir",
+  "topic": "SpatialBot: Precise Spatial Understanding with Vision Language Models",
+  "is_show": true
+},
+{
+  "present_date": "2026/04/14",
+  "presenter": "桂茹",
+  "topic": "Dur360BEV: A Real-world 360-degree Single Camera Dataset and Benchmark for Bird-Eye View Mapping in Autonomous Driving",
+  "is_show": true
+},
+{
+  "present_date": "2026/04/21",
+  "presenter": "旻璇",
+  "topic": "Domain Adaptation-Based Crossmodal Knowledge Distillation for 3D Semantic Segmentation",
+  "is_show": true
+},
+{
+  "present_date": "2026/04/21",
+  "presenter": "新哲",
+  "topic": "Towards Robust Autonomous Driving: Conditional Multimodal Large Language Models for Fine-Grained Perception",
+  "is_show": true
+},
+{
+  "present_date": "2026/04/28",
+  "presenter": "宇廷",
+  "topic": "DP-Habitat: Bridging the Gap Between Simulation and Reality for Visual Navigation in Dynamic Pedestrian Environments",
+  "is_show": true
+},
+{
+  "present_date": "2026/04/28",
+  "presenter": "汶璇",
+  "topic": "A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation",
+  "is_show": true
+},
+{
+  "present_date": "2026/05/05",
+  "presenter": "粲儒",
+  "topic": "Safety and Naturalness Perceptions of Robot-to-Human Handovers Performed by Data-Driven Robotic Mimicry of Human Givers",
+  "is_show": true
+},
+{
+  "present_date": "2026/05/05",
+  "presenter": "騏緯",
+  "topic": "Vision Transformers for End-to-End Vision-Based Quadrotor Obstacle Avoidance",
+  "is_show": true
+},
+{
+  "present_date": "2026/05/12",
+  "presenter": "淳傑",
+  "topic": "VLN-KHVR: Knowledge-and-History Aware Visual Representation for Continuous Vision-and-Language Navigation",
+  "is_show": true
+},
+{
+  "present_date": "2026/05/12",
+  "presenter": "樂業",
+  "topic": "GND: Global Navigation Dataset with Multi-Modal Perception and Multi-Category Traversability in Outdoor Campus Environments",
+  "is_show": true
+},
+{
+  "present_date": "2026/05/19",
+  "presenter": "文文",
+  "topic": "WcDT: World-centric Diffusion Transformer for Traffic Scene Generation",
+  "is_show": true
+},
+{
+  "present_date": "2026/05/19",
+  "presenter": "宇桓",
+  "topic": "Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms",
+  "is_show": true
+},
+{
+  "present_date": "2026/05/26",
+  "presenter": "崇瑋",
+  "topic": "METDrive: Multimodal End-to-end Autonomous Driving with Temporal Guidance",
+  "is_show": true
+},
+{
+  "present_date": "2026/05/26",
+  "presenter": "瑋倫",
+  "topic": "QDGset: A Large Scale Grasping Dataset Generated with Quality-Diversity",
+  "is_show": true
+},
+{
+  "present_date": "2026/06/02",
+  "presenter": "洺緯",
+  "topic": "Drive with the Flow",
+  "is_show": true
+},
+{
+  "present_date": "2026/06/02",
+  "presenter": "Jeslin",
+  "topic": "Language-Guided Object Search in Agricultural Environments",
+  "is_show": true
+},
+{
+  "present_date": "2026/06/09",
+  "presenter": "依庭",
+  "topic": "Target-Aware Viewpoint Generation for Active Robotic Exploration in Unknown Environments",
+  "is_show": true
+},
+{
+  "present_date": "2026/06/09",
+  "presenter": "Nhu",
+  "topic": "Context Graph-based Visual-Language Place Recognition",
+  "is_show": true
+},
+{
+  "present_date": "2026/06/16",
+  "presenter": "旻璇",
+  "topic": "Open-RGBT: Open-vocabulary RGB-T Zero-shot Semantic Segmentation in Open-world Environments",
+  "is_show": true
+},
+{
+  "present_date": "2026/06/16",
+  "presenter": "桂茹",
+  "topic": "Ground-level Viewpoint Vision-and-Language Navigation in Continuous Environments",
+  "is_show": true
+},
+{
+  "present_date": "2026/06/23",
+  "presenter": "宇廷",
+  "topic": "Topology-based Visual Active Room Segmentation",
+  "is_show": true
+},
+{
+  "present_date": "2026/06/23",
+  "presenter": "新哲",
+  "topic": "ROD: RGB-Only Fast and Efficient Off-road Freespace Detection",
+  "is_show": true
+},
+{
+  "present_date": "2026/06/30",
+  "presenter": "粲儒",
+  "topic": "Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover",
+  "is_show": true
+},
+{
+  "present_date": "2026/06/30",
+  "presenter": "汶璇",
+  "topic": "Map-SemNav: Advancing Zero-Shot Continuous Vision-and-Language Navigation through Visual Semantics and Map Integration",
+  "is_show": true
+},
+{
+  "present_date": "2026/07/07",
+  "presenter": "淳傑",
+  "topic": "Key-Scan-Based Mobile Robot Navigation: Integrated Mapping, Planning, and Control using Graphs of Scan Regions",
+  "is_show": true
+},
+{
+  "present_date": "2026/07/07",
+  "presenter": "騏緯",
+  "topic": "Safe Interval Motion Planning for Quadrotors in Dynamic Environments",
+  "is_show": true
+},
+{
+  "present_date": "2026/07/14",
+  "presenter": "文文",
+  "topic": "LeAP: Consistent multi-domain 3D labeling using Foundation Models",
+  "is_show": true
+},
+{
+  "present_date": "2026/07/14",
+  "presenter": "樂業",
+  "topic": "M3DSS: A Multi-platform, Multi-sensor, and Multi-scenario Dataset for SLAM System",
+  "is_show": true
+},
+{
+  "present_date": "2026/07/21",
+  "presenter": "崇瑋",
+  "topic": "HGAT-CP: Heterogeneous Graph Attention Network for Collision Prediction in Autonomous Driving",
+  "is_show": true
+},
+{
+  "present_date": "2026/07/21",
+  "presenter": "宇桓",
+  "topic": "CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera",
+  "is_show": true
+},
+{
+  "present_date": "2026/07/28",
+  "presenter": "洺緯",
+  "topic": "Detecting Perception-based Attacks using Visual Odometry: Inconsistency Modeling and Checking on Robotic States",
+  "is_show": true
+},
+{
+  "present_date": "2026/07/28",
+  "presenter": "瑋倫",
+  "topic": "GraspSAM: When Segment Anything Model Meets Grasp Detection",
+  "is_show": true
+},
+{
+  "present_date": "2026/08/04",
+  "presenter": "依庭",
+  "topic": "Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs",
+  "is_show": true
+},
+{
+  "present_date": "2026/08/04",
+  "presenter": "Jeslin",
+  "topic": "Towards Safe and Efficient Through-the-Canopy Autonomous Fruit Counting with UAVs",
+  "is_show": true
+},
+{
+  "present_date": "2026/08/11",
+  "presenter": "Nhu",
+  "topic": "Robotic-CLIP: Fine-tuning CLIP on Action Data for Robotic Applications",
+  "is_show": true
+},
+{
+  "present_date": "2026/08/11",
+  "presenter": "桂茹",
+  "topic": "JRN-Geo: A Joint Perception Network based on RGB and Normal images for Cross-view Geo-localization",
+  "is_show": true
+},
+{
+  "present_date": "2026/08/18",
+  "presenter": "新哲",
+  "topic": "CAFE-AD: Cross-Scenario Adaptive Feature Enhancement for Trajectory Planning in Autonomous Driving",
+  "is_show": true
+},
+{
+  "present_date": "2026/08/18",
+  "presenter": "汶璇",
+  "topic": "TSCLIP: Robust CLIP Fine-Tuning for Worldwide Cross-Regional Traffic Sign Recognition",
+  "is_show": true
+},
+{
+  "present_date": "2026/08/25",
+  "presenter": "騏緯",
+  "topic": "Large-Scale UWB Anchor Calibration and One-Shot Localization Using Gaussian Process",
+  "is_show": true
+},
+{
+  "present_date": "2026/08/25",
+  "presenter": "樂業",
+  "topic": "Learning to Predict the Future from Monocular Vision for Efficient Human-aware Navigation",
+  "is_show": true
+},
+{
+  "present_date": "2026/09/01",
+  "presenter": "宇桓",
+  "topic": "OoDIS: Anomaly Instance Segmentation and Detection Benchmark",
+  "is_show": true
+},
+{
+  "present_date": "2026/09/01",
+  "presenter": "瑋倫",
+  "topic": "Generalizable Zero-Shot Object Pose Estimation for Bin-Picking",
+  "is_show": true
+},
+{
+  "present_date": "2026/09/08",
+  "presenter": "Jeslin",
+  "topic": "Learning Dual-Arm Coordination for Grasping Large Flat Objects",
+  "is_show": true
+},
+{
+  "present_date": "2026/09/08",
+  "presenter": "Nhu",
+  "topic": "PhotoBot: Reference-Guided Interactive Photography via Natural Language",
+  "is_show": true
+},
+{
+  "present_date": "2026/09/15",
+  "presenter": "桂茹",
+  "topic": "UA-PnP: Uncertainty-Aware End-to-End Bird’s Eye View Visual Perception and Prediction for Autonomous Driving",
+  "is_show": true
+},
+{
+  "present_date": "2026/09/15",
+  "presenter": "新哲",
+  "topic": "IROAM: Improving Roadside Monocular 3D Object Detection Learning from Autonomous Vehicle Data Domain",
+  "is_show": true
+},
+{
+  "present_date": "2026/09/22",
+  "presenter": "汶璇",
+  "topic": "Open3DTrack: Towards Open-Vocabulary 3D Multi-Object Tracking",
+  "is_show": true
+},
+{
+  "present_date": "2026/09/22",
+  "presenter": "騏緯",
+  "topic": "Evaluating Global Geo-alignment for Precision Learned Autonomous Vehicle Localization using Aerial Data",
+  "is_show": true
+}
   ]
 }
