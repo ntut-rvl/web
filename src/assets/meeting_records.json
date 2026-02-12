@@ -1,21 +1,9 @@
 {
   "data": [
-    {
-      "present_date": "2026/02/10",
-      "presenter": "宇廷",
-      "topic": "GA-TEB: Goal-Adaptive Framework for Efficient Navigation Based on Goal Lines",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/02/10",
-      "presenter": "騏緯",
-      "topic": "LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation",
-      "is_show": true
-    },
    {
   "present_date": "2026/02/24",
-  "presenter": "粲儒",
-  "topic": "SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models",
+  "presenter": "淳傑",
+  "topic": "DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving",
   "is_show": true
 },
 {
@@ -26,8 +14,8 @@
 },
 {
   "present_date": "2026/03/03",
-  "presenter": "淳傑",
-  "topic": "DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving",
+  "presenter": "粲儒",
+  "topic": "SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models",
   "is_show": true
 },
 {
