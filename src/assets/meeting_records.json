@@ -1,30 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2026/02/23",
-      "presenter": "淳傑",
-      "topic": "DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/02/23",
-      "presenter": "樂業",
-      "topic": "Space-Aware Instruction Tuning: Dataset and Benchmark for Guide Dog Robots Assisting the Visually Impaired",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/03/02",
-      "presenter": "粲儒",
-      "topic": "SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/03/02",
-      "presenter": "宇桓",
-      "topic": "Anomalies-by-Synthesis: Anomaly Detection using Generative Diffusion Models for Off-Road Navigation",
-      "is_show": true
-    },
-    {
       "present_date": "2026/03/09",
       "presenter": "文文",
       "topic": "Decentralized Vehicle Coordination: The Berkeley DeepDrive Drone Dataset and Consensus-Based Models",
