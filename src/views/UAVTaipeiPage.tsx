@@ -31,6 +31,11 @@ const UAVTaipeiPage: React.FC = () => {
 
     return (
         <>
+            <Helmet>
+                <title>UAV Taipei 資料集 | 機器人視覺實驗室</title>
+                <meta name="description" content="UAV Taipei 用於無人機戶外視覺定位資料集，來自台灣台北地區包含無人機以及衛星影像。" />
+            </Helmet>
+            
             <section className="rvl-section rvl-bg-gray rvl-slant rvl-slant-white">
                 <div className="container">
                     <div 
