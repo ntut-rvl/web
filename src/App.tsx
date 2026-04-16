@@ -18,6 +18,7 @@ import ResearchDocumentImageAnalysisPage from './views/ResearchDocumentImageAnal
 import ResearchReconstructionPage from './views/ResearchReconstructionPage';
 import HueiyungPage from './views/HueiyungPage';
 import ProjectPage from './views/ProjectPage';
+import DatasetPage_UAV_Taipei from './views/UAVTaipeiPage';
 
 function App() {
 
@@ -40,6 +41,7 @@ function App() {
                         <Route path='/research/reconstruct' element={<ResearchReconstructionPage />} />
                         <Route path='/course/differential_equations' element={<CourseDifferentialEquations />} />
                         <Route path="/project" element={<ProjectPage />} />
+                        <Route path="/dataset_UAV_Taipei" element={<DatasetPage_UAV_Taipei />} />
                     </Routes>
                 </Layout>
             </Router>
