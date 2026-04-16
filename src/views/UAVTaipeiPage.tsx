@@ -31,24 +31,6 @@ const UAVTaipeiPage: React.FC = () => {
 
     return (
         <>
-            <Helmet>
-                <title>UAV Taipei 資料集 | 機器人視覺實驗室</title>
-                <meta name="description" content="UAV Taipei 用於無人機戶外視覺定位資料集，來自台灣台北地區包含無人機以及衛星影像。" />
-            </Helmet>
-
-            <section className="rvl-home rvl-slant rvl-slant-gray" id="home">
-                <div className="container">
-                    <div className="row">
-                        <div className="col-12 d-flex flex-column justify-content-center align-items-center text-center rvl-vh-100">
-                            <img className="rvl-logo mb-2" src="/img/rvl_logo.png" alt="RVL Logo" />
-                            <h1 className="rvl-heading rvl-animate mb-0">Robot Vision Lab</h1>
-                            <h5 className="rvl-subheading rvl-animate">機器人視覺實驗室</h5>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            {/* 資料集列表區塊 */}
             <section className="rvl-section rvl-bg-gray rvl-slant rvl-slant-white">
                 <div className="container">
                     <div 
