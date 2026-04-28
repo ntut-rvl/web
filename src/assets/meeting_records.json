@@ -1,30 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2026/04/20",
-      "presenter": "旻璇",
-      "topic": "Domain Adaptation-Based Crossmodal Knowledge Distillation for 3D Semantic Segmentation",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/04/20",
-      "presenter": "新哲",
-      "topic": "Towards Robust Autonomous Driving: Conditional Multimodal Large Language Models for Fine-Grained Perception",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/04/27",
-      "presenter": "宇廷",
-      "topic": "DP-Habitat: Bridging the Gap Between Simulation and Reality for Visual Navigation in Dynamic Pedestrian Environments",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/04/27",
-      "presenter": "汶璇",
-      "topic": "A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation",
-      "is_show": true
-    },
-    {
       "present_date": "2026/05/04",
       "presenter": "粲儒",
       "topic": "Safety and Naturalness Perceptions of Robot-to-Human Handovers Performed by Data-Driven Robotic Mimicry of Human Givers",
