@@ -1,18 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2026/05/11",
-      "presenter": "淳傑",
-      "topic": "VLN-KHVR: Knowledge-and-History Aware Visual Representation for Continuous Vision-and-Language Navigation",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/05/11",
-      "presenter": "樂業",
-      "topic": "GND: Global Navigation Dataset with Multi-Modal Perception and Multi-Category Traversability in Outdoor Campus Environments",
-      "is_show": true
-    },
-    {
       "present_date": "2026/05/18",
       "presenter": "文文",
       "topic": "WcDT: World-centric Diffusion Transformer for Traffic Scene Generation",
