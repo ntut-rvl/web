@@ -1135,6 +1135,15 @@
     },
     {
         "id": 127,
+        "name": "張資芳",
+        "eng_name": "",
+        "grad": 113,
+        "degree": "Master",
+        "statue": "北爾電子",
+        "thesis": null
+    },
+    {
+        "id": 128,
         "name": "陳明躍",
         "eng_name": "Ming-Yiao Chen",
         "grad": 114,
@@ -1143,7 +1152,7 @@
         "thesis": null
     },
     {
-        "id": 128,
+        "id": 129,
         "name": "蕭宥羽",
         "eng_name": "Yu-Yu Hsiao",
         "grad": 114,
@@ -1152,7 +1161,7 @@
         "thesis": null
     },
     {
-        "id": 129,
+        "id": 130,
         "name": "蔡媃安",
         "eng_name": "Jou-An Tsai",
         "grad": 114,
@@ -1161,7 +1170,7 @@
         "thesis": null
     },
     {
-        "id": 130,
+        "id": 131,
         "name": "賴靖嫺",
         "eng_name": "Jing-Xian Lai",
         "grad": 114,
@@ -1170,7 +1179,7 @@
         "thesis": null
     },
     {
-        "id": 131,
+        "id": 132,
         "name": "魏士涵",
         "eng_name": "Shih-Han Wei",
         "grad": 114,
@@ -1179,7 +1188,7 @@
         "thesis": null
     },
     {
-        "id": 132,
+        "id": 133,
         "name": "游婷婷",
         "eng_name": "Ting-Ting You",
         "grad": 114,
@@ -1188,7 +1197,7 @@
         "thesis": null
     },
     {
-        "id": 133,
+        "id": 134,
         "name": "陳柏勳",
         "eng_name": "Pao-Hsun Chen",
         "grad": 114,
@@ -1197,7 +1206,7 @@
         "thesis": null
     },
     {
-        "id": 134,
+        "id": 135,
         "name": "鄭泳禎",
         "eng_name": "Yong-Jhen Jheng",
         "grad": 114,
@@ -1206,7 +1215,7 @@
         "thesis": null
     },
     {
-        "id": 135,
+        "id": 136,
         "name": "番鈺翔",
         "eng_name": "Yu-Hsiang Fan",
         "grad": 114,
@@ -1215,7 +1224,7 @@
         "thesis": null
     },
     {
-        "id": 136,
+        "id": 137,
         "name": "呂欣玲",
         "eng_name": "Hsin-Ling Lu",
         "grad": 114,
@@ -1224,7 +1233,7 @@
         "thesis": null
     },
     {
-        "id": 137,
+        "id": 138,
         "name": "方崇瑋",
         "eng_name": "Chung-Wei Fang",
         "grad": 115,
@@ -1233,7 +1242,7 @@
         "thesis": null
     },
     {
-        "id": 138,
+        "id": 139,
         "name": "莊淳傑",
         "eng_name": "Chun-Jie Zhuang",
         "grad": 115,
@@ -1242,7 +1251,7 @@
         "thesis": null
     },
     {
-        "id": 139,
+        "id": 140,
         "name": "蘇洺緯",
         "eng_name": "Ming-Wei Su",
         "grad": 115,
@@ -1251,7 +1260,7 @@
         "thesis": null
     },
     {
-        "id": 140,
+        "id": 141,
         "name": "李旻璇",
         "eng_name": "Min-Hsuan Lee",
         "grad": 115,
@@ -1260,7 +1269,7 @@
         "thesis": null
     },
     {
-        "id": 141,
+        "id": 142,
         "name": "林粲儒",
         "eng_name": "Tsan-Ru Lin",
         "grad": 115,
@@ -1269,7 +1278,7 @@
         "thesis": null
     },
     {
-        "id": 142,
+        "id": 143,
         "name": "鄭宇廷",
         "eng_name": "Yu-Ting Cheng",
         "grad": 115,
@@ -1278,7 +1287,7 @@
         "thesis": null
     },
     {
-        "id": 143,
+        "id": 144,
         "name": "李依庭",
         "eng_name": "I-Ting Lee",
         "grad": 115,
@@ -1287,7 +1296,7 @@
         "thesis": null
     },
     {
-        "id": 144,
+        "id": 145,
         "name": "林文文",
         "eng_name": "Wen-Wen Lin",
         "grad": 115,
