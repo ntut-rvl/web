@@ -1222,5 +1222,77 @@
         "degree": "Master",
         "statue": "華碩",
         "thesis": null
+    },
+    {
+        "id": 137,
+        "name": "方崇瑋",
+        "eng_name": "Chung-Wei Fang",
+        "grad": 115,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 138,
+        "name": "莊淳傑",
+        "eng_name": "Chun-Jie Zhuang",
+        "grad": 115,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 139,
+        "name": "蘇洺緯",
+        "eng_name": "Ming-Wei Su",
+        "grad": 115,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 140,
+        "name": "李旻璇",
+        "eng_name": "Min-Hsuan Lee",
+        "grad": 115,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 141,
+        "name": "林粲儒",
+        "eng_name": "Tsan-Ru Lin",
+        "grad": 115,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 142,
+        "name": "鄭宇廷",
+        "eng_name": "Yu-Ting Cheng",
+        "grad": 115,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 143,
+        "name": "李依庭",
+        "eng_name": "I-Ting Lee",
+        "grad": 115,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
+    },
+    {
+        "id": 144,
+        "name": "林文文",
+        "eng_name": "Wen-Wen Lin",
+        "grad": 115,
+        "degree": "Master",
+        "statue": null,
+        "thesis": null
     }
 ]
