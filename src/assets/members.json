@@ -109,7 +109,7 @@
             "is_graduated": false,
             "grad": "",
             "company": ""
-        }
+        },
         {
             "name": "徐浩哲",
             "eng_name": "Hao-Che Hsu",
@@ -119,7 +119,7 @@
             "is_graduated": false,
             "grad": "",
             "company": ""
-        }
+        },
         {
             "name": "陳奐宇",
             "eng_name": "Huan-Yu Chen",
@@ -129,13 +129,23 @@
             "is_graduated": false,
             "grad": "",
             "company": ""
-        }
+        },
         {
             "name": "高鈺婷",
             "eng_name": "Yu-Ting Kao",
             "avatar": "Yu-Ting_Kao.jpg",
             "degree": "Master",
             "email": "elmwu930827@gmail.com",
+            "is_graduated": false,
+            "grad": "",
+            "company": ""
+        },
+        {
+            "name": "Quang-Chien TA",
+            "eng_name": "",
+            "avatar": " Wangchinn.t.jpg",
+            "degree": "Master",
+            "email": "wangchinn.t@gmail.com",
             "is_graduated": false,
             "grad": "",
             "company": ""
