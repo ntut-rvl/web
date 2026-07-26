@@ -149,6 +149,26 @@
             "is_graduated": false,
             "grad": "",
             "company": ""
+        },
+        {
+            "name": "陳玟君",
+            "eng_name": "Wen-Chun Chen",
+            "avatar": "Wen-Chun_Chen.jpg",
+            "degree": "Master",
+            "email": "wen.chen553736@gmail.com",
+            "is_graduated": false,
+            "grad": "",
+            "company": ""
+        },
+        {
+            "name": "許崴婷",
+            "eng_name": "Wei-Ting_Hsu",
+            "avatar": "Wei-Ting_Hsu.jpg",
+            "degree": "Master",
+            "email": "tina.hsu0816@gmail.com",
+            "is_graduated": false,
+            "grad": "",
+            "company": ""
         }
     ]
 }
