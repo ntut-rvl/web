@@ -162,10 +162,30 @@
         },
         {
             "name": "許崴婷",
-            "eng_name": "Wei-Ting_Hsu",
+            "eng_name": "Wei-Ting Hsu",
             "avatar": "Wei-Ting_Hsu.jpg",
             "degree": "Master",
             "email": "tina.hsu0816@gmail.com",
+            "is_graduated": false,
+            "grad": "",
+            "company": ""
+        },
+        {
+            "name": "鄭尼可",
+            "eng_name": "Nicholas Cheng",
+            "avatar": "Nicholas_Cheng.jpg",
+            "degree": "Master",
+            "email": "nicklas0326@gmail.com",
+            "is_graduated": false,
+            "grad": "",
+            "company": ""
+        },
+        {
+            "name": "張娟綺",
+            "eng_name": "Chuan-Chi Chang",
+            "avatar": "Chuan-Chi_Chang.jpeg",
+            "degree": "Master",
+            "email": "ella920911@gmail.com",
             "is_graduated": false,
             "grad": "",
             "company": ""
