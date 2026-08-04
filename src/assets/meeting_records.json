@@ -1,30 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2026/07/27",
-      "presenter": "新哲",
-      "topic": "CAFE-AD: Cross-Scenario Adaptive Feature Enhancement for Trajectory Planning in Autonomous Driving",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/07/27",
-      "presenter": "汶璇",
-      "topic": "TSCLIP: Robust CLIP Fine-Tuning for Worldwide Cross-Regional Traffic Sign Recognition",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/08/03",
-      "presenter": "騏緯",
-      "topic": "Large-Scale UWB Anchor Calibration and One-Shot Localization Using Gaussian Process",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/08/03",
-      "presenter": "樂業",
-      "topic": "Learning to Predict the Future from Monocular Vision for Efficient Human-aware Navigation",
-      "is_show": true
-    },
-    {
       "present_date": "2026/08/10",
       "presenter": "宇桓",
       "topic": "OoDIS: Anomaly Instance Segmentation and Detection Benchmark",
