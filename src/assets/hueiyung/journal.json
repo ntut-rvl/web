@@ -3,6 +3,21 @@
         {
             "authors": [
                 "H. Y. Lin",
+                "Y. H. Huang",
+                "P. H. Kuo",
+                "A. Liu",
+                "C. C. Chang"
+            ],
+            "title": "Enhancing Gaze Estimation Using Dilated CNN Architectures with Transfer Learning",
+            "journal": "Journal of the Chinese Institute of Engineers",
+            "volume": null,
+            "issue": null,
+            "pages": null,
+            "date": "Aug. 2026"
+        },
+        {
+            "authors": [
+                "H. Y. Lin",
                 "Y. C. Chen"
             ],
             "title": "Traffic Light Detection using Ensemble Learning by Boosting with Color-Based Data Augmentation",
