@@ -49,6 +49,7 @@ const UAVTaipeiPage: React.FC = () => {
                         <div className="col-12">
                             <h3 className="mb-4">UAV Taipei</h3>
                             <p>Click the dataset name to download. If the download does not start, please copy and paste the link into your browser.</p>
+                            <p>This dataset is for research purposes only. Please contact the administrator to obtain the username and password.(0976925501wenshen@gmail.com)</p>
                         </div>
                     </div>
 
