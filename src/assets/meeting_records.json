@@ -1,30 +1,6 @@
 {
   "data": [
     {
-      "present_date": "2026/11/09",
-      "presenter": "Nhu",
-      "topic": "SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/11/09",
-      "presenter": "桂茹",
-      "topic": "Roadside GNSS Aided Multi-Sensor Integrated System for Vehicle Positioning in Urban Areas",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/11/16",
-      "presenter": "新哲",
-      "topic": "Annotation-Free Curb Detection Leveraging Altitude Difference Image",
-      "is_show": true
-    },
-    {
-      "present_date": "2026/11/16",
-      "presenter": "汶璇",
-      "topic": "FIELD: Fast Information-driven Autonomous Exploration using Larger Perception Distance",
-      "is_show": true
-    },
-    {
       "present_date": "2026/11/23",
       "presenter": "騏緯",
       "topic": "Arena-Bench 2.0: A Comprehensive Benchmark of Social Navigation Approaches in Collaborative Environments",
